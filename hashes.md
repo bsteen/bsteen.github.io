@@ -19,6 +19,7 @@ I make no guarantee the entires below are 100% accurate to the source media. The
 | SimCity 3000.iso | `496261120` | `1ea4ae19`  | `594fd095afbd56e9f1d8ce31eb2c46c9534d15e2bdbdf4321a39c6572fa81a71` |
 
 ## Sony Playstation 1 (PS1) Games
+
 | File| Size (B) | CRC-32 | SHA-256 |
 |---|:---:|---|---|
 | Chrono Cross (Disk 1) (Greatest Hits).bin | `736651104` | `a07898cc`  | `01a0716ed46b6bce7717be1f9220f9bf323cee52404c9cd7fd4ef747d41a98da` |
