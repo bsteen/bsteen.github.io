@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+
+	<title>Soundboard</title>
+	<link rel='icon' href='favicon.ico' type='image/x-icon'/>
+	<style>
+		body
+		{
+			background-color: #2d2f34;
+			margin: 0;
+			overflow-x: hidden;	 /* Disable the horizontal scroll bar */
+		}
+		font, h1
+		{
+			color: white;
+		}
+		div
+		{
+			text-align: center;
+			font-family: "Courier New", Courier, monospace;
+		}
+		table, td
+		{
+			margin-left: auto;
+			margin-right: auto;
+			border: 2px solid black;
+			border-collapse: collapse;
+			padding: 6px;
+			font-size: 1.8em;
+		}
+		td:hover
+		{
+			/* When you hover over a sound board button, it will change to this color */
+			background-color:#5c5c5c
+		}
+		#toasty-container
+		{
+			/* Will also constrains size of image in side the container */
+			width: 200px;
+  			height: 204px;
+			position: relative;
+			float: right;
+			background-color: transparent;
+		}
+	</style>
+</head>
+
+<audio id="bonk" src="bonk.mp3"></audio>
+<audio id="boing" src="boing.ogg"></audio>
+<audio id="bruh" src="bruh.mp3"></audio>
+<audio id="byeah" src="byeah.mp3"></audio>
+<audio id="ccc" src="ccc.mp3"></audio>
+<audio id="dial" src="dial tones.mp3"></audio>
+<audio id="do it" src="do it.mp3"></audio>
+<audio id="homerun" src="homerun.mp3"></audio>
+<audio id="hoo" src="hoo.mp3"></audio>
+<audio id="kill jesta" src="kill jesta.mp3"></audio>
+<audio id="nope" src="nope.mp3"></audio>
+<audio id="oof" src="oof.mp3"></audio>
+<audio id="oh no" src="oh no.mp3"></audio>
+<audio id="oh" src="oh.mp3"></audio>
+<audio id="omg" src="omg.mp3"></audio>
+<audio id="tim" src="tim.mp3"></audio>
+<audio id="todd" src="todd.mp3"></audio>
+<audio id="very cool" src="very cool.mp3"></audio>
+<audio id="wilhelm" src="wilhelm.mp3"></audio>
+<audio id="johnny test" src="johnny test.mp3"></audio>
+<audio id="jobsdone" src="Jobs Done.mp3"></audio>
+<audio id="lose" src="lose.mp3"></audio>
+<audio id="record" src="record scratch.mp3"></audio>
+<audio id="slide" src="slide.mp3"></audio>
+<audio id="thankyou" src="thankyou.mp3"></audio>
+<audio id="toasty" src="toasty.mp3"></audio>
+<audio id="vase" src="vase.mp3"></audio>
+<audio id="uhoh" src="UH OH.mp3"></audio>
+<audio id="wrong" src="wrong.mp3"></audio>
+<audio id="wuh happun" src="wuh happun.mp3"></audio>
+<audio id="fun" src="fun.mp3"></audio>
+<audio id="yeah" src="yeah.mp3"></audio>
+
+<body>
+	<div>
+		<h1 onclick="document.getElementById('wuh happun').play()">Soundboard</h1>
+	</div>
+
+	<div id="soundboard" onselectstart="return false"><!--Makes the text unselectable-->
+		<table>
+			<tr>
+				<td onclick="document.getElementById('bonk').play()">BONK</td>
+				<td onclick="document.getElementById('boing').play()">boing</td>
+				<td onclick="document.getElementById('homerun').play()">&#x1f3cf</td>
+				<td onclick="document.getElementById('lose').play()">Lose</td>
+				<td onclick="document.getElementById('oh no').play()">OH NO</td>
+			</tr>
+			<tr>
+				<td onclick="document.getElementById('bruh').play()">bruh</td>
+				<td onclick="document.getElementById('omg').play()">OMG</td>
+				<td onclick="document.getElementById('oh').play()">Oh</td>
+				<td onclick="document.getElementById('wrong').play()">wrong</td>
+				<td onclick="document.getElementById('fun').play()">fun</td>
+			</tr>
+			<tr>
+				<td onclick="document.getElementById('record').play()">holup</td>
+				<td onclick="document.getElementById('vase').play()">&#x26B1</td>
+				<td onclick="document.getElementById('slide').play()">slide</td>
+				<td onclick="document.getElementById('kill jesta').play()">&#x1F921</td>
+				<td onclick="document.getElementById('nope').play()">Nope</td>
+			</tr>
+			<tr>
+				<td onclick="document.getElementById('oof').play()">oof</td>
+				<td onclick="document.getElementById('uhoh').play()">Uh Oh</td>
+				<td onclick="document.getElementById('wilhelm').play()">Wilhelm</td>
+				<td onclick="document.getElementById('johnny test').play()">test</td>
+				<td onclick="document.getElementById('byeah').play()">byeah</td>
+			</tr>
+			<tr>
+				<td onclick="document.getElementById('ccc').play()">CCC</td>
+				<td onclick="document.getElementById('dial').play()">&#x1f4f1</td>
+				<td onclick="document.getElementById('tim').play()">Tim</td>
+				<td onclick="document.getElementById('do it').play()">Do it</td>
+				<td onclick="document.getElementById('hoo').play()">HOO</td>
+			</tr>
+			<tr>
+				<td onclick="document.getElementById('jobsdone').play()">Job's done</td>
+				<td onclick="document.getElementById('yeah').play()">yeah</td>
+				<td onclick="document.getElementById('thankyou').play()">THANK YOU</td>
+				<td onclick="document.getElementById('todd').play()">Buy it</td>
+				<td onclick="toasty_animate();">&#x1f35e</td>
+			</tr>
+			<tr>
+				<td onclick="document.getElementById('very cool').play()">Very cool</td>
+				<!-- <td onclick="document.getElementById('').play()"></td> -->
+			</tr>
+		</table>
+	</div>
+
+	<script>
+		/* JS code for toasty animation */
+		function toasty_animate()
+		{
+			var container = document.getElementById("toasty-container");
+			document.getElementById("animation").src= ""; 								// Reset the animation
+			document.getElementById("animation").src= "toasty.gif";
+			container.style.visibility = "visible";										// Make container visible
+			setTimeout(function(){document.getElementById('toasty').play();}, 290);		// Wait to play sound
+			setTimeout(function(){container.style.visibility = "visible";}, 980);		// Make container invisible
+		}
+	</script>
+
+	<div id="toasty-container" style="visibility:hidden;">
+		<img id="animation" src="" style="width:100%; height:100%;">
+	</div>
+</body>
+</html>
