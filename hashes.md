@@ -19,7 +19,10 @@ I make no guarantee the entires below are 100% accurate to the source media. The
 | SimCity 3000.iso | `496261120` | `1ea4ae19`  | `594fd095afbd56e9f1d8ce31eb2c46c9534d15e2bdbdf4321a39c6572fa81a71` |
 
 ## Sony Playstation 1 (PS1) Games
-Coming soon...
+| Chrono Cross (Disc 2) (Greatest Hits).bin | `741797280` | `c7f6ab73`  | `e01c2367204f4d60a92011d4314ddad8db166f9211bdabb16cbf22d33e577899` |
+| Chrono Cross (Disc 2) (Greatest Hits).cue | `87` | `58eb6da9`  | `fdb1a7f5ad360221d0273d3081b9bda576e6ffbc0fc09017ca24cffb310cda12` |
+| Chrono Cross (Disk 1) (Greatest Hits).bin | `736651104` | `a07898cc`  | `01a0716ed46b6bce7717be1f9220f9bf323cee52404c9cd7fd4ef747d41a98da` |
+| Chrono Cross (Disk 1) (Greatest Hits).cue | `70` | `692dc272`  | `a0ab88a6fe29ef78a794f077ca92ea6f0efa9a8a1c9d8dd5d006f2168ef33899` |
 
 ## Sony Playstation 2 (PS2) Games
 Coming soon...
