@@ -1,6 +1,6 @@
 # File Hashes
-This is a list of file hashes for media I own and have backed up. Use these hashes for your own verification or comparison.
-I make no guarantee the entires below are 100% accurate to the source media. These represent the results I got. Tables were generated with this [script](https://github.com/bsteen/simple-scripts/blob/master/hashmd.sh).
+This is a list of file hashes for media I own and have backed up. You can use these hashes for your own verification or comparison.
+I make no guarantee the entires below are 100% accurate to the source media. These represent the results I got from the media I own. The file hash tables were generated with this [script](https://github.com/bsteen/simple-scripts/blob/master/hashmd.sh).
 
 ## PC Games
 
