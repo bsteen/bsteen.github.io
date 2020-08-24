@@ -1,6 +1,5 @@
-A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent.   
-If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2019-10-8
+A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
+Last updated: 2020-8-24
 
 # White Papers and Reports:
 * FUZZIFICATION: Anti-Fuzzing Techniques (2019): <https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf>
