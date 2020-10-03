@@ -21,5 +21,5 @@
 * UD RockSat-C 2018 Pictures (coming soon)
 * Evans Hall server room end-of-life pictures (coming soon)
 
-# Copyright Notice for Site
+# Copyright Notice
 **© 2019 - 2020 Benjamin Steenkamer.**
