@@ -22,15 +22,15 @@ Last updated: 2020-11-7
 	* Excerpts from this paper: <https://urbigenous.net/library/WIPP/>
 
 # Videos:
-* Semiconductor Security Awareness, Today and Yesterday - Black Hat USA 2010: <https://www.youtube.com/watch?v=WXX00tRKOlw>
+* Semiconductor Security Awareness, Today and Yesterday - Christopher Tarnovsky, Black Hat USA 2010: <https://www.youtube.com/watch?v=WXX00tRKOlw>
 * How The NES Conquered A Skeptical America In 1985 - Ars Technica (2020): <https://www.youtube.com/watch?v=Sn5v09L_uDg>
-* "Uptime 15,364 days - The Computers of Voyager" by Aaron Cummings (2019): <https://www.youtube.com/watch?v=H62hZJVqs2o>
+* "Uptime 15,364 days - The Computers of Voyager" - Aaron Cummings Strange Loops 2019: <https://www.youtube.com/watch?v=H62hZJVqs2o>
 * Tektronix Printed Circuit Boards (1969): <https://www.youtube.com/watch?v=7weZ0TNRcuw>
-* Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi (2017): <https://www.youtube.com/watch?v=QyMsF31NdNc>
+* Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi CDC 2017: <https://www.youtube.com/watch?v=QyMsF31NdNc>
 * Dwarf Fortress Live - PAX West 2019: <https://www.youtube.com/watch?v=WW_dHPtC2wg>
-* Tales from Hardware Security Research (2019): <https://www.youtube.com/watch?v=WqAHCpe8Oxw>
-* From DC to RF...starting where? (2019): <https://www.youtube.com/watch?v=CFr-_p1UwHI>
-* Fomu - an FPGA inside your USB port (2019): <https://www.youtube.com/watch?v=rBfC-oxvaqM>
+* Tales from Hardware Security Research - Johannes and Marc, CCC 2019: <https://www.youtube.com/watch?v=WqAHCpe8Oxw>
+* From DC to RF...starting where? - Chris Gammell, CCC 2019: <https://www.youtube.com/watch?v=CFr-_p1UwHI>
+* Fomu - an FPGA inside your USB port - Tim Ansell and Sean Cross, CCC 2019: <https://www.youtube.com/watch?v=rBfC-oxvaqM>
 * AT&T Archives: Principles of the Optical Maser (1963): <https://www.youtube.com/watch?v=vuORqMb481k>
 * AT&T Archives: Invention of the First Electric Computer (1980): <https://www.youtube.com/watch?v=a4bhZYoY3lo>
 * AT&T Archives: Communications Satellites Documentary (1987): <https://www.youtube.com/watch?v=3tsDqlnP0Xw>
@@ -40,19 +40,19 @@ Last updated: 2020-11-7
 * AT&T Archives: Crystal Growth Morphologies, a 1974 microscopic film study from Bell Laboratories: <https://www.youtube.com/watch?v=Y3GwvN5W1dE>
 * The Transistor: a 1953 documentary, anticipating its coming impact on technology: <https://www.youtube.com/watch?v=V9xUQWo4vN0>
 * GDDR6 - HBM2 Tradeoffs (2019): <https://www.youtube.com/watch?v=J66R3GlzMZY>
-* How NOT to Measure Latency - Gil Tene (2015): <https://www.youtube.com/watch?v=lJ8ydIuPFeU>
-* The Bits Between the Bits: How We Get to main() - Matt Godbolt (2018): <https://www.youtube.com/watch?v=dOfucXtyEsU>
-* What Else Has My Compiler Done For Me Lately? - Matt Godbolt (2018): <https://www.youtube.com/watch?v=nAbCKa0FzjQ>
-* What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid - Matt Godbolt (2017): <https://www.youtube.com/watch?v=bSkpMdDe4g4>
-* Lightening fast CTF solving - Automatic Exploit Generation & Side Channel Analysis (2018): <https://www.youtube.com/watch?v=-4goiRPcxl4>
-* Why memory is a hard problem in modern computer architectures - Felix Held (2018): <https://www.youtube.com/watch?v=NK1jYTYVh1U>
-* Cache Side Channels: State of the Art and Research Opportunities - Yinqian Zhang (2017): <https://www.youtube.com/watch?v=fLEjSU1a748>
-* Exploiting modern microarchitectures Meltdown, Spectre, and other hardware attacks (2018): <https://www.youtube.com/watch?v=2kCDPCgjlJ4>
-* Reverse engineering FPGAs (2017): <https://www.youtube.com/watch?v=Y1Wwa8csFjk>
-* Breaking the x86 Instruction Set (2017): <https://www.youtube.com/watch?v=KrksBdWcZgQ>
-* When a Microsecond Is an Eternity: High Performance Trading Systems in C++ (2017): <https://www.youtube.com/watch?v=NH1Tta7purM>
-* Performance Matters - Emery Berger (2019): <https://www.youtube.com/watch?v=r-TLSBdHe1A>
-* DOOM: Behind the Music (2017): <https://www.youtube.com/watch?v=U4FNBMZsqrY>
+* How NOT to Measure Latency - Gil Tene, Strange Loops 2015: <https://www.youtube.com/watch?v=lJ8ydIuPFeU>
+* The Bits Between the Bits: How We Get to main() - Matt Godbolt, CppCon 2018: <https://www.youtube.com/watch?v=dOfucXtyEsU>
+* What Else Has My Compiler Done For Me Lately? - Matt Godbolt, C++Now 2018: <https://www.youtube.com/watch?v=nAbCKa0FzjQ>
+* What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid - Matt Godbolt, CppCon 2017: <https://www.youtube.com/watch?v=bSkpMdDe4g4>
+* Lightening fast CTF solving - Automatic Exploit Generation & Side Channel Analysis - Christoper Roberts, BSides DC 2018: <https://www.youtube.com/watch?v=-4goiRPcxl4>
+* Why memory is a hard problem in modern computer architectures - Felix Held, OSFC 2018: <https://www.youtube.com/watch?v=NK1jYTYVh1U>
+* Cache Side Channels: State of the Art and Research Opportunities - Yinqian Zhang, ACM CCS 2017: <https://www.youtube.com/watch?v=fLEjSU1a748>
+* Exploiting modern microarchitectures Meltdown, Spectre, and other hardware attacks - Jon Masters, FOSDEM 2018: <https://www.youtube.com/watch?v=2kCDPCgjlJ4>
+* Reverse engineering FPGAs - MathiasL, 34C3 2017: <https://www.youtube.com/watch?v=Y1Wwa8csFjk>
+* Breaking the x86 Instruction Set - Christopher Domas, Black Hat USA 2017: <https://www.youtube.com/watch?v=KrksBdWcZgQ>
+* When a Microsecond Is an Eternity: High Performance Trading Systems in C++ - Carl Cook, CppCon 2017: <https://www.youtube.com/watch?v=NH1Tta7purM>
+* Performance Matters - Emery Berger, Stange Loops 2019: <https://www.youtube.com/watch?v=r-TLSBdHe1A>
+* DOOM: Behind the Music - Mick Gordon, CDC 2017: <https://www.youtube.com/watch?v=U4FNBMZsqrY>
 * AT&T Archives: The UNIX System: Making Computers More Productive (1982): <https://www.youtube.com/watch?v=tc4ROCJYbm0>
 * AT&T Archives: The UNIX System: Making Computers Easier to Use (1982): <https://www.youtube.com/watch?v=XvDZLjaCJuw>
 * FLATLINE: How The Amiga Languished (2018): <https://www.youtube.com/watch?v=zB_UZsJUbwQ>
