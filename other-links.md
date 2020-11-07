@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2020-10-3
+Last updated: 2020-11-7
 
 # White Papers and Reports:
 * FUZZIFICATION: Anti-Fuzzing Techniques (2019): <https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf>
@@ -22,6 +22,8 @@ Last updated: 2020-10-3
 	* Excerpts from this paper: <https://urbigenous.net/library/WIPP/>
 
 # Videos:
+* Semiconductor Security Awareness, Today and Yesterday - Black Hat USA 2010: <https://www.youtube.com/watch?v=WXX00tRKOlw>
+* How The NES Conquered A Skeptical America In 1985 - Ars Technica (2020): <https://www.youtube.com/watch?v=Sn5v09L_uDg>
 * "Uptime 15,364 days - The Computers of Voyager" by Aaron Cummings (2019): <https://www.youtube.com/watch?v=H62hZJVqs2o>
 * Tektronix Printed Circuit Boards (1969): <https://www.youtube.com/watch?v=7weZ0TNRcuw>
 * Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi (2017): <https://www.youtube.com/watch?v=QyMsF31NdNc>
