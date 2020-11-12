@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2020-11-7
+Last updated: 2020-11-11
 
 # White Papers and Reports:
 * FUZZIFICATION: Anti-Fuzzing Techniques (2019): <https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf>
@@ -102,9 +102,14 @@ Last updated: 2020-11-7
 * The On-Line Encyclopedia of Integer Sequences: <https://oeis.org/>
 
 ## Nuclear
+* Long-time nuclear waste warning messages: <https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages>
+* Waste Isolation Pilot Plant: <https://en.wikipedia.org/wiki/Waste_Isolation_Pilot_Plant>
 * Scarm: <https://en.wikipedia.org/wiki/Scram>
 * Yucca Mountain nuclear waste repository: <https://en.wikipedia.org/wiki/Yucca_Mountain_nuclear_waste_repository>
 * The Nuclear Novel and Language: <http://histscifi.com/essays/gordin/languages>
+
+## Politics
+* EXPLAINER: Why do the media call races in US elections?: <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
 
 ## Security and Reverse Engineering
 * A better zip bomb: <https://www.bamsoftware.com/hacks/zipbomb/>
