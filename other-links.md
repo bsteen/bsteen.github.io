@@ -5,7 +5,7 @@ Table of Contents:
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
 	* [Artists](#artists)
 	* [Automobiles](#automobiles)
-	* [Chemistry](#Chemistry)
+	* [Chemistry](#chemistry)
 	* [Computer Science & Software](#computer-science--software)
 		* [Video Games](#video-games)
 		* [Vintage Computer Science & Software](#vintage-computer-science--software)
