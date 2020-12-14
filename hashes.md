@@ -1,7 +1,7 @@
 # File Hashes
 This is a list of file hashes for media I own and have backed up. You can use these hashes for your own verification or comparison.
 I make no guarantee the entires below are 100% accurate to the source media. These represent the results I got from the media I own. The file hash tables were generated with this [script](https://github.com/bsteen/simple-scripts/blob/master/hashmd.sh).  
-Note: `.cue` files are just text files with the the associated `.bin` file's name and the track listings (see [here](https://en.wikipedia.org/wiki/Cue_sheet_(computing))). Your `.cue` files will differ from mine if your `.bin` files are named something different from mine.
+Note: `.cue` files are just text files with the the associated `.bin` file's name and the track listings (more info on this [here](https://en.wikipedia.org/wiki/Cue_sheet_(computing))). Your `.cue` files will differ from mine if your `.bin` files are named something different from mine.
 
 ## PC Games
 
