@@ -1,3 +1,5 @@
+<div class="bg-gray-dark text-white">
+
 # Benjamin Steenkamer
 
 # Main Links
@@ -23,3 +25,5 @@
 
 # Copyright Notice
 **© 2019 - 2020 Benjamin Steenkamer.**
+
+</div>
