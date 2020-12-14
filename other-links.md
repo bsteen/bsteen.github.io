@@ -2,7 +2,23 @@ A list of videos, papers, and articles I find interesting. The links are ordered
 Last updated: 2020-12-13
 
 Table of Contents:
-TODO
+* [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
+	* [Artists](#artists)
+	* [Automobiles](#automobiles)
+	* [Chemistry](#Chemistry)
+	* [Computer Science & Software](#computer-science--software)
+		* [Video Games](#video-games)
+		* [Vintage Computer Science & Software](#vintage-computer-science--software)
+	* [Computer Security & Reverse Engineering](#computer-security--reverse-engineering)
+	* [Economics & Finance](#economics--finance)
+	* [Electrical Engineering & Electronics](#electrical-engineering--electronics)
+		* [Vintage Electrical Engineering & Electronics](#vintage-electrical-engineering--electronics)
+	* [General Information](#general-information)
+	* [History](#history)
+	* [Mathematics](#mathematics)
+	* [Nuclear](#nuclear)
+	* [Politics](#politics)
+	* [White Papers & Reports](#white-papers--reports)
 
 # Articles, Videos, Websites, Et cetera 
 ## Artists:
