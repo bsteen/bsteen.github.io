@@ -1,4 +1,4 @@
-<div class="bg-gray-dark text-white">
+<div class="bg-gray-dark text-white" markdown="1">
 
 # Benjamin Steenkamer
 
