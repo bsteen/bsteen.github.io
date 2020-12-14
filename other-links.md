@@ -22,6 +22,7 @@ Last updated: 2020-12-4
 	* Excerpts from this paper: <https://urbigenous.net/library/WIPP/>
 
 # Videos:
+* The Secret History of Windows Task Manager: Part 1 - Retired Microsoft Engineer Davepl (2020): <https://www.youtube.com/watch?v=f8VBOiPV-_M>
 * What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
 * Semiconductor Security Awareness, Today and Yesterday - Christopher Tarnovsky, Black Hat USA 2010: <https://www.youtube.com/watch?v=WXX00tRKOlw>
 * How The NES Conquered A Skeptical America In 1985 - Ars Technica (2020): <https://www.youtube.com/watch?v=Sn5v09L_uDg>
