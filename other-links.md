@@ -1,26 +1,6 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
 Last updated: 2020-12-13
 
-# White Papers and Reports:
-* FUZZIFICATION: Anti-Fuzzing Techniques (2019): <https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf>
-* FORESHADOW: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution (2018): <https://foreshadowattack.eu/foreshadow.pdf>
-* Fallout: Reading Kernel Writes From User Space (2019): <https://arxiv.org/pdf/1905.12701.pdf>
-* Dowsing for overflows: A guided fuzzer to find buffer boundary violations (2013): <https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_haller.pdf>
-* RAMBleed: Reading Bits in Memory Without Accessing Them (2019/2020): <https://rambleed.com/docs/20190603-rambleed-web.pdf>
-* FlatFlash: Exploiting the Byte-Accessibility of SSDs within A Unified Memory-Storage Hierarchy (2019): <https://jianh.web.engr.illinois.edu/papers/flatflash.pdf>
-* x86-64 Instruction Usage among C/C++ Applications (2019): <https://aakshintala.com/papers/instrpop-systor19.pdf>
-* Weapons That May Cause Unnecessary Suffering or Have Indiscriminate Effects (1973): <https://www.loc.gov/rr/frd/Military_Law/pdf/RC-Weapons.pdf>
-* 45-year CPU evolution: one law and two equations (2018): <https://arxiv.org/ftp/arxiv/papers/1803/1803.00254.pdf>
-* What Every Programmer Should Know About Memory (2007): <https://people.freebsd.org/~lstewart/articles/cpumemory.pdf>
-* Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors (2014): <http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf>
-* Quantum advantage with shallow circuits (2017): <https://arxiv.org/pdf/1704.00690.pdf>
-* Bitcoin: A Peer-to-Peer Electronic Cash System (2008): <https://bitcoin.org/bitcoin.pdf>
-	* "Just read the whitepaper, bro!"
-* Spectre Attacks: Exploiting Speculative Execution (2018): <https://spectreattack.com/spectre.pdf>
-* Meltdown: Reading Kernel Memory from User Space (2018): <https://meltdownattack.com/meltdown.pdf>
-* Expert Judgement on Markers to Deter Inadvertent Human Intrusion into the Waste Isolation Pilot Plant (1993): <https://www.osti.gov/servlets/purl/10117359>
-	* Excerpts from this paper: <https://urbigenous.net/library/WIPP/>
-
 # Videos:
 * The Secret History of Windows Task Manager: Part 1 - Retired Microsoft Engineer Davepl (2020): <https://www.youtube.com/watch?v=f8VBOiPV-_M>
 * What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
@@ -121,3 +101,23 @@ Last updated: 2020-12-13
 * Fun with self-decryption: <https://x64dbg.com/blog/2018/02/25/fun-with-self-decryption.html>
 * Demovfuscator: A work-in-progress deobfuscator for movfuscated binaries: <https://github.com/kirschju/demovfuscator>
 * M/o/Vfuscator: The single instruction C compiler: <https://github.com/xoreaxeaxeax/movfuscator>
+
+# White Papers and Reports:
+* FUZZIFICATION: Anti-Fuzzing Techniques (2019): <https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf>
+* FORESHADOW: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution (2018): <https://foreshadowattack.eu/foreshadow.pdf>
+* Fallout: Reading Kernel Writes From User Space (2019): <https://arxiv.org/pdf/1905.12701.pdf>
+* Dowsing for overflows: A guided fuzzer to find buffer boundary violations (2013): <https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_haller.pdf>
+* RAMBleed: Reading Bits in Memory Without Accessing Them (2019/2020): <https://rambleed.com/docs/20190603-rambleed-web.pdf>
+* FlatFlash: Exploiting the Byte-Accessibility of SSDs within A Unified Memory-Storage Hierarchy (2019): <https://jianh.web.engr.illinois.edu/papers/flatflash.pdf>
+* x86-64 Instruction Usage among C/C++ Applications (2019): <https://aakshintala.com/papers/instrpop-systor19.pdf>
+* Weapons That May Cause Unnecessary Suffering or Have Indiscriminate Effects (1973): <https://www.loc.gov/rr/frd/Military_Law/pdf/RC-Weapons.pdf>
+* 45-year CPU evolution: one law and two equations (2018): <https://arxiv.org/ftp/arxiv/papers/1803/1803.00254.pdf>
+* What Every Programmer Should Know About Memory (2007): <https://people.freebsd.org/~lstewart/articles/cpumemory.pdf>
+* Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors (2014): <http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf>
+* Quantum advantage with shallow circuits (2017): <https://arxiv.org/pdf/1704.00690.pdf>
+* Bitcoin: A Peer-to-Peer Electronic Cash System (2008): <https://bitcoin.org/bitcoin.pdf>
+	* "Just read the whitepaper, bro!"
+* Spectre Attacks: Exploiting Speculative Execution (2018): <https://spectreattack.com/spectre.pdf>
+* Meltdown: Reading Kernel Memory from User Space (2018): <https://meltdownattack.com/meltdown.pdf>
+* Expert Judgement on Markers to Deter Inadvertent Human Intrusion into the Waste Isolation Pilot Plant (1993): <https://www.osti.gov/servlets/purl/10117359>
+	* Excerpts from this paper: <https://urbigenous.net/library/WIPP/>
