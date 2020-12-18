@@ -19,7 +19,7 @@ Table of Contents:
 	* [Nuclear](#nuclear)
 	* [Oceans and Boats](#oceans-and-boats)
 	* [Politics](#politics)
-	* [White Papers & Reports](#white-papers--reports)
+* [White Papers & Reports](#white-papers--reports)
 
 # Articles, Videos, Websites, Et cetera 
 ## Artists:
@@ -69,7 +69,7 @@ Table of Contents:
 * Pictures of Bell Labs (1969 - 1970): <http://www.larryluckham.com/1969%20&%2070%20-%20Bell%20Labs/album/index.html>
 	* Pictures inside Bell Labs, Oakland, CA; taken by an employee some time between 1969 and 1970.
 
-# Computer Security & Reverse Engineering
+## Computer Security & Reverse Engineering
 * Semiconductor Security Awareness, Today and Yesterday - Christopher Tarnovsky, Black Hat USA 2010: <https://www.youtube.com/watch?v=WXX00tRKOlw>
 * Tales from Hardware Security Research - Johannes and Marc, CCC 2019: <https://www.youtube.com/watch?v=WqAHCpe8Oxw>
 * Lightening fast CTF solving - Automatic Exploit Generation & Side Channel Analysis - Christoper Roberts, BSides DC 2018: <https://www.youtube.com/watch?v=-4goiRPcxl4>
