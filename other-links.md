@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2020-12-13
+Last updated: 2020-12-17
 
 Table of Contents:
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -17,6 +17,7 @@ Table of Contents:
 	* [History](#history)
 	* [Mathematics](#mathematics)
 	* [Nuclear](#nuclear)
+	* [Oceans and Boats](#oceans-and-boats)
 	* [Politics](#politics)
 	* [White Papers & Reports](#white-papers--reports)
 
@@ -121,11 +122,22 @@ Table of Contents:
 * The On-Line Encyclopedia of Integer Sequences: <https://oeis.org/>
 
 ## Nuclear
+* National Nuclear Security Administration: <https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration>
 * Long-time nuclear waste warning messages: <https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages>
 * Waste Isolation Pilot Plant: <https://en.wikipedia.org/wiki/Waste_Isolation_Pilot_Plant>
 * Scarm: <https://en.wikipedia.org/wiki/Scram>
 * Yucca Mountain nuclear waste repository: <https://en.wikipedia.org/wiki/Yucca_Mountain_nuclear_waste_repository>
 * The Nuclear Novel and Language: <http://histscifi.com/essays/gordin/languages>
+
+## Oceans and Boats
+* United States Lighthouse Service: <https://en.wikipedia.org/wiki/United_States_Lighthouse_Service>
+* Draupner wave: <https://en.wikipedia.org/wiki/Draupner_wave>
+	* The first rogue wave to be detected by a measuring instrument
+* Intertropical Convergence Zone: <https://en.wikipedia.org/wiki/Intertropical_Convergence_Zone>
+	* Also know as the "doldrums"
+* Fresnel lens: <https://en.wikipedia.org/wiki/Fresnel_lens>
+    * Good movie with one of these: The Lighthouse (2019 film) <https://en.wikipedia.org/wiki/The_Lighthouse_(2019_film)>
+* Bollard: <https://en.wikipedia.org/wiki/Bollard>
 
 ## Politics
 * EXPLAINER: Why do the media call races in US elections?: <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
