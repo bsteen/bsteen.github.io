@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2020-12-17
+Last updated: 2021-1-26
 
 Table of Contents:
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -89,6 +89,7 @@ Table of Contents:
 * Banq (term): <https://en.wikipedia.org/wiki/Banq_(term)>
 
 ## Electrical Engineering & Electronics
+* Fuse cutout: <https://en.wikipedia.org/wiki/Fuse_cutout>
 * Semiconductor Engineering: <https://www.youtube.com/channel/UC2LCc4VvMYj-6Kqe09avwow>
 	* A Youtube channel with highlevel interviews of people in the semiconductor industry on various topics
 * From DC to RF...starting where? - Chris Gammell, CCC 2019: <https://www.youtube.com/watch?v=CFr-_p1UwHI>
@@ -107,6 +108,8 @@ Table of Contents:
 * The Transistor: a 1953 documentary, anticipating its coming impact on technology: <https://www.youtube.com/watch?v=V9xUQWo4vN0>
 
 ## General Information
+* Inside Earth's Doomsday Seed Vault - Vice (2020): <https://www.youtube.com/watch?v=6AzG9EZ20tY>
+* How It's Made: Bourbon (2020): <https://www.youtube.com/watch?v=-VscpKT7tXE>
 * What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
 
 ## History
@@ -122,6 +125,9 @@ Table of Contents:
 * The On-Line Encyclopedia of Integer Sequences: <https://oeis.org/>
 
 ## Nuclear
+* Moving Nuclear Waste Around (2019): <https://www.youtube.com/watch?v=sLwqokQ7Gpk>
+* Radioisotope thermoelectric generator: <https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator>
+	* The nuclear lighthouses built by the Soviets in the Arctic (2021)L <https://www.bbc.com/reel/video/p0931jtk/the-nuclear-lighthouses-built-by-the-soviets-in-the-arctic>
 * National Nuclear Security Administration: <https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration>
 * Long-time nuclear waste warning messages: <https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages>
 * Waste Isolation Pilot Plant: <https://en.wikipedia.org/wiki/Waste_Isolation_Pilot_Plant>
