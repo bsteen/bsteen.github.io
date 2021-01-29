@@ -1,7 +1,7 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2021-1-26
+Last updated: 2021-1-29
 
-Table of Contents:
+Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
 	* [Artists](#artists)
 	* [Automobiles](#automobiles)
@@ -56,16 +56,16 @@ Table of Contents:
 * Markdown Cheatsheet: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 ### Video Games
 * How The NES Conquered A Skeptical America In 1985 - Ars Technica (2020): <https://www.youtube.com/watch?v=Sn5v09L_uDg>
-* Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi CDC 2017: <https://www.youtube.com/watch?v=QyMsF31NdNc>
+* Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi, CDC 2017: <https://www.youtube.com/watch?v=QyMsF31NdNc>
 * Dwarf Fortress Live - PAX West 2019: <https://www.youtube.com/watch?v=WW_dHPtC2wg>
 * DOOM: Behind the Music - Mick Gordon, CDC 2017: <https://www.youtube.com/watch?v=U4FNBMZsqrY>
 ### Vintage Computer Science & Software
-* "Uptime 15,364 days - The Computers of Voyager" - Aaron Cummings Strange Loops 2019: <https://www.youtube.com/watch?v=H62hZJVqs2o>
+* Uptime 15,364 days - The Computers of Voyager - Aaron Cummings, Strange Loops 2019: <https://www.youtube.com/watch?v=H62hZJVqs2o>
 * AT&T Archives: Microelectronics Video Disc Exhibit (1984): <https://www.youtube.com/watch?v=aRTJqnXr8tM>
 * AT&T Archives: Processing Integrated Circuits at Bell Labs (1979): <https://www.youtube.com/watch?v=uLReXtpNlbw>
 * AT&T Archives: The UNIX System: Making Computers More Productive (1982): <https://www.youtube.com/watch?v=tc4ROCJYbm0>
 * AT&T Archives: The UNIX System: Making Computers Easier to Use (1982): <https://www.youtube.com/watch?v=XvDZLjaCJuw>
-* FLATLINE: How The Amiga Languished (2018): <https://www.youtube.com/watch?v=zB_UZsJUbwQ>
+* FLATLINE: How The Amiga Languished - Stuart Brown (2018): <https://www.youtube.com/watch?v=zB_UZsJUbwQ>
 * Pictures of Bell Labs (1969 - 1970): <http://www.larryluckham.com/1969%20&%2070%20-%20Bell%20Labs/album/index.html>
 	* Pictures inside Bell Labs, Oakland, CA; taken by an employee some time between 1969 and 1970.
 
@@ -109,7 +109,7 @@ Table of Contents:
 
 ## General Information
 * Inside Earth's Doomsday Seed Vault - Vice (2020): <https://www.youtube.com/watch?v=6AzG9EZ20tY>
-* How It's Made: Bourbon (2020): <https://www.youtube.com/watch?v=-VscpKT7tXE>
+* How It's Made: Bourbon - Science Channel (2020): <https://www.youtube.com/watch?v=-VscpKT7tXE>
 * What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
 
 ## History
@@ -120,14 +120,14 @@ Table of Contents:
 * *Directorium Inquisitorum*: <https://en.wikipedia.org/wiki/Directorium_Inquisitorum>
 
 ## Mathematics
-* How random can you be?: <https://www.expunctis.com/2019/03/07/Not-so-random.html>
+* How random can you be? (2019): <https://www.expunctis.com/2019/03/07/Not-so-random.html>
 * Lakes of Wada: <https://en.wikipedia.org/wiki/Lakes_of_Wada>
 * The On-Line Encyclopedia of Integer Sequences: <https://oeis.org/>
 
 ## Nuclear
-* Moving Nuclear Waste Around (2019): <https://www.youtube.com/watch?v=sLwqokQ7Gpk>
+* Moving Nuclear Waste Around - David Ruzic (2019): <https://www.youtube.com/watch?v=sLwqokQ7Gpk>
 * Radioisotope thermoelectric generator: <https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator>
-	* The nuclear lighthouses built by the Soviets in the Arctic (2021)L <https://www.bbc.com/reel/video/p0931jtk/the-nuclear-lighthouses-built-by-the-soviets-in-the-arctic>
+	* The nuclear lighthouses built by the Soviets in the Arctic - BBC (2021): <https://www.bbc.com/reel/video/p0931jtk/the-nuclear-lighthouses-built-by-the-soviets-in-the-arctic>
 * National Nuclear Security Administration: <https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration>
 * Long-time nuclear waste warning messages: <https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages>
 * Waste Isolation Pilot Plant: <https://en.wikipedia.org/wiki/Waste_Isolation_Pilot_Plant>
@@ -146,14 +146,14 @@ Table of Contents:
 * Bollard: <https://en.wikipedia.org/wiki/Bollard>
 
 ## Politics
-* EXPLAINER: Why do the media call races in US elections?: <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
+* EXPLAINER: Why do the media call races in US elections? - Associated Press (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
 
 # White Papers & Reports:
 * FUZZIFICATION: Anti-Fuzzing Techniques (2019): <https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf>
 * FORESHADOW: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution (2018): <https://foreshadowattack.eu/foreshadow.pdf>
 * Fallout: Reading Kernel Writes From User Space (2019): <https://arxiv.org/pdf/1905.12701.pdf>
 * Dowsing for overflows: A guided fuzzer to find buffer boundary violations (2013): <https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_haller.pdf>
-* RAMBleed: Reading Bits in Memory Without Accessing Them (2019/2020): <https://rambleed.com/docs/20190603-rambleed-web.pdf>
+* RAMBleed: Reading Bits in Memory Without Accessing Them (2019): <https://rambleed.com/docs/20190603-rambleed-web.pdf>
 * FlatFlash: Exploiting the Byte-Accessibility of SSDs within A Unified Memory-Storage Hierarchy (2019): <https://jianh.web.engr.illinois.edu/papers/flatflash.pdf>
 * x86-64 Instruction Usage among C/C++ Applications (2019): <https://aakshintala.com/papers/instrpop-systor19.pdf>
 * Weapons That May Cause Unnecessary Suffering or Have Indiscriminate Effects (1973): <https://www.loc.gov/rr/frd/Military_Law/pdf/RC-Weapons.pdf>
