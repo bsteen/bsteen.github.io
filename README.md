@@ -22,4 +22,4 @@
 * Evans Hall server room end-of-life pictures (coming soon)
 
 # Copyright Notice
-**© 2019 - 2020 Benjamin Steenkamer.**
+**© 2019 - 2021 Benjamin Steenkamer.**
