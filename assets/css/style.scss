@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 body {
-  background-color: .bg-gray-dark;
-  color: white;
+    background-color: #24292e; // .bg-gray-dark
+	color: #ffffff;			   // white
 }
