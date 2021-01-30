@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2021-1-29
+Last updated: 2021-1-30
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -33,6 +33,13 @@ Table of Contents
 * Ilya Repin: <https://en.wikipedia.org/wiki/Ilya_Repin>
 
 ## Automobiles
+* Below are some of the largest original equipment manufactures (OEMs) for car parts. If you are looking for a replacement part, you can search these companies' catalogs and probably find an equivalent or exact replacement.
+	* ACDelco (General Motors): <https://en.wikipedia.org/wiki/ACDelco>
+	* Aisin Seiki  Co., Ltd. (Toyota Group): <https://en.wikipedia.org/wiki/Aisin_Seiki>
+	* Continental AG: <https://en.wikipedia.org/wiki/Continental_AG>
+	* Denso Corporation (Toyota Group): <https://en.wikipedia.org/wiki/Denso>
+	* Magna International Inc.: <https://en.wikipedia.org/wiki/Magna_International>
+	* ZF Friedrichshafen AG: <https://en.wikipedia.org/wiki/ZF_Friedrichshafen>
 * How an engine works - comprehensive tutorial animation featuring Toyota engine technologies (2011): <https://www.youtube.com/watch?v=zA_19bHxEYg>
 * DTM 1991 - Season Review (English Commentary): <https://www.youtube.com/watch?v=v5_fmSRouf4>
 
