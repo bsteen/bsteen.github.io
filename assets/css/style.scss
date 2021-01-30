@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 body {
-	background-color: #24292e;	// dark gray
-	color: #fafbfc;				// light gray
+	background-color: #24292e;
+	color: #fafbfc;
+}
+table {
+	background-color: #24292e
 }
