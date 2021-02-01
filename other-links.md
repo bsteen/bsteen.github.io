@@ -38,7 +38,7 @@ Table of Contents
 * Seagram Building: <https://en.wikipedia.org/wiki/Seagram_Building>
 * Curtain wall (architecture): <https://en.wikipedia.org/wiki/Curtain_wall_(architecture)>
 * One Times Square: <https://en.wikipedia.org/wiki/One_Times_Square>
-	* [Photos of the inside](https://www.insider.com/photos-show-abandoned-floors-times-squares-new-years-building-2019-11#after-exploring-the-headquarters-i-headed-to-the-rooftop-to-see-the-ball-itself-the-rooftop-provided-views-of-times-square-too--34)
+	* [Photos of the inside](https://archive.vn/FqYTB)
 * 33 Thomas Street (formerly AT&T Long Lines Building): <https://en.wikipedia.org/wiki/33_Thomas_Street>
 * Brutalist architecture <https://en.wikipedia.org/wiki/Brutalist_architecture>
 	* A great book on this topic: Atlas of Brutalist Architecture [[1]](https://www.phaidon.com/store/architecture/atlas-of-brutalist-architecture-9780714875668/) [[2]](https://www.phaidon.com/store/architecture/Atlas-of-Brutalist-Architecture-9781838661908/)
