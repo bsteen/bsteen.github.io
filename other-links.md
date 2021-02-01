@@ -1,8 +1,9 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2021-1-30
+Last updated: 2021-1-31
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
+    * [Architecture and Buildings](#architecture-and-buildings)
 	* [Artists](#artists)
 	* [Automobiles](#automobiles)
 	* [Chemistry](#chemistry)
@@ -22,6 +23,26 @@ Table of Contents
 * [White Papers & Reports](#white-papers--reports)
 
 # Articles, Videos, Websites, Et cetera 
+## Architecture and Buildings
+* Writers' Museum: <https://en.wikipedia.org/wiki/Writers%27_Museum>
+* Terraced house: <https://en.wikipedia.org/wiki/Terraced_house>
+* The Shambles: <https://en.wikipedia.org/wiki/The_Shambles>
+* Meissen Cathedral: <https://en.wikipedia.org/wiki/Meissen_Cathedral>
+* Brownstone: <https://en.wikipedia.org/wiki/Brownstone>
+* One Liberty Plaza: <https://en.wikipedia.org/wiki/One_Liberty_Plaza>
+	* Singer Building: <https://en.wikipedia.org/wiki/Singer_Building>
+* Khrushchyovka: <https://en.wikipedia.org/wiki/Khrushchyovka>
+* Queen Anne style architecture: <https://en.wikipedia.org/wiki/Queen_Anne_style_architecture>
+* Towers of Bologna: <https://en.wikipedia.org/wiki/Towers_of_Bologna>
+* Lever House: <https://en.wikipedia.org/wiki/Lever_House>
+* Seagram Building: <https://en.wikipedia.org/wiki/Seagram_Building>
+* Curtain wall (architecture): <https://en.wikipedia.org/wiki/Curtain_wall_(architecture)>
+* One Times Square: <https://en.wikipedia.org/wiki/One_Times_Square>
+	* [Photos of the inside](https://www.insider.com/photos-show-abandoned-floors-times-squares-new-years-building-2019-11#after-exploring-the-headquarters-i-headed-to-the-rooftop-to-see-the-ball-itself-the-rooftop-provided-views-of-times-square-too--34)
+* 33 Thomas Street (formerly AT&T Long Lines Building): <https://en.wikipedia.org/wiki/33_Thomas_Street>
+* Brutalist architecture <https://en.wikipedia.org/wiki/Brutalist_architecture>
+	* A great book on this topic: Atlas of Brutalist Architecture [[1]](https://www.phaidon.com/store/architecture/atlas-of-brutalist-architecture-9780714875668/) [[2]](https://www.phaidon.com/store/architecture/Atlas-of-Brutalist-Architecture-9781838661908/)
+
 ## Artists:
 * Susan Kare: <https://www.aiga.org/medalist-susan-kare>, <https://en.wikipedia.org/wiki/Susan_Kare>
 * John Martin (painter): <https://en.wikipedia.org/wiki/John_Martin_(painter)>
@@ -48,6 +69,7 @@ Table of Contents
 * AT&T Archives: Crystal Growth Morphologies, a 1974 microscopic film study from Bell Laboratories: <https://www.youtube.com/watch?v=Y3GwvN5W1dE>
 
 ## Computer Science & Software:
+* The Secret History of Windows Bluescreens by Davepl (2021): <https://www.youtube.com/watch?v=KgqJJECQQH0>
 * The Secret History of Windows Task Manager: Part 1 - Retired Microsoft Engineer Davepl (2020): <https://www.youtube.com/watch?v=f8VBOiPV-_M>
 * How NOT to Measure Latency - Gil Tene, Strange Loops 2015: <https://www.youtube.com/watch?v=lJ8ydIuPFeU>
 * The Bits Between the Bits: How We Get to main() - Matt Godbolt, CppCon 2018: <https://www.youtube.com/watch?v=dOfucXtyEsU>
