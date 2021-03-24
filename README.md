@@ -1,9 +1,6 @@
 # Benjamin Steenkamer
-
-# Main Links
 * My LinkedIn profile: <https://linkedin.com/in/steenkamerben>
 * My GitHub profile: <https://github.com/bsteen>
-* [A list of videos, papers, and articles I find interesting](other-links.md)
 
 # Published Papers
 * Benjamin P. Steenkamer, "[An Empirical Study on Use-After-Free Vulnerabilities](https://search.proquest.com/docview/2307785165)", University of Delaware, Master's thesis, August 2019.
@@ -17,6 +14,7 @@
 * See the rest on my GitHub profile: [https://github.com/bsteen](https://github.com/bsteen)
 
 # Other Stuff
+* [A list of videos, papers, and articles I find interesting](other-links.md)
 * [File Hashes](hashes.md)
 * UD RockSat-C 2018 Pictures (coming soon)
 * Evans Hall server room end-of-life pictures (coming soon)
