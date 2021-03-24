@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2021-1-31
+Last updated: 2021-3-24
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -118,6 +118,7 @@ Table of Contents
 * Banq (term): <https://en.wikipedia.org/wiki/Banq_(term)>
 
 ## Electrical Engineering & Electronics
+* How Microchips Are Made - Manufacturing of a Semiconductor (2020): <https://www.youtube.com/watch?v=HdcLRMv3D3g>
 * Fuse cutout: <https://en.wikipedia.org/wiki/Fuse_cutout>
 * Semiconductor Engineering: <https://www.youtube.com/channel/UC2LCc4VvMYj-6Kqe09avwow>
 	* A Youtube channel with highlevel interviews of people in the semiconductor industry on various topics
@@ -171,6 +172,7 @@ Table of Contents
 * Intertropical Convergence Zone: <https://en.wikipedia.org/wiki/Intertropical_Convergence_Zone>
 	* Also know as the "doldrums"
 * Fresnel lens: <https://en.wikipedia.org/wiki/Fresnel_lens>
+    * How a Fresnel Lens works, using a simple blackboard model (2012): <https://www.youtube.com/watch?v=_nBNnlu6Rqo>
     * Good movie with one of these: The Lighthouse (2019 film) <https://en.wikipedia.org/wiki/The_Lighthouse_(2019_film)>
 * Bollard: <https://en.wikipedia.org/wiki/Bollard>
 
