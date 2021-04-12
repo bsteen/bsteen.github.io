@@ -9,15 +9,11 @@ body {
 a {
 	color: #0366d6;
 }
-table
-{
-	background-color:#ffffff;
+.markdown-body table tr {
+    background-color:#333333;
+    color:#fafbfc;
+    border-top: 1px solid #fafbfc;
 }
-tr
-{
-	background-color:#333333;
-	color:#fafbfc;
-}
-tr:nth-child(odd) {
+.markdown-body tr:nth-child(odd) {
 	background-color: #595959;
 }
