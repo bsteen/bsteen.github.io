@@ -9,6 +9,15 @@ body {
 a {
 	color: #0366d6;
 }
-table {
-	color: #1e1e1e;
+table
+{
+	background-color:#ffffff;
+}
+tr
+{
+	background-color:#333333;
+	color:#fafbfc;
+}
+tr:nth-child(odd) {
+	background-color: #595959;
 }
