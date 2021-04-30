@@ -4,6 +4,7 @@
 
 # Published Papers
 * Benjamin P. Steenkamer, "[An Empirical Study on Use-After-Free Vulnerabilities](https://udspace.udel.edu/handle/19716/25078)", University of Delaware, Master's thesis, August 2019.
+    * [Direct Link](https://udspace.udel.edu/bitstream/handle/19716/25078/Steenkamer_udel_0060M_13943.pdf?)
     * [ProQuest Link](https://search.proquest.com/docview/2307785165)
     * Master's Thesis Postmortem (coming soon)
 * Xing Gao, Benjamin Steenkamer, Zhongshu Gu, Mehmet Kayaalp, Dimitrios Pendarakis, and Haining Wang, "[A Study on the Security Implications of Information Leakages in Container Clouds](https://ieeexplore.ieee.org/document/8523802)" in *IEEE Transactions on Dependable and Secure Computing*, November 2018.
