@@ -34,7 +34,8 @@
 		td:hover
 		{
 			/* When you hover over a sound board button, it will change to this color */
-			background-color:#4d4d4d
+			background-color:#4d4d4d;
+			cursor: pointer;
 		}
 		#toasty-container
 		{
@@ -83,7 +84,7 @@
 
 <body>
 	<div>
-		<h1 onclick="document.getElementById('wuh happun').play()">Soundboard</h1>
+		<h1 style="cursor: pointer;" onclick="document.getElementById('wuh happun').play()">Soundboard</h1>
 	</div>
 
 	<div id="soundboard" onselectstart="return false"><!--Makes the text unselectable-->
