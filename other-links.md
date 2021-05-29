@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2021-3-24
+Last updated: 2021-5-29
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -54,6 +54,7 @@ Table of Contents
 * Ilya Repin: <https://en.wikipedia.org/wiki/Ilya_Repin>
 
 ## Automobiles
+* Images of Change, Closed Chrysler Newark Plant - Lynn Mcdowell (2010, 2011): <https://lynnmcdowell.photoshelter.com/gallery-collection/Images-of-Change-Closed-Chrysler-Newark-Plant/C0000yDtYV7f7bpw>
 * Below are some of the largest original equipment manufactures (OEMs) for car parts. If you are looking for a replacement part, you can search these companies' catalogs and probably find an equivalent or exact replacement.
 	* ACDelco (General Motors): <https://en.wikipedia.org/wiki/ACDelco>
 	* Aisin Seiki  Co., Ltd. (Toyota Group): <https://en.wikipedia.org/wiki/Aisin_Seiki>
@@ -89,6 +90,8 @@ Table of Contents
 * Dwarf Fortress Live - PAX West 2019: <https://www.youtube.com/watch?v=WW_dHPtC2wg>
 * DOOM: Behind the Music - Mick Gordon, CDC 2017: <https://www.youtube.com/watch?v=U4FNBMZsqrY>
 ### Vintage Computer Science & Software
+* Discovering Dennis Ritchie's Lost Dissertation - David C. Brock (2020): <https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/>
+    * Recreating Dennis Ritchie's PhD Thesis - Computerphile (2021): <https://youtu.be/82TxNejKsng>
 * Uptime 15,364 days - The Computers of Voyager - Aaron Cummings, Strange Loops 2019: <https://www.youtube.com/watch?v=H62hZJVqs2o>
 * AT&T Archives: Microelectronics Video Disc Exhibit (1984): <https://www.youtube.com/watch?v=aRTJqnXr8tM>
 * AT&T Archives: Processing Integrated Circuits at Bell Labs (1979): <https://www.youtube.com/watch?v=uLReXtpNlbw>
@@ -138,6 +141,7 @@ Table of Contents
 * The Transistor: a 1953 documentary, anticipating its coming impact on technology: <https://www.youtube.com/watch?v=V9xUQWo4vN0>
 
 ## General Information
+* Drop Shipping: <https://en.wikipedia.org/wiki/Drop_shipping>
 * Inside Earth's Doomsday Seed Vault - Vice (2020): <https://www.youtube.com/watch?v=6AzG9EZ20tY>
 * How It's Made: Bourbon - Science Channel (2020): <https://www.youtube.com/watch?v=-VscpKT7tXE>
 * What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
@@ -155,6 +159,7 @@ Table of Contents
 * The On-Line Encyclopedia of Integer Sequences: <https://oeis.org/>
 
 ## Nuclear
+* Pig: <https://www.nrc.gov/reading-rm/basic-ref/glossary/pig.html>
 * Moving Nuclear Waste Around - David Ruzic (2019): <https://www.youtube.com/watch?v=sLwqokQ7Gpk>
 * Radioisotope thermoelectric generator: <https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator>
 	* The nuclear lighthouses built by the Soviets in the Arctic - BBC (2021): <https://www.bbc.com/reel/video/p0931jtk/the-nuclear-lighthouses-built-by-the-soviets-in-the-arctic>
@@ -166,6 +171,7 @@ Table of Contents
 * The Nuclear Novel and Language: <http://histscifi.com/essays/gordin/languages>
 
 ## Oceans and Boats
+* Twenty-foot equivalent unit (TEU): <https://en.wikipedia.org/wiki/Twenty-foot_equivalent_unit>
 * United States Lighthouse Service: <https://en.wikipedia.org/wiki/United_States_Lighthouse_Service>
 * Draupner wave: <https://en.wikipedia.org/wiki/Draupner_wave>
 	* The first rogue wave to be detected by a measuring instrument
