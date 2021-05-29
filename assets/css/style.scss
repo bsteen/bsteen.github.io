@@ -2,15 +2,20 @@
 ---
 
 @import "{{ site.theme }}";
+
+:root {
+  --bg-color: #0d1117;
+}
+
 body {
-	background-color: #1e1e1e;
+	background-color: var(--bg-color);
 	color: #fafbfc;
 }
 a {
 	color: #0366d6;
 }
 .markdown-body table tr th{
-    background-color:#1e1e1e;
+    background-color: var(--bg-color);
     color:#fafbfc;
     border: 1px solid #fafbfc;
 }
@@ -18,5 +23,5 @@ a {
 	background-color: #333333;
 }
 .markdown-body table tr:nth-child(even) {
-	background-color: #1e1e1e;
+	background-color: var(--bg-color);
 }
