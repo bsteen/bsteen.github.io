@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2021-5-29
+Last updated: 2021-6-18
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -121,6 +121,9 @@ Table of Contents
 * Banq (term): <https://en.wikipedia.org/wiki/Banq_(term)>
 
 ## Electrical Engineering & Electronics
+* Silicon Run I (1996): <https://www.youtube.com/watch?v=3XTWXRj24GM>
+     * Sceince, design, and prodcution process of semiconductors. 
+     * The version of Cadence Virtuoso they use [@10:45](https://www.youtube.com/watch?v=3XTWXRj24GM&t=644s) looks basically the exact same as the version I used ~20 years later...
 * How Microchips Are Made - Manufacturing of a Semiconductor (2020): <https://www.youtube.com/watch?v=HdcLRMv3D3g>
 * Fuse cutout: <https://en.wikipedia.org/wiki/Fuse_cutout>
 * Semiconductor Engineering: <https://www.youtube.com/channel/UC2LCc4VvMYj-6Kqe09avwow>
