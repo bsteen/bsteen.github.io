@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2021-6-18
+Last updated: 2021-9-21
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -24,6 +24,8 @@ Table of Contents
 
 # Articles, Videos, Websites, Et cetera 
 ## Architecture and Buildings
+* Regrading in Seattle: https://en.wikipedia.org/wiki/Regrading_in_Seattle
+    * Seattle Underground: https://en.wikipedia.org/wiki/Seattle_Underground 
 * Writers' Museum: <https://en.wikipedia.org/wiki/Writers%27_Museum>
 * Terraced house: <https://en.wikipedia.org/wiki/Terraced_house>
 * The Shambles: <https://en.wikipedia.org/wiki/The_Shambles>
@@ -121,6 +123,8 @@ Table of Contents
 * Banq (term): <https://en.wikipedia.org/wiki/Banq_(term)>
 
 ## Electrical Engineering & Electronics
+* Capacitor plague (1999 - 2007): https://en.wikipedia.org/wiki/Capacitor_plague
+* Counterfeit electronic components: https://en.wikipedia.org/wiki/Counterfeit_electronic_components
 * Silicon Run I (1996): <https://www.youtube.com/watch?v=3XTWXRj24GM>
      * Sceince, design, and prodcution process of semiconductors. 
      * The version of Cadence Virtuoso they use [@10:45](https://www.youtube.com/watch?v=3XTWXRj24GM&t=644s) looks basically the exact same as the version I used ~20 years later...
