@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2021-9-21
+Last updated: 2021-11-19
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -123,6 +123,7 @@ Table of Contents
 * Banq (term): <https://en.wikipedia.org/wiki/Banq_(term)>
 
 ## Electrical Engineering & Electronics
+* How anti-theft tags work - magnetostriction (2015): https://www.youtube.com/watch?v=KAm7qAKAXwI
 * Capacitor plague (1999 - 2007): https://en.wikipedia.org/wiki/Capacitor_plague
 * Counterfeit electronic components: https://en.wikipedia.org/wiki/Counterfeit_electronic_components
 * Silicon Run I (1996): <https://www.youtube.com/watch?v=3XTWXRj24GM>
