@@ -59,7 +59,7 @@ And at the end of it all, the only one who really made money was the bankers.
 > Reality has a well-known liberal bias.  
 > -- Stephen Colbert
 
-> what if they came out with a car with a “separated 10” engine where it’s actually 10 0.3L single pot engines hidden throughout the engine bay and undercarriage like easter eggs  
+> what if they came out with a car with a "separated 10" engine where it’s actually 10 0.3L single pot engines hidden throughout the engine bay and undercarriage like easter eggs  
 > -- [Some guy on Reddit](https://www.reddit.com/r/cars/comments/j1kzky/under_the_skin_why_the_straightsix_engine_is_on/g70rlvk/)
 
 > Reality is false and needs to be fixed by DB constraints.  
