@@ -1,6 +1,7 @@
 # List of Quotes
 
-A list of quotes (most not very serious) I've come across over the years. I've tried to link the orignal source for each, otherwise I will just link the place or person where I first heard it. List is ordered from quotes I've found most recently to least recently.
+A list of quotes (most not very serious) I've come across over the years. I've tried to link the orignal source for each, otherwise I will just link the place or person where I first heard it. List is ordered from quotes I've found most recently to least recently.  
+Last updated: 2021-12-23
 
 > Left to their own devices, traffic engineers will always build New Jersey.  
 -- Justin Roczniak
