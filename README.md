@@ -22,6 +22,7 @@
 
 # Other Stuff
 * [A list of videos, papers, and articles I find interesting](other-links.md)
+* [List of Quotes](quotes.md)
 * [File Hashes](hashes.md)
 * UD RockSat-C 2018 Pictures (coming soon)
 * Evans Hall server room end-of-life pictures (coming soon)
