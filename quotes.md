@@ -1,6 +1,6 @@
 # List of Quotes
 
-A list of quotes (most not very serious) I've come across over the years. I've tried to link the orignal source for each. Otherwise I will just link the place or person where I first heard it. The list is ordered from most recently found quotes to least recently.  
+A list of quotes (most not very serious) I've come across over the years. I've tried to link the original source for each. Otherwise I will just link the place or person where I first heard it. The list is ordered from most recently found quotes to least recently.  
 Last updated: 2021-12-26
 
 > Left to their own devices, traffic engineers will always build New Jersey.  
@@ -18,7 +18,7 @@ Last updated: 2021-12-26
 > As the classic joke goes:  
 "What's the difference between a 500hp Supra and a 900hp Supra?"  
 "Absolutely nothing at the strip"  
--- [Some guy on Reddit](https://www.reddit.com/r/cars/comments/omwrvr/supra_with_unlimited_power/h5o7urd/)
+-- [Some guy on Reddit](https://www.reddit.com/r/cars/comments/omwrvr/supra_with_unlimited_power/h5o7urd/) on the 4th generation Toyota Supra
 
 > You beat me Horus Lupercal, you really are the Warhammer 40,000!  
 -- [Man Emperor of Mankind](https://www.reddit.com/r/Grimdank/comments/o3q6db/forgebreaker_is_the_warhammer_40000/h2d8gje/)
@@ -42,7 +42,7 @@ And at the end of it all, the only one who really made money was the bankers.
 -- [Some guy on Reddit](https://www.reddit.com/r/cars/comments/lmxbcq/bloomberg_vw_is_considering_spinning_off_porsche/gny17q7/) and Warren Buffet, apparently
 
 > That's the Detroit motto: If there ain't oil under it, there ain't oil in it!  
-> -- [Some guy on Reddit](https://www.reddit.com/r/Justrolledintotheshop/comments/ld9s3x/too_big_to_roll_into_the_shop_i_rolled_up_to_it/gm4t1o0/)
+> -- [Some guy on Reddit](https://www.reddit.com/r/Justrolledintotheshop/comments/ld9s3x/too_big_to_roll_into_the_shop_i_rolled_up_to_it/gm4t1o0/) on Detroit Diesel  engines
 
 > I'm floored that any engineer saw a pcb and thought "structural"  
 > -- [Some guy on Reddit](https://www.reddit.com/r/hardware/comments/lamvyb/a_message_from_our_ceo_johnny_regarding_the_h1/glp1g59/)
@@ -54,7 +54,7 @@ And at the end of it all, the only one who really made money was the bankers.
 > [Some guy on Reddit](https://www.reddit.com/r/NintendoSwitch/comments/kvfmde/bowsers_fury_will_be_unleashed_in_a_new/giynvqr/)
 
 > It's a nearly indestructible motor in an extremely destructible shell  
-> -- [Some guy on Reddit on the 5.9L Cummins](https://www.reddit.com/r/cars/comments/klpfz5/2004_dodge_ram_2500_5_9_cummins_6mt_regular_car/ghalj71/)
+> -- [Some guy on Reddit](https://www.reddit.com/r/cars/comments/klpfz5/2004_dodge_ram_2500_5_9_cummins_6mt_regular_car/ghalj71/) on the 5.9L Cummins diesel engine
 
 > Reality has a well-known liberal bias.  
 > -- Stephen Colbert
@@ -69,7 +69,7 @@ And at the end of it all, the only one who really made money was the bankers.
 > -- Guy's Hospital Gazette (1914)
 
 > Fact: [Mike](https://i.imgur.com/R3awmiC.jpg) exudes big flask energy  
-> -- [Some guy on Reddit](https://www.reddit.com/r/RedLetterMedia/comments/anl7wu/just_gaze_at_that_beauty/efumwli/)
+> -- [Some guy on Reddit](https://www.reddit.com/r/RedLetterMedia/comments/anl7wu/just_gaze_at_that_beauty/efumwli/) on Mike Stoklasa
 
 > The most unrealistic thing about Warhammer 40k isn't the warp travel, nor the Space Marines, nor is it psykers. It's the fact that the Imperium is actually fairly competent, for a galaxy spanning empire.  
 > -- [Some guy on Reddit](https://www.reddit.com/r/40kLore/comments/a9elvg/all_branches_of_the_imperiums_management_are/ecinwun/)
