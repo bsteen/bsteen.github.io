@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2021-11-19
+Last updated: 2021-12-26
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -15,15 +15,18 @@ Table of Contents
 	* [Electrical Engineering & Electronics](#electrical-engineering--electronics)
 		* [Vintage Electrical Engineering & Electronics](#vintage-electrical-engineering--electronics)
 	* [General Information](#general-information)
+    * [Heavy Industry](#heavy-industry)
 	* [History](#history)
 	* [Mathematics](#mathematics)
 	* [Nuclear](#nuclear)
 	* [Oceans and Boats](#oceans-and-boats)
 	* [Politics](#politics)
+    * [Trains](#trains)
 * [White Papers & Reports](#white-papers--reports)
 
 # Articles, Videos, Websites, Et cetera 
 ## Architecture and Buildings
+* Cupolas: <https://www.thisoldhouse.com/roofing/21018295/cupolas>
 * Regrading in Seattle: https://en.wikipedia.org/wiki/Regrading_in_Seattle
     * Seattle Underground: https://en.wikipedia.org/wiki/Seattle_Underground 
 * Writers' Museum: <https://en.wikipedia.org/wiki/Writers%27_Museum>
@@ -56,6 +59,7 @@ Table of Contents
 * Ilya Repin: <https://en.wikipedia.org/wiki/Ilya_Repin>
 
 ## Automobiles
+* Mitsubishi North America Sold Negative Three (-3) Lancers Last Month (2019): <https://jalopnik.com/mitsubishi-north-america-sold-negative-three-3-lance-1832274956>
 * Images of Change, Closed Chrysler Newark Plant - Lynn Mcdowell (2010, 2011): <https://lynnmcdowell.photoshelter.com/gallery-collection/Images-of-Change-Closed-Chrysler-Newark-Plant/C0000yDtYV7f7bpw>
 * Below are some of the largest original equipment manufactures (OEMs) for car parts. If you are looking for a replacement part, you can search these companies' catalogs and probably find an equivalent or exact replacement.
 	* ACDelco (General Motors): <https://en.wikipedia.org/wiki/ACDelco>
@@ -68,6 +72,8 @@ Table of Contents
 * DTM 1991 - Season Review (English Commentary): <https://www.youtube.com/watch?v=v5_fmSRouf4>
 
 ## Chemistry
+* Creosote: <https://en.wikipedia.org/wiki/Creosote>
+* SCOBY: <https://en.wikipedia.org/wiki/SCOBY>
 * AT&T Archives: The Physical Chemistry of Polymers (1962): <https://www.youtube.com/watch?v=DeRcPO5lVwQ>
 * AT&T Archives: Crystal Growth Morphologies, a 1974 microscopic film study from Bell Laboratories: <https://www.youtube.com/watch?v=Y3GwvN5W1dE>
 
@@ -120,6 +126,7 @@ Table of Contents
 * M/o/Vfuscator: The single instruction C compiler: <https://github.com/xoreaxeaxeax/movfuscator>
 
 ## Economics & Finance
+* Bulge bracket: <https://en.wikipedia.org/wiki/Bulge_bracket>
 * Banq (term): <https://en.wikipedia.org/wiki/Banq_(term)>
 
 ## Electrical Engineering & Electronics
@@ -149,12 +156,18 @@ Table of Contents
 * The Transistor: a 1953 documentary, anticipating its coming impact on technology: <https://www.youtube.com/watch?v=V9xUQWo4vN0>
 
 ## General Information
+* Virginia Tech Bicycle Helmet Ratings: <https://www.helmet.beam.vt.edu/bicycle-helmet-ratings.html>
 * Drop Shipping: <https://en.wikipedia.org/wiki/Drop_shipping>
 * Inside Earth's Doomsday Seed Vault - Vice (2020): <https://www.youtube.com/watch?v=6AzG9EZ20tY>
 * How It's Made: Bourbon - Science Channel (2020): <https://www.youtube.com/watch?v=-VscpKT7tXE>
 * What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
 
+## Heavy Industry
+* Heavy Press Program - United States Air Force (1951): https://www.youtube.com/watch?v=iZ50nZU3oG8
+    * <https://en.wikipedia.org/wiki/Heavy_Press_Program>
+
 ## History
+* Great Smog of London: <https://en.wikipedia.org/wiki/Great_Smog_of_London>
 * The Codex Argenteus: <https://www.atlasobscura.com/articles/silver-purple-bible-codex-mysterious-centuries>
 * Ħal Saflieni Hypogeum: <https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum>
 * *Index Librorum Prohibitorum*: <https://en.wikipedia.org/wiki/Index_Librorum_Prohibitorum>
@@ -167,6 +180,8 @@ Table of Contents
 * The On-Line Encyclopedia of Integer Sequences: <https://oeis.org/>
 
 ## Nuclear
+* Sandia Containment Testing and FEA (2017): <https://www.xceed-eng.com/reactor-containment-test-and-fea/>
+* Westinghouse Atom Smasher: <https://en.wikipedia.org/wiki/Westinghouse_Atom_Smasher>
 * Pig: <https://www.nrc.gov/reading-rm/basic-ref/glossary/pig.html>
 * Moving Nuclear Waste Around - David Ruzic (2019): <https://www.youtube.com/watch?v=sLwqokQ7Gpk>
 * Radioisotope thermoelectric generator: <https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator>
@@ -179,6 +194,8 @@ Table of Contents
 * The Nuclear Novel and Language: <http://histscifi.com/essays/gordin/languages>
 
 ## Oceans and Boats
+* Ghost ship: <https://en.wikipedia.org/wiki/Ghost_ship>
+* Heaving to: <https://en.wikipedia.org/wiki/Heaving_to>
 * Twenty-foot equivalent unit (TEU): <https://en.wikipedia.org/wiki/Twenty-foot_equivalent_unit>
 * United States Lighthouse Service: <https://en.wikipedia.org/wiki/United_States_Lighthouse_Service>
 * Draupner wave: <https://en.wikipedia.org/wiki/Draupner_wave>
@@ -192,6 +209,10 @@ Table of Contents
 
 ## Politics
 * EXPLAINER: Why do the media call races in US elections? - Associated Press (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
+
+## Trains
+* Telescoping (rail cars): <https://en.wikipedia.org/wiki/Telescoping_%28rail_cars%29>
+* End-of-train device (flashing rear-end device, FRED): <https://en.wikipedia.org/wiki/End-of-train_device>
 
 # White Papers & Reports:
 * FUZZIFICATION: Anti-Fuzzing Techniques (2019): <https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf>
