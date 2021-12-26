@@ -1,6 +1,7 @@
 # File Hashes
 This is a list of file hashes for media I own and have backed up. You can use these hashes for your own verification or comparison.
 I make no guarantees on the accuracy of the entires below to the orignal source media. These represent the results I got from the media I own. The file hash tables were generated with this [script](https://github.com/bsteen/simple-scripts/blob/master/hashmd.sh).  
+Last Updated: 2021-12-26
 
 ## PC Games
 
