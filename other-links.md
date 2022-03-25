@@ -249,6 +249,7 @@ Table of Contents
 
 ## Trains
 * Woodbridge train derailment: <https://en.wikipedia.org/wiki/Woodbridge_train_derailment>
+    * Fun fact: my great-uncle's father was on this train in 1951 and survived.
 * Telescoping (rail cars): <https://en.wikipedia.org/wiki/Telescoping_%28rail_cars%29>
 * End-of-train device (flashing rear-end device, FRED): <https://en.wikipedia.org/wiki/End-of-train_device>
 
