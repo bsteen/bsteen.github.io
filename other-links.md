@@ -27,6 +27,8 @@ Table of Contents
 
 # Articles, Videos, Websites, Et cetera 
 ## Architecture and Buildings
+* Rainier Tower: <https://en.wikipedia.org/wiki/Rainier_Tower>
+* BOK Tower: <https://en.wikipedia.org/wiki/BOK_Tower>
 * Leadenhall Market: <https://en.wikipedia.org/wiki/Leadenhall_Market>
 * 375 Pearl Street, New York, NY (Verizon Building): <https://en.wikipedia.org/wiki/375_Pearl_Street>
 * Corporation Trust Center, Wilmington, DE: <https://en.wikipedia.org/wiki/Corporation_Trust_Center_(CT_Corporation)>
@@ -131,6 +133,7 @@ Table of Contents
 * M/o/Vfuscator: The single instruction C compiler: <https://github.com/xoreaxeaxeax/movfuscator>
 
 ## Economics & Finance
+* Good Delivery: <https://en.wikipedia.org/wiki/Good_Delivery>
 * Wilmington Trust: <https://en.wikipedia.org/wiki/Wilmington_Trust>
 * Corporation Service Company: <https://en.wikipedia.org/wiki/Corporation_Service_Company>
 * Bulge bracket: <https://en.wikipedia.org/wiki/Bulge_bracket>
@@ -225,6 +228,7 @@ Table of Contents
 * EXPLAINER: Why do the media call races in US elections? - Associated Press (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
 
 ## Trains
+* Woodbridge train derailment: <https://en.wikipedia.org/wiki/Woodbridge_train_derailment>
 * Telescoping (rail cars): <https://en.wikipedia.org/wiki/Telescoping_%28rail_cars%29>
 * End-of-train device (flashing rear-end device, FRED): <https://en.wikipedia.org/wiki/End-of-train_device>
 
