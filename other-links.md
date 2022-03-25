@@ -14,7 +14,7 @@ Table of Contents
 	* [Economics & Finance](#economics--finance)
 	* [Electrical Engineering & Electronics](#electrical-engineering--electronics)
 		* [Vintage Electrical Engineering & Electronics](#vintage-electrical-engineering--electronics)
-	* [Geography](#geography)
+	* [Geography and Natural Formations](#geography-and-natural-formations)
 	* [General Information](#general-information)
     * [Heavy Industry](#heavy-industry)
 	* [History](#history)
@@ -27,6 +27,8 @@ Table of Contents
 
 # Articles, Videos, Websites, Et cetera 
 ## Architecture and Buildings
+* Chalet: <https://en.wikipedia.org/wiki/Chalet>
+* American Craftsman: <https://en.wikipedia.org/wiki/American_Craftsman>
 * Rainier Tower: <https://en.wikipedia.org/wiki/Rainier_Tower>
 * BOK Tower: <https://en.wikipedia.org/wiki/BOK_Tower>
 * Leadenhall Market: <https://en.wikipedia.org/wiki/Leadenhall_Market>
@@ -78,6 +80,7 @@ Table of Contents
 * DTM 1991 - Season Review (English Commentary): <https://www.youtube.com/watch?v=v5_fmSRouf4>
 
 ## Chemistry
+* Benzene: <https://en.wikipedia.org/wiki/Benzene>
 * Potassium nitrate (saltpeter): <https://en.wikipedia.org/wiki/Potassium_nitrate>
 * Creosote: <https://en.wikipedia.org/wiki/Creosote>
 * SCOBY: <https://en.wikipedia.org/wiki/SCOBY>
@@ -133,6 +136,7 @@ Table of Contents
 * M/o/Vfuscator: The single instruction C compiler: <https://github.com/xoreaxeaxeax/movfuscator>
 
 ## Economics & Finance
+* Swiss Re: <https://en.wikipedia.org/wiki/Swiss_Re>
 * Good Delivery: <https://en.wikipedia.org/wiki/Good_Delivery>
 * Wilmington Trust: <https://en.wikipedia.org/wiki/Wilmington_Trust>
 * Corporation Service Company: <https://en.wikipedia.org/wiki/Corporation_Service_Company>
@@ -165,17 +169,30 @@ Table of Contents
 * The LM6142 Story: <http://www.idea2ic.com/LM6142/LM6142_Story.html>
 * The Transistor: a 1953 documentary, anticipating its coming impact on technology: <https://www.youtube.com/watch?v=V9xUQWo4vN0>
 
-## Geography
+## Geography and Natural Formations
+* Burning Mountain: <https://en.wikipedia.org/wiki/Burning_Mountain>
+    * Coal-seam fire: <https://en.wikipedia.org/wiki/Coal-seam_fire>
+* Lake Toba: <https://en.wikipedia.org/wiki/Lake_Toba>
+* Great Dismal Swamp: <https://en.wikipedia.org/wiki/Great_Dismal_Swamp>
+* Piedmont (United States): <https://en.wikipedia.org/wiki/Piedmont_(United_States)>
+* Vernal pool: <https://en.wikipedia.org/wiki/Vernal_pool>
+* Vortex Spring: <https://en.wikipedia.org/wiki/Vortex_Spring>
 * Novaya Zemlya: <https://en.wikipedia.org/wiki/Novaya_Zemlya>
 
 ## General Information
+* Sun dog: <https://en.wikipedia.org/wiki/Sun_dog>
+* Portland cement: <https://en.wikipedia.org/wiki/Portland_cement>
+* Knock-down kit: <https://en.wikipedia.org/wiki/Knock-down_kit>
 * Virginia Tech Bicycle Helmet Ratings: <https://www.helmet.beam.vt.edu/bicycle-helmet-ratings.html>
-* Drop Shipping: <https://en.wikipedia.org/wiki/Drop_shipping>
 * Inside Earth's Doomsday Seed Vault - Vice (2020): <https://www.youtube.com/watch?v=6AzG9EZ20tY>
+* Drop Shipping: <https://en.wikipedia.org/wiki/Drop_shipping>
 * How It's Made: Bourbon - Science Channel (2020): <https://www.youtube.com/watch?v=-VscpKT7tXE>
 * What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
 
 ## Heavy Industry
+* Irving Group of Companies: <https://en.wikipedia.org/wiki/Irving_Group_of_Companies>
+* Intermodal container: <https://en.wikipedia.org/wiki/Intermodal_container>
+* Floating sheerleg: <https://en.wikipedia.org/wiki/Floating_sheerleg>
 * Cofferdam: <https://en.wikipedia.org/wiki/Cofferdam>
 * Byford Dolphin: <https://en.wikipedia.org/wiki/Byford_Dolphin>
 * Urals Automotive Plant (UralAZ): <https://en.wikipedia.org/wiki/Ural_Automotive_Plant>
@@ -211,6 +228,9 @@ Table of Contents
 * The Nuclear Novel and Language: <http://histscifi.com/essays/gordin/languages>
 
 ## Oceans and Boats
+* Well dock: <https://en.wikipedia.org/wiki/Well_dock>
+* NOAAS Rainier: <https://en.wikipedia.org/wiki/NOAAS_Rainier>
+* Shackleton's Endurance: The impossible search for the greatest shipwreck (2022): <https://www.bbc.com/news/science-environment-60239105>
 * Ghost ship: <https://en.wikipedia.org/wiki/Ghost_ship>
 * Heaving to: <https://en.wikipedia.org/wiki/Heaving_to>
 * Twenty-foot equivalent unit (TEU): <https://en.wikipedia.org/wiki/Twenty-foot_equivalent_unit>
