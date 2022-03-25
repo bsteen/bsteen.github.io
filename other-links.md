@@ -7,13 +7,13 @@ Table of Contents
 	* [Artists](#artists)
 	* [Automobiles](#automobiles)
 	* [Chemistry](#chemistry)
-	* [Computer Science & Software](#computer-science--software)
+	* [Computer Science and Software](#computer-science-and-software)
 		* [Video Games](#video-games)
-		* [Vintage Computer Science & Software](#vintage-computer-science--software)
-	* [Computer Security & Reverse Engineering](#computer-security--reverse-engineering)
-	* [Economics & Finance](#economics--finance)
-	* [Electrical Engineering & Electronics](#electrical-engineering--electronics)
-		* [Vintage Electrical Engineering & Electronics](#vintage-electrical-engineering--electronics)
+		* [Vintage Computer Science and Software](#vintage-computer-science-and-software)
+	* [Computer Security and Reverse Engineering](#computer-security-and-reverse-engineering)
+	* [Economics and Finance](#economics-and-finance)
+	* [Electrical Engineering and Electronics](#electrical-engineering-and-electronics)
+		* [Vintage Electrical Engineering and Electronics](#vintage-electrical-engineering-and-electronics)
 	* [Geography and Natural Formations](#geography-and-natural-formations)
 	* [General Information](#general-information)
     * [Heavy Industry](#heavy-industry)
@@ -23,7 +23,7 @@ Table of Contents
 	* [Oceans and Boats](#oceans-and-boats)
 	* [Politics](#politics)
     * [Trains](#trains)
-* [White Papers & Reports](#white-papers--reports)
+* [White Papers and Reports](#white-papers-and-reports)
 
 # Articles, Videos, Websites, Et cetera 
 ## Architecture and Buildings
@@ -87,7 +87,7 @@ Table of Contents
 * AT&T Archives: The Physical Chemistry of Polymers (1962): <https://www.youtube.com/watch?v=DeRcPO5lVwQ>
 * AT&T Archives: Crystal Growth Morphologies, a 1974 microscopic film study from Bell Laboratories: <https://www.youtube.com/watch?v=Y3GwvN5W1dE>
 
-## Computer Science & Software:
+## Computer Science and Software:
 * The Secret History of Windows Bluescreens by Davepl (2021): <https://www.youtube.com/watch?v=KgqJJECQQH0>
 * The Secret History of Windows Task Manager: Part 1 - Retired Microsoft Engineer Davepl (2020): <https://www.youtube.com/watch?v=f8VBOiPV-_M>
 * How NOT to Measure Latency - Gil Tene, Strange Loops 2015: <https://www.youtube.com/watch?v=lJ8ydIuPFeU>
@@ -107,7 +107,7 @@ Table of Contents
 * Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi, CDC 2017: <https://www.youtube.com/watch?v=QyMsF31NdNc>
 * Dwarf Fortress Live - PAX West 2019: <https://www.youtube.com/watch?v=WW_dHPtC2wg>
 * DOOM: Behind the Music - Mick Gordon, CDC 2017: <https://www.youtube.com/watch?v=U4FNBMZsqrY>
-### Vintage Computer Science & Software
+### Vintage Computer Science and Software
 * Discovering Dennis Ritchie's Lost Dissertation - David C. Brock (2020): <https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/>
     * Recreating Dennis Ritchie's PhD Thesis - Computerphile (2021): <https://youtu.be/82TxNejKsng>
 * Uptime 15,364 days - The Computers of Voyager - Aaron Cummings, Strange Loops 2019: <https://www.youtube.com/watch?v=H62hZJVqs2o>
@@ -119,7 +119,7 @@ Table of Contents
 * Pictures of Bell Labs (1969 - 1970): <http://www.larryluckham.com/1969%20&%2070%20-%20Bell%20Labs/album/index.html>
 	* Pictures inside Bell Labs, Oakland, CA; taken by an employee some time between 1969 and 1970.
 
-## Computer Security & Reverse Engineering
+## Computer Security and Reverse Engineering
 * Semiconductor Security Awareness, Today and Yesterday - Christopher Tarnovsky, Black Hat USA 2010: <https://www.youtube.com/watch?v=WXX00tRKOlw>
 * Tales from Hardware Security Research - Johannes and Marc, CCC 2019: <https://www.youtube.com/watch?v=WqAHCpe8Oxw>
 * Lightening fast CTF solving - Automatic Exploit Generation & Side Channel Analysis - Christoper Roberts, BSides DC 2018: <https://www.youtube.com/watch?v=-4goiRPcxl4>
@@ -135,7 +135,7 @@ Table of Contents
 * Demovfuscator: A work-in-progress deobfuscator for movfuscated binaries: <https://github.com/kirschju/demovfuscator>
 * M/o/Vfuscator: The single instruction C compiler: <https://github.com/xoreaxeaxeax/movfuscator>
 
-## Economics & Finance
+## Economics and Finance
 * Swiss Re: <https://en.wikipedia.org/wiki/Swiss_Re>
 * Good Delivery: <https://en.wikipedia.org/wiki/Good_Delivery>
 * Wilmington Trust: <https://en.wikipedia.org/wiki/Wilmington_Trust>
@@ -143,7 +143,7 @@ Table of Contents
 * Bulge bracket: <https://en.wikipedia.org/wiki/Bulge_bracket>
 * Banq (term): <https://en.wikipedia.org/wiki/Banq_(term)>
 
-## Electrical Engineering & Electronics
+## Electrical Engineering and Electronics
 * How anti-theft tags work - magnetostriction (2015): https://www.youtube.com/watch?v=KAm7qAKAXwI
 * Capacitor plague (1999 - 2007): https://en.wikipedia.org/wiki/Capacitor_plague
 * Counterfeit electronic components: https://en.wikipedia.org/wiki/Counterfeit_electronic_components
@@ -161,7 +161,7 @@ Table of Contents
 * An in-depth look at Google’s first Tensor Processing Unit (TPU): <https://cloud.google.com/blog/products/gcp/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu>
 * Zeptobars (IC die analysis): <https://zeptobars.com/en/>
 * J.C. Bose: 60 GHz in the 1890s: <https://www.cv.nrao.edu/~demerson/bose/bose.html>
-## Vintage Electrical Engineering & Electronics
+## Vintage Electrical Engineering and Electronics
 * AT&T Archives: Communications Satellites Documentary (1987): <https://www.youtube.com/watch?v=3tsDqlnP0Xw>
 * Tektronix Printed Circuit Boards (1969): <https://www.youtube.com/watch?v=7weZ0TNRcuw>
 * AT&T Archives: Principles of the Optical Maser (1963): <https://www.youtube.com/watch?v=vuORqMb481k>
@@ -252,7 +252,7 @@ Table of Contents
 * Telescoping (rail cars): <https://en.wikipedia.org/wiki/Telescoping_%28rail_cars%29>
 * End-of-train device (flashing rear-end device, FRED): <https://en.wikipedia.org/wiki/End-of-train_device>
 
-# White Papers & Reports:
+# White Papers and Reports:
 * FUZZIFICATION: Anti-Fuzzing Techniques (2019): <https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf>
 * FORESHADOW: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution (2018): <https://foreshadowattack.eu/foreshadow.pdf>
 * Fallout: Reading Kernel Writes From User Space (2019): <https://arxiv.org/pdf/1905.12701.pdf>
