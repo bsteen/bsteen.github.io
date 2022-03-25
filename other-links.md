@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2021-12-26
+Last updated: 2022-3-25
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -14,6 +14,7 @@ Table of Contents
 	* [Economics & Finance](#economics--finance)
 	* [Electrical Engineering & Electronics](#electrical-engineering--electronics)
 		* [Vintage Electrical Engineering & Electronics](#vintage-electrical-engineering--electronics)
+	* [Geography](#geography)
 	* [General Information](#general-information)
     * [Heavy Industry](#heavy-industry)
 	* [History](#history)
@@ -26,6 +27,9 @@ Table of Contents
 
 # Articles, Videos, Websites, Et cetera 
 ## Architecture and Buildings
+* Leadenhall Market: <https://en.wikipedia.org/wiki/Leadenhall_Market>
+* 375 Pearl Street, New York, NY (Verizon Building): <https://en.wikipedia.org/wiki/375_Pearl_Street>
+* Corporation Trust Center, Wilmington, DE: <https://en.wikipedia.org/wiki/Corporation_Trust_Center_(CT_Corporation)>
 * Cupolas: <https://www.thisoldhouse.com/roofing/21018295/cupolas>
 * Regrading in Seattle: https://en.wikipedia.org/wiki/Regrading_in_Seattle
     * Seattle Underground: https://en.wikipedia.org/wiki/Seattle_Underground 
@@ -72,6 +76,7 @@ Table of Contents
 * DTM 1991 - Season Review (English Commentary): <https://www.youtube.com/watch?v=v5_fmSRouf4>
 
 ## Chemistry
+* Potassium nitrate (saltpeter): <https://en.wikipedia.org/wiki/Potassium_nitrate>
 * Creosote: <https://en.wikipedia.org/wiki/Creosote>
 * SCOBY: <https://en.wikipedia.org/wiki/SCOBY>
 * AT&T Archives: The Physical Chemistry of Polymers (1962): <https://www.youtube.com/watch?v=DeRcPO5lVwQ>
@@ -126,6 +131,8 @@ Table of Contents
 * M/o/Vfuscator: The single instruction C compiler: <https://github.com/xoreaxeaxeax/movfuscator>
 
 ## Economics & Finance
+* Wilmington Trust: <https://en.wikipedia.org/wiki/Wilmington_Trust>
+* Corporation Service Company: <https://en.wikipedia.org/wiki/Corporation_Service_Company>
 * Bulge bracket: <https://en.wikipedia.org/wiki/Bulge_bracket>
 * Banq (term): <https://en.wikipedia.org/wiki/Banq_(term)>
 
@@ -155,6 +162,9 @@ Table of Contents
 * The LM6142 Story: <http://www.idea2ic.com/LM6142/LM6142_Story.html>
 * The Transistor: a 1953 documentary, anticipating its coming impact on technology: <https://www.youtube.com/watch?v=V9xUQWo4vN0>
 
+## Geography
+* Novaya Zemlya: <https://en.wikipedia.org/wiki/Novaya_Zemlya>
+
 ## General Information
 * Virginia Tech Bicycle Helmet Ratings: <https://www.helmet.beam.vt.edu/bicycle-helmet-ratings.html>
 * Drop Shipping: <https://en.wikipedia.org/wiki/Drop_shipping>
@@ -163,6 +173,10 @@ Table of Contents
 * What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
 
 ## Heavy Industry
+* Cofferdam: <https://en.wikipedia.org/wiki/Cofferdam>
+* Byford Dolphin: <https://en.wikipedia.org/wiki/Byford_Dolphin>
+* Urals Automotive Plant (UralAZ): <https://en.wikipedia.org/wiki/Ural_Automotive_Plant>
+* KAMAZ: <https://en.wikipedia.org/wiki/Kamaz>
 * Heavy Press Program - United States Air Force (1951): https://www.youtube.com/watch?v=iZ50nZU3oG8
     * <https://en.wikipedia.org/wiki/Heavy_Press_Program>
 
