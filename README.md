@@ -23,6 +23,7 @@
 # Other Stuff
 * [A list of videos, papers, and articles I find interesting](other-links.md)
 * [List of Quotes](quotes.md)
+* [Mazda Mazda3 (BL / 2nd Generation) Information](mazda3-bl.md)
 * [File Hashes](hashes.md)
 * UD RockSat-C 2018 Pictures (coming soon)
 * Evans Hall server room end-of-life pictures (coming soon)
