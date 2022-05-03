@@ -1,7 +1,7 @@
 # Benjamin Steenkamer
-* LinkedIn: https://linkedin.com/in/steenkamerben
-* GitHub: https://github.com/bsteen
-* IEEE Xplore: https://ieeexplore.ieee.org/author/37088505780
+* LinkedIn: <https://linkedin.com/in/steenkamerben>
+* GitHub: <https://github.com/bsteen>
+* IEEE Xplore: <https://ieeexplore.ieee.org/author/37088505780>
 
 # Published Papers
 * Benjamin P. Steenkamer, "[An Empirical Study on Use-After-Free Vulnerabilities](https://udspace.udel.edu/bitstream/handle/19716/25078/Steenkamer_udel_0060M_13943.pdf)", University of Delaware, Master's thesis, August 2019.
