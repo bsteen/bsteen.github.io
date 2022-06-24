@@ -15,7 +15,7 @@ TODO
 
 # Mazda ATF M-V (Type M5)
 ## Idemitsu M vs. Mazda M5 ATFs
-On the label for Mazda M5 ATF (part number [0000-77-112E-01]([smile.amazon.com/dp/B00GKGCP5G](https://smile.amazon.com/dp/B00GKGCP5G))), it states it is manufactured by Idemitsu Lubricants America Corporation. Idemitsu also makes their own M5 compatible ATF, [Idemitsu Type M ATF](https://smile.amazon.com/dp/B071X4DRXN). I was hoping I could get the identical ATF from the OEM because it is cheaper than the Mazda branded ATF. After emailing ILAC, it turns out **Idemitsu branded and Mazda branded ATF formulations are NOT the same**. Below in a transcript of my initial email and the official response from ILAC:
+On the label for Mazda M5 ATF (part number [0000-77-112E-01](https://smile.amazon.com/dp/B00GKGCP5G)), it states it is manufactured by Idemitsu Lubricants America Corporation. Idemitsu also makes their own M5 compatible ATF, [Idemitsu Type M ATF](https://smile.amazon.com/dp/B071X4DRXN). I was hoping I could get the identical ATF from the OEM because it is cheaper than the Mazda branded ATF. After emailing ILAC, it turns out **Idemitsu branded and Mazda branded ATF formulations are NOT the same**. Below in a transcript of my initial email and the official response from ILAC:
 
 ```
 Hello,
