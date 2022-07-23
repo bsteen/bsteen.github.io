@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2022-3-25
+Last updated: 2022-7-23
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -88,6 +88,7 @@ Table of Contents
 * AT&T Archives: Crystal Growth Morphologies, a 1974 microscopic film study from Bell Laboratories: <https://www.youtube.com/watch?v=Y3GwvN5W1dE>
 
 ## Computer Science and Software:
+* Killed by Google: <https://killedbygoogle.com>
 * The Secret History of Windows Bluescreens by Davepl (2021): <https://www.youtube.com/watch?v=KgqJJECQQH0>
 * The Secret History of Windows Task Manager: Part 1 - Retired Microsoft Engineer Davepl (2020): <https://www.youtube.com/watch?v=f8VBOiPV-_M>
 * How NOT to Measure Latency - Gil Tene, Strange Loops 2015: <https://www.youtube.com/watch?v=lJ8ydIuPFeU>
