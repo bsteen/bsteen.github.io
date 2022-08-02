@@ -6,7 +6,7 @@
 Updated: 2022-8-2
 
 # Mazda OE Parts
-- When looking for Mazda original equipment (OE) parts, there are 3 main store types to choose from: Mazda Dealerships, Various OE part sellers (places that sell OE parts for many different makes), and the usual independent party seller platforms (Amazon, eBay, etc.)
+- When looking for Mazda original equipment (OE) parts, there are 3 main store types to choose from: Mazda Dealerships, Various OE part sellers (places that sell OE parts for many different brands), and the usual independent party seller platforms (Amazon, eBay, etc.)
 - In general, but especially with the various OE websites, send them a message before ordering parts to make sure all the parts are actually in stock
 - It seems random whether an online seller will ship fluids or not; for example automatic transmission fluid (ATF) and engine coolant
 - I've had both Mazda dealerships and general OE sites say they don't ship engine coolant: "We do not ship hazardous material"
@@ -19,7 +19,7 @@ Updated: 2022-8-2
 
 ## Mazda Dealer Websites
 - <https://getmazdaparts.com>
-    - Lunenburg, MA; Address is the same for North End Mazda
+    - Lunenburg, MA; address is the same for North End Mazda
     - Order payments are made to Colonial Imports West Inc.
     - Shipped items the afternoon I ordered them, took a week to arrive
     - Prices are pretty good
@@ -37,9 +37,7 @@ Updated: 2022-8-2
     - Does ship ATF
 
 ## Various OE Websites
-- Various OE parts website, will usually have cheaper prices than Mazda dealer websites
-- The issue is that they are more likely to not have the part in stock even when they say it is
-- They also take a longer time to ship out the parts versus dealer websites, in my experience
+Various OE parts websites (places that sell OE parts for many different brands) will usually have cheaper prices than Mazda dealership websites. The issue is that they are more likely to not have the part in stock even when they say it is. They also take a longer time to ship out the parts versus dealer websites, in my experience.
 
 - <https://getoemparts.com>
     - Cranston, RI; believe it is part of Tasca Automotive dealership network
