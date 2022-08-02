@@ -4,7 +4,8 @@
 - Example used: 2010 Mazda Mazda3s (2.5L engine), 5 door (hatch back), automatic transmission
 
 # Mazda OE Parts
-- In general, but especially with General original equipment (OE) websites, send them a message before ordering parts to make sure all the parts are actually in stock
+- When looking for Mazda original equipment (OE) parts, there are 3 main store types to choose from: Mazda Dealerships, Various OE part sellers (places that sell OE parts for many different makes), and the usual independent party seller platforms (Amazon, eBay, etc.)
+- In general, but especially with the various OE websites, send them a message before ordering parts to make sure all the parts are actually in stock
 - It seems random whether an online seller will ship fluids or not; for example automatic transmission fluid (ATF) and engine coolant
 - I've had both Mazda dealerships and general OE sites say they don't ship engine coolant: "We do not ship hazardous material"
     - Specifically for coolant, some sites explicitly state it is not available for shipping, while other don't mention it until after they refund your order without notice
@@ -27,8 +28,8 @@
     - They usually have a 10% of shipping coupon; check the website header or coupon sites for it
     - Does ship ATF
 
-## General OE Websites
-- General OE parts website, places that sell OE parts for many different makes, will usually have cheaper prices than Mazda dealer websites
+## Various OE Websites
+- Various OE parts website, will usually have cheaper prices than Mazda dealer websites
 - The issue is that they are more likely to not have the part in stock even when they say it is
 - They also take a longer time to ship out the parts versus dealer websites, in my experience
 
