@@ -17,12 +17,12 @@ Updated: 2022-8-2
     - Dealers will pretty much always have ATF and other common fluids in stock, but you again have to make sure they will actually ship
     - You can usually select pick up for dealerships if you live nearby
 
-## Mazda Dealer Websites
+## Mazda Dealership Websites
 - <https://getmazdaparts.com>
     - Lunenburg, MA; address is the same for North End Mazda
     - Order payments are made to Colonial Imports West Inc.
     - Shipped items the afternoon I ordered them, took a week to arrive
-    - Prices are pretty good
+    - Prices are generally one of the lowest out of other Mazda dealer sites
     - Does ship ATF
 - <https://mazdacarpartsonline>
     - Cincinnati, OH; part of the Jake Sweeney Automotive dealership network
