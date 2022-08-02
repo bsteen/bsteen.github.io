@@ -3,6 +3,44 @@
 - Years: 2008 - 2013, 2nd Generation (BL)
 - Example used: 2010 Mazda Mazda3s (2.5L engine), 5 door (hatch back), automatic transmission
 
+# Mazda OE Parts
+- In general, but especially with General original equipment (OE) websites, send them a message before ordering parts to make sure all the parts are actually in stock
+- It seems random whether an online seller will ship fluids or not; for example automatic transmission fluid (ATF) and engine coolant
+- I've had both Mazda dealerships and general OE sites say they don't ship engine coolant: "We do not ship hazardous material"
+    - Specifically for coolant, some sites explicitly state it is not available for shipping, while other don't mention it until after they refund your order without notice
+- For fluids like ATF, it is a mixed bag
+    - I've had one dealer say they don't ship liquids period, while 2 others shipped ATF without question
+    - I've also had a general OE website say they would ship ATF, but they never have the Mazda M5 in stock
+    - Dealers will pretty much always have ATF and other common fluids in stock, but you again have to make sure they will actually ship
+    - You can usually select pick up for dealerships if you live nearby
+
+## Mazda Dealer Websites
+- <https://mazdacarpartsonline>
+    - Cincinnati, OH; part of the Jake Sweeney dealership network
+    - Order purchases are processed through Jake Sweeney Chevrolet Imports
+    - They do not ship fluids, including ATF
+- <https://mazdaswag.com>
+    - Peoria, IL; part of the Scherer Automotive dealership network
+    - Order purchases are processed through Scherer Automotive Inc.
+    - Time from purchase to shipping was pretty quick
+    - Order arrived in 4 days of shipping, even with the cheapest shipping option
+    - They usually have a 10% of shipping coupon; check the website header or coupon sites for it
+    - Does ship ATF
+
+## General OE Websites
+- General OE parts website, places that sell OE parts for many different makes, will usually have cheaper prices than Mazda dealer websites
+- The issue is that they are more likely to not have the part in stock even when they say it is
+- They also take a longer time to ship out the parts versus dealer websites, in my experience
+
+- <https://getoemparts.com>
+    - Cranston, RI; part of the <https://newautoparts.com> network
+    - Order purchases are processed through NewAutoParts.com (New Auto Parts, LLC)
+    - Generally has the lowest prices for OE Mazda parts anywhere else on the internet (make sure to check other places to be sure)
+    - The issue is that they've told me several times that common Mazda parts are either not actually in stock or need to be special ordered
+    - They take their time between receiving the order and actually shipping the parts
+    - If the item is actually in stock and you don't mind waiting for shipping, this place is usually the cheapest by a few dollars
+    - They do ship ATF, but M5 ATF always seem to be out of stock
+
 # Car Ramps
 - RhinoGear RhinoRamps (11914MI, 12K lbs.) **DO NOT** work with this car. The front bumper is too long and low for the angle of these ramps. The bumper will scrape and push the ramps. This is with the stock ride height and wheel size. See the picture below. 
     - Yes, the ramp is on an uneven surface in this picture. But even on a flat surface, the ramp height is still 2+ inches over the top of the front bumper. They will not work with this car without a modification/extension to the ramps.
