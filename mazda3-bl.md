@@ -3,6 +3,8 @@
 - Years: 2008 - 2013, 2nd Generation (BL)
 - Example used: 2010 Mazda Mazda3s (2.5L engine), 5 door (hatch back), automatic transmission
 
+Updated: 2022-8-2
+
 # Mazda OE Parts
 - When looking for Mazda original equipment (OE) parts, there are 3 main store types to choose from: Mazda Dealerships, Various OE part sellers (places that sell OE parts for many different makes), and the usual independent party seller platforms (Amazon, eBay, etc.)
 - In general, but especially with the various OE websites, send them a message before ordering parts to make sure all the parts are actually in stock
@@ -16,13 +18,19 @@
     - You can usually select pick up for dealerships if you live nearby
 
 ## Mazda Dealer Websites
+- <https://getmazdaparts.com>
+    - Lunenburg, MA; Address is the same for North End Mazda
+    - Order payments are made to Colonial Imports West Inc.
+    - Shipped items the afternoon I ordered them, took a week to arrive
+    - Prices are pretty good
+    - Does ship ATF
 - <https://mazdacarpartsonline>
-    - Cincinnati, OH; part of the Jake Sweeney dealership network
-    - Order purchases are processed through Jake Sweeney Chevrolet Imports
+    - Cincinnati, OH; part of the Jake Sweeney Automotive dealership network
+    - Order payments are made to Jake Sweeney Chevrolet Imports
     - They do not ship fluids, including ATF
 - <https://mazdaswag.com>
     - Peoria, IL; part of the Scherer Automotive dealership network
-    - Order purchases are processed through Scherer Automotive Inc.
+    - Order payments are made to Scherer Automotive Inc.
     - Time from purchase to shipping was pretty quick
     - Order arrived in 4 days of shipping, even with the cheapest shipping option
     - They usually have a 10% of shipping coupon; check the website header or coupon sites for it
@@ -34,9 +42,10 @@
 - They also take a longer time to ship out the parts versus dealer websites, in my experience
 
 - <https://getoemparts.com>
-    - Cranston, RI; part of the <https://newautoparts.com> network
-    - Order purchases are processed through NewAutoParts.com (New Auto Parts, LLC)
-    - Generally has the lowest prices for OE Mazda parts anywhere else on the internet (make sure to check other places to be sure)
+    - Cranston, RI; believe it is part of Tasca Automotive dealership network
+        - Tasca has a location in Cranston, RI and has an automotive collision repair shop at Get OEM Part's address
+    - Order payments are made to NewAutoParts.com (New Auto Parts, LLC), another OE parts seller presumably also part of Tasca
+    - Generally has the lowest prices for OE Mazda parts anywhere else on the internet
     - The issue is that they've told me several times that common Mazda parts are either not actually in stock or need to be special ordered
     - They take their time between receiving the order and actually shipping the parts
     - If the item is actually in stock and you don't mind waiting for shipping, this place is usually the cheapest by a few dollars
