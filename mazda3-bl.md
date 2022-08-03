@@ -40,9 +40,8 @@ Updated: 2022-8-2
 Various OE parts websites (places that sell OE parts for many different brands) will usually have cheaper prices than Mazda dealership websites. The issue is that they are more likely to not have the part in stock even when they say it is. They also take a longer time to ship out the parts versus dealer websites, in my experience.
 
 - <https://getoemparts.com>
-    - Cranston, RI; believe it is part of Tasca Automotive dealership network
-        - Tasca has a location in Cranston, RI and has an automotive collision repair shop at Get OEM Part's address
-    - Order payments are made to NewAutoParts.com (New Auto Parts, LLC), another OE parts seller presumably also part of Tasca
+    - Cranston, RI; part of the Tasca Automotive dealership network (Tasca Parts)
+    - Order payments are made to NewAutoParts.com (New Auto Parts, LLC), another OE parts seller presumably also part of Tasca Parts
     - Generally has the lowest prices for OE Mazda parts anywhere else on the internet
     - The issue is that they've told me several times that common Mazda parts are either not actually in stock or need to be special ordered
     - They take their time between receiving the order and actually shipping the parts
