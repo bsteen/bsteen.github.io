@@ -19,8 +19,8 @@
 # Some of My Projects
 * A collection of simple but useful Bash scripts: <https://github.com/bsteen/simple-scripts>
 * Unity video game: I'm currently making a 3D game with the [Unity engine](https://unity.com/) and C#. It has a focus on randomized content.
-* Corp. Map, a hierarchical and radial view of corporation structures: <https://bsteen.github.io/corp-map>
 * Twitch Click Bot, a Twitch.tv click interaction (aka Twitch plays) via Smart Click Map addon: <https://github.com/bsteen/twitch-click-bot>
+* Sound board: <https://bsteen.github.io/sb>
 * See the rest on my GitHub profile: <https://github.com/bsteen>
 
 # Other Stuff
