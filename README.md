@@ -20,7 +20,6 @@
 * A collection of simple but useful Bash scripts: <https://github.com/bsteen/simple-scripts>
 * Unity video game: I'm currently making a 3D game with the [Unity engine](https://unity.com/) and C#. It has a focus on randomized content.
 * Twitch Click Bot, a Twitch.tv click interaction (aka Twitch plays) via Smart Click Map addon: <https://github.com/bsteen/twitch-click-bot>
-* Sound board: <https://bsteen.github.io/sb>
 * See the rest on my GitHub profile: <https://github.com/bsteen>
 
 # Other Stuff
@@ -28,8 +27,7 @@
 * [List of Quotes](quotes.md)
 * [Mazda Mazda3 (BL / 2nd Generation) Information](mazda3-bl.md)
 * [File Hashes](hashes.md)
-* UD RockSat-C 2018 Pictures (coming soon)
-* Evans Hall server room end-of-life pictures (coming soon)
+* Sound board: <https://bsteen.github.io/sb>
 
 # Copyright Notice
 **© 2019 - 2023 Benjamin Steenkamer**
