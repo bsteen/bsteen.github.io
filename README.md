@@ -28,7 +28,7 @@
 * [List of Quotes](quotes.md)
 * [Mazda Mazda3 (BL / 2nd Generation) Information](mazda3-bl.md)
 * [File Hashes](hashes.md)
-* Sound board: <https://bsteen.github.io/sb>
+* [Sound board](sb/index.html)
 
 # Copyright Notice
 **© 2019 - 2023 Benjamin Steenkamer**
