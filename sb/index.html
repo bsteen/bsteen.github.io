@@ -84,71 +84,75 @@
 
 <body>
 	<div>
-		<h1 style="cursor: pointer;" onclick="document.getElementById('wuh happun').play()">Soundboard</h1>
+		<h1 style="cursor: pointer;" onclick="play_audio('wuh happun')">Soundboard</h1>
 	</div>
 	<div id="soundboard" onselectstart="return false"><!--Makes the text unselectable-->
 		<table>
 			<tr>
-				<td onclick="document.getElementById('bonk').play()">BONK</td>
-				<td onclick="document.getElementById('boing').play()">boing</td>
-				<td onclick="document.getElementById('homerun').play()">&#x1f3cf</td>
-				<td onclick="document.getElementById('lose').play()">Lose</td>
-				<td onclick="document.getElementById('bruh').play()">bruh</td>
+				<td onclick="play_audio('bonk')">BONK</td>
+				<td onclick="play_audio('boing')">boing</td>
+				<td onclick="play_audio('homerun')">&#x1f3cf</td>
+				<td onclick="play_audio('lose')">Lose</td>
+				<td onclick="play_audio('bruh')">bruh</td>
 			</tr>
 			<tr>
-				<td onclick="document.getElementById('record').play()">holup</td>
-				<td onclick="document.getElementById('vase').play()">&#x1F3FA</td>
-				<td onclick="document.getElementById('wilhelm').play()">Wilhelm</td>
-				<td onclick="document.getElementById('slide').play()">slide</td>
-				<td onclick="document.getElementById('omg').play()">OMG</td>
-			</tr>
-			<tr>		
-				<td onclick="document.getElementById('oh').play()">Oh</td>
-				<td onclick="document.getElementById('very cool').play()">Very cool</td>
-				<td onclick="document.getElementById('kill jesta').play()">&#x1F921</td>
-				<td onclick="document.getElementById('tim').play()">Tim</td>
-				<td onclick="document.getElementById('yeah').play()">yeah</td>			
+				<td onclick="play_audio('record')">holup</td>
+				<td onclick="play_audio('vase')">&#x1F3FA</td>
+				<td onclick="play_audio('wilhelm')">Wilhelm</td>
+				<td onclick="play_audio('slide')">slide</td>
+				<td onclick="play_audio('omg')">OMG</td>
 			</tr>
 			<tr>
-				<td onclick="document.getElementById('do it').play()">Do it</td>
-				<td onclick="document.getElementById('hoo').play()">HOO</td>
-				<td onclick="document.getElementById('uhoh').play()">Uh Oh</td>
-				<td onclick="document.getElementById('johnny test').play()">test</td>
-				<td onclick="document.getElementById('fun').play()">fun</td>
+				<td onclick="play_audio('oh')">Oh</td>
+				<td onclick="play_audio('very cool')">Very cool</td>
+				<td onclick="play_audio('kill jesta')">&#x1F921</td>
+				<td onclick="play_audio('tim')">Tim</td>
+				<td onclick="play_audio('yeah')">yeah</td>
 			</tr>
 			<tr>
-				<td onclick="document.getElementById('wrong').play()">wrong</td>
-				<td onclick="document.getElementById('oh no').play()">OH NO</td>
-				<td onclick="document.getElementById('nope').play()">Nope</td>
-				<td onclick="document.getElementById('oof').play()">oof</td>
-				<td onclick="document.getElementById('jobsdone').play()">Job's done</td>	
+				<td onclick="play_audio('do it')">Do it</td>
+				<td onclick="play_audio('hoo')">HOO</td>
+				<td onclick="play_audio('uhoh')">Uh Oh</td>
+				<td onclick="play_audio('johnny test')">test</td>
+				<td onclick="play_audio('fun')">fun</td>
 			</tr>
 			<tr>
-				<td onclick="document.getElementById('thankyou').play()">THANK YOU</td>		
-				<td onclick="document.getElementById('todd').play()">Buy it</td>
+				<td onclick="play_audio('wrong')">wrong</td>
+				<td onclick="play_audio('oh no')">OH NO</td>
+				<td onclick="play_audio('nope')">Nope</td>
+				<td onclick="play_audio('oof')">oof</td>
+				<td onclick="play_audio('jobsdone')">Job's done</td>
+			</tr>
+			<tr>
+				<td onclick="play_audio('thankyou')">THANK YOU</td>
+				<td onclick="play_audio('todd')">Buy it</td>
 				<td onclick="toasty_animate();">&#x1f35e</td>
-				<td onclick="document.getElementById('byeah').play()">byeah</td>
-				<td onclick="document.getElementById('ccc').play()">CCC</td>
+				<td onclick="play_audio('byeah')">byeah</td>
+				<td onclick="play_audio('ccc')">CCC</td>
 			</tr>
 			<tr>
-				<td onclick="document.getElementById('dial').play()">&#x1f4f1</td>
-				<td onclick="document.getElementById('gas').play()">gas</td>
-				<td onclick="document.getElementById('scorn').play()">丂匚ㄖ尺几</td>
-				<!-- <td onclick="document.getElementById('').play()"></td> -->
+				<td onclick="play_audio('dial')">&#x1f4f1</td>
+				<td onclick="play_audio('gas')">gas</td>
+				<td onclick="play_audio('scorn')">丂匚ㄖ尺几</td>
+				<!-- <td onclick="play_audio('')"></td> -->
 			</tr>
 		</table>
 	</div>
 
 	<script>
-		/* JS code for toasty animation */
-		function toasty_animate()
-		{
+		function toasty_animate(){
+			// JS code for toasty animation
 			var container = document.getElementById("toasty-container");
 			document.getElementById("animation").src= ""; 								// Reset the animation
 			document.getElementById("animation").src= "toasty.gif";
 			container.style.visibility = "visible";										// Make container visible
 			setTimeout(function(){document.getElementById('toasty').play();}, 290);		// Wait to play sound
 			setTimeout(function(){container.style.visibility = "visible";}, 980);		// Make container invisible
+		}
+		function play_audio(audio_id){
+			// Create copy of audio so it can be played overtop of itself (allows it to be "spammed")
+			audio = document.getElementById(audio_id).cloneNode(false);
+			audio.play();
 		}
 	</script>
 
