@@ -41,17 +41,17 @@
 			animation-timing-function: linear;
 			animation-iteration-count: 1;
 			animation-name: toasty-animation;
-			animation-duration: 1200ms;
+			animation-duration: 1100ms;
 		}
 		@keyframes toasty-animation
 		{
 			0% {
 				right: -200px;
 			}
-			20% {
+			15% {
 				right: 0px;
 			}
-			80% {
+			85% {
 				right: 0px;
 			}
 			100% {
@@ -167,8 +167,8 @@
 			animation.style = "width:200px;height:204px;position:absolute;";	// Make image appear on top of other toasty images
 			id_iter += 1;
 
-			setTimeout(function(){play_audio("toasty")}, 350);								// Wait to play sound until midpoint of animation
-			setTimeout(function(){document.getElementById(animation.id).remove()}, 1400);	// Remove element from page after animation is done
+			setTimeout(function(){play_audio("toasty")}, 275);								// Wait to play sound until midpoint of animation
+			setTimeout(function(){document.getElementById(animation.id).remove()}, 1200);	// Remove element from page after animation is done
 
 			document.getElementById("toasty-container").appendChild(animation);				// Add to div in bottom right of screen
 		}
