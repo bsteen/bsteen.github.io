@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2023-2-2
+Last updated: 2023-2-4
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -22,6 +22,7 @@ Table of Contents
 	* [Nuclear](#nuclear)
 	* [Oceans and Boats](#oceans-and-boats)
 	* [Politics](#politics)
+	* [Space](#space)
     * [Trains](#trains)
 * [White Papers and Reports](#white-papers-and-reports)
 
@@ -67,7 +68,8 @@ Table of Contents
 * Ilya Repin: <https://en.wikipedia.org/wiki/Ilya_Repin>
 
 ## Automobiles
-* Mitsubishi North America Sold Negative Three (-3) Lancers Last Month (2019): <https://jalopnik.com/mitsubishi-north-america-sold-negative-three-3-lance-1832274956>
+* Gasoline explained: Where our gasoline comes from: <https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php>
+*  Mitsubishi North America Sold Negative Three (-3) Lancers Last Month (2019): <https://jalopnik.com/mitsubishi-north-america-sold-negative-three-3-lance-1832274956>
 * Images of Change, Closed Chrysler Newark Plant - Lynn Mcdowell (2010, 2011): <https://lynnmcdowell.photoshelter.com/gallery-collection/Images-of-Change-Closed-Chrysler-Newark-Plant/C0000yDtYV7f7bpw>
 * Below are some of the largest original equipment manufactures (OEMs) for car parts. If you are looking for a replacement part, you can search these companies' catalogs and probably find an equivalent or exact replacement.
 	* ACDelco (General Motors): <https://en.wikipedia.org/wiki/ACDelco>
@@ -181,6 +183,8 @@ Table of Contents
 * Novaya Zemlya: <https://en.wikipedia.org/wiki/Novaya_Zemlya>
 
 ## General Information
+* McMurdo Station Webcams (Antartic): <https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm>
+* Sympathetic detonation: <https://en.wikipedia.org/wiki/Sympathetic_detonation>
 * Sun dog: <https://en.wikipedia.org/wiki/Sun_dog>
 * Portland cement: <https://en.wikipedia.org/wiki/Portland_cement>
 * Knock-down kit: <https://en.wikipedia.org/wiki/Knock-down_kit>
@@ -215,6 +219,8 @@ Table of Contents
 * The On-Line Encyclopedia of Integer Sequences: <https://oeis.org/>
 
 ## Nuclear
+* Able Archer 83: <https://en.wikipedia.org/wiki/Able_Archer_83>
+    * Nuclear Close Calls: Able Archer 83: https://ahf.nuclearmuseum.org/ahf/history/nuclear-close-calls-able-archer-83/
 * Sandia Containment Testing and FEA (2017): <https://www.xceed-eng.com/reactor-containment-test-and-fea/>
 * Westinghouse Atom Smasher: <https://en.wikipedia.org/wiki/Westinghouse_Atom_Smasher>
 * Pig: <https://www.nrc.gov/reading-rm/basic-ref/glossary/pig.html>
@@ -229,6 +235,7 @@ Table of Contents
 * The Nuclear Novel and Language: <http://histscifi.com/essays/gordin/languages>
 
 ## Oceans and Boats
+* Graveyard of the Pacific: <https://en.wikipedia.org/wiki/Graveyard_of_the_Pacific>
 * Well dock: <https://en.wikipedia.org/wiki/Well_dock>
 * NOAAS Rainier: <https://en.wikipedia.org/wiki/NOAAS_Rainier>
 * Shackleton's Endurance: The impossible search for the greatest shipwreck (2022): <https://www.bbc.com/news/science-environment-60239105>
@@ -248,9 +255,13 @@ Table of Contents
 ## Politics
 * EXPLAINER: Why do the media call races in US elections? - Associated Press (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
 
+## Space
+* Sputnik Crashed Here (Manitowoc, Wisconsin): <https://www.roadsideamerica.com/story/12959>
+* Wow! signal: <https://en.wikipedia.org/wiki/Wow!_signal>
 ## Trains
+* Federal Railroad Administration: <https://en.wikipedia.org/wiki/Federal_Railroad_Administration>
 * Woodbridge train derailment: <https://en.wikipedia.org/wiki/Woodbridge_train_derailment>
-    * Fun fact: my great-uncle's father was on this train in 1951 and survived.
+    * Fun fact: my great-uncle's father was on this train and survived the incident.
 * Telescoping (rail cars): <https://en.wikipedia.org/wiki/Telescoping_%28rail_cars%29>
 * End-of-train device (flashing rear-end device, FRED): <https://en.wikipedia.org/wiki/End-of-train_device>
 
