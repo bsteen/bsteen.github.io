@@ -15,7 +15,7 @@ Last Updated: 2023-03-20
 | LEGO Chess.iso | `545302528` | `e85382e5`  | `24346abb5105107ef2979d4c201aa31d6d92804225a5fb0da46bcd999cdd8688` |
 | LEGO Island.iso | `625252352` | `626292bb`  | `83c2eb6ea30a6f3bdb946ba4a844e0739ebd185a86643b9a49618715c37d6176` |
 | Monsters, Inc. - Bowling for Screams.iso | `349198336` | `f13463a9`  | `fb9f7398ecb290c8695aa23e885c77ec11b86e66a7ce51ed330173943a71ecfa` |
-| Need for Speed Hot Pursuit 2.iso (v1.0) | `661129216` | `606DE2F6` | `5a99a8e3c8c2f6a406d6db4cb0f81aaa3b5303db070d536d9a18a5e07b4690db`|
+| Need for Speed Hot Pursuit 2.iso (v1?) | `661129216` | `606DE2F6` | `5a99a8e3c8c2f6a406d6db4cb0f81aaa3b5303db070d536d9a18a5e07b4690db`|
 | Roller Coaster Tycoon.iso | `186216448` | `07ec83c2`  | `2e0b13cf21ad3f46b751b4e72cdb71df3d806a05f2a16c5e3b78837a635dac44` |
 | School Tycoon.iso | `487587840` | `dc2b9697`  | `dac86a71948f190617f31e43ba4d4bef1845efc2f97589dd900cf519d243b389` |
 | SimCity 3000.iso | `496261120` | `1ea4ae19`  | `594fd095afbd56e9f1d8ce31eb2c46c9534d15e2bdbdf4321a39c6572fa81a71` |
