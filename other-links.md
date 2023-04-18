@@ -16,7 +16,7 @@ Table of Contents
 		* [Vintage Electrical Engineering and Electronics](#vintage-electrical-engineering-and-electronics)
 	* [Geography and Natural Formations](#geography-and-natural-formations)
 	* [General Information](#general-information)
-        * [Heavy Industry](#heavy-industry)
+    * [Heavy Industry](#heavy-industry)
 	* [History](#history)
 	* [Mathematics](#mathematics)
 	* [Nuclear](#nuclear)
