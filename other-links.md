@@ -184,7 +184,7 @@ Table of Contents
 
 ## General Information
 * Hollywood Edge - The Premiere Edition Volume 1 Sound Effects Library: <https://www.sound-ideas.com/Product/98/Premiere-Edition-Vol-1-Sound-Effects-Library>
-    * Sound library used by pretty much every movie. Includes classis such as [Pottery Drop Break PE112401](https://soundideas.sourceaudio.com/track/11473610) and [Sm Heavy Metal Door Sl PE185001](https://soundideas.sourceaudio.com/track/11474283).
+    * Sound library used by pretty much every movie. Includes classics such as [Pottery Drop Break PE112401](https://soundideas.sourceaudio.com/track/11473610) and [Sm Heavy Metal Door Sl PE185001](https://soundideas.sourceaudio.com/track/11474283).
 * McMurdo Station Webcams (Antartic): <https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm>
 * Sympathetic detonation: <https://en.wikipedia.org/wiki/Sympathetic_detonation>
 * Sun dog: <https://en.wikipedia.org/wiki/Sun_dog>
