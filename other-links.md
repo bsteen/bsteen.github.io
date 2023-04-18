@@ -1,12 +1,12 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2023-2-4
+Last updated: 2023-4-17
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
     * [Architecture and Buildings](#architecture-and-buildings)
-	* [Artists](#artists)
-	* [Automobiles](#automobiles)
-	* [Chemistry](#chemistry)
+    * [Artists](#artists)
+    * [Automobiles](#automobiles)
+    * [Chemistry](#chemistry)
 	* [Computer Science and Software](#computer-science-and-software)
 		* [Video Games](#video-games)
 		* [Vintage Computer Science and Software](#vintage-computer-science-and-software)
@@ -16,7 +16,7 @@ Table of Contents
 		* [Vintage Electrical Engineering and Electronics](#vintage-electrical-engineering-and-electronics)
 	* [Geography and Natural Formations](#geography-and-natural-formations)
 	* [General Information](#general-information)
-    * [Heavy Industry](#heavy-industry)
+        * [Heavy Industry](#heavy-industry)
 	* [History](#history)
 	* [Mathematics](#mathematics)
 	* [Nuclear](#nuclear)
@@ -183,6 +183,8 @@ Table of Contents
 * Novaya Zemlya: <https://en.wikipedia.org/wiki/Novaya_Zemlya>
 
 ## General Information
+* Hollywood Edge - The Premiere Edition Volume 1 Sound Effects Library: <https://www.sound-ideas.com/Product/98/Premiere-Edition-Vol-1-Sound-Effects-Library>
+    * Sound library used by pretty much every movie. Includes classis such as [Pottery Drop Break PE112401](https://soundideas.sourceaudio.com/track/11473610) and [Sm Heavy Metal Door Sl PE185001](https://soundideas.sourceaudio.com/track/11474283).
 * McMurdo Station Webcams (Antartic): <https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm>
 * Sympathetic detonation: <https://en.wikipedia.org/wiki/Sympathetic_detonation>
 * Sun dog: <https://en.wikipedia.org/wiki/Sun_dog>
