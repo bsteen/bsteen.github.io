@@ -1,7 +1,7 @@
 # General Information
 - Mazda Mazda3
 - 2010 - 2013, 2nd Generation (BL)
-- https://en.wikipedia.org/wiki/Mazda3#Second_generation_(BL;_2008)
+- <https://en.wikipedia.org/wiki/Mazda3#Second_generation_(BL;_2008)>
 - Example used: 2010 Mazda Mazda3s Sport (2.5L engine), 5 door (hatch back), 5 speed automatic transmission
 
 Updated: 2023-6-21
@@ -57,9 +57,9 @@ Various OE parts websites (places that sell OE parts for many different brands) 
   - They usually only read and clear basic Diagnostic Test Codes (DTCs)
 
 ## Torque Lite / Torque Pro (Not Recommended)
-- https://torque-bhp.com/
-- Torque Lite, Android, free demo: https://play.google.com/store/apps/details?id=org.prowl.torquefree
-- Torque Pro, Android, paid: https://play.google.com/store/apps/details?id=org.prowl.torque&hl=en_US&gl=US
+- <https://torque-bhp.com>
+- Torque Lite, Android, free demo: <https://play.google.com/store/apps/details?id=org.prowl.torquefree>
+- Torque Pro, Android, paid: <https://play.google.com/store/apps/details?id=org.prowl.torque&hl=en_US&gl=US>
 - This app is recommended by a lot of people online, but it is not optimized for Mazda's PIDs (Parameter IDs) that are outside the OBD2 standard
 - **For example, it can't read the automatic transmission fluid temperature (TFT / transmission fluid temperature) by default**
 - The UI has cheesy graphics, several layer deep submenus, and wheel dial selectors
@@ -72,15 +72,15 @@ Various OE parts websites (places that sell OE parts for many different brands) 
   - The BL does not have sensors for these beside an oil pressure warning light (a pass/fail light)
 
 ## FORScan / FORScan Lite (Recommend)
-- https://forscan.org
+- <https://forscan.org>
 - FORScan Lite, Android and iOS, free demo or full paid
-  - The demo version only allows reading of one PID at a time, but you can still read and clear DTCs
+  - The demo version only allows reading of one PID at a time, and you can read but not clear DTCs
   - The Android version was removed from the Google Play store, so you have to download the APK directly
-- FORScan for Windows, free but very advanced features requiring a paid license (you probably won't need these features)
+- FORScan for Windows, free but very advanced features requiring a paid license (you probably won't need the paid features)
 - **This is basically the best OBD2 companion software available for Mazda vehicles besides the actual [Mazda M-MDS Software](https://www.mazdaserviceinfo.com/mdars-software)**
-- FORScan is made specifically for Ford, Mazda, Lincoln and Mercury vehicles, and it has all the Mazda-specific PIDs for the BL (**including transmission fluid temperature!**)
-  - It seems to be smart enough to only displays PIDs it can actually read from the BL, unlike Torque
-- FORScan can read individual modules on the BL, like the PCM, TCM, and BCM, and it shows pending and active DTCs on each
+- FORScan is made specifically for Ford, Mazda, Lincoln and Mercury vehicles, and it has all the Mazda-specific PIDs for the BL, **including transmission fluid temperature!**
+  - It seems to be smart enough to only displays PIDs it can actually read from the BL, unlike Torque which shows all generic PIDs, regardless if they work
+- FORScan can read individual modules on the BL, like the PCM, TCM, and BCM, and it shows pending and active DTCs on each (with the ability to clear them)
 - **When connecting to the BAFX OBD2 reader, FORScan warns that the device is potentially not compatible, but I've had no issues**
 - The Windows version is very powerful when it comes to reading and controlling the BL's modules
   - The Android version has reduced features, but it allows convenient reading/recording of PID from your mobile device
