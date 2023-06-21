@@ -26,7 +26,7 @@
 # Other Stuff
 * [A list of videos, papers, and articles I find interesting](other-links.md)
 * [List of Quotes](quotes.md)
-* [Mazda Mazda3 (BL / 2nd Generation) Information](mazda3-bl.md)
+* [Mazda Mazda3 (2nd Generation / BL) Information](mazda3-bl.md)
 * [File Hashes](hashes.md)
 * [Sound Board](sb/)
 
