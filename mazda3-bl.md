@@ -83,7 +83,7 @@ Various OE parts websites (places that sell OE parts for many different brands) 
 - FORScan can read individual modules on the BL, like the PCM, TCM, and BCM, and it shows pending and active DTCs on each (with the ability to clear them)
 - **When connecting to the BAFX OBD2 reader, FORScan warns that the device is potentially not compatible, but I've had no issues**
 - The Windows version is very powerful when it comes to reading and controlling the BL's modules
-  - The Android version has reduced features, but it allows convenient reading/recording of PID from your mobile device
+  - The Android version has reduced features, but it allows convenient reading/recording of PIDs from your mobile device
 
 # Car Ramps
 - RhinoGear RhinoRamps (11914MI, 12K lbs.) **DO NOT** work with this car. The front bumper is too long and low for the angle of these ramps. The bumper will scrape and push the ramps. This is with the stock ride height and wheel size. See the picture below. 
