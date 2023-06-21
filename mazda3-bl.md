@@ -17,6 +17,7 @@ Updated: 2023-6-21
     - I've also had a general OE website say they would ship ATF, but they never have the Mazda M5 in stock
     - Dealers will pretty much always have ATF and other common fluids in stock, but you again have to make sure they will actually ship
     - You can usually select pick up for dealerships if you live nearby
+
 ## Mazda Dealership Websites
 - <https://getmazdaparts.com>
     - Lunenburg, MA; address is the same for North End Mazda
@@ -35,9 +36,9 @@ Updated: 2023-6-21
     - Order arrived in 4 days of shipping, even with the cheapest shipping option
     - They usually have a 10% of shipping coupon; check the website header or coupon sites for it
     - Does ship ATF
+
 ## Various OE Websites
 Various OE parts websites (places that sell OE parts for many different brands) will usually have cheaper prices than Mazda dealership websites. The issue is that they are more likely to not have the part in stock even when they say it is. They also take a longer time to ship out the parts versus dealer websites, in my experience.
-
 - <https://getoemparts.com>
     - Cranston, RI; part of the Tasca Automotive dealership network (Tasca Parts)
     - Order payments are made to NewAutoParts.com (New Auto Parts, LLC), another OE parts seller presumably also part of Tasca Parts
@@ -54,6 +55,7 @@ Various OE parts websites (places that sell OE parts for many different brands) 
 - The software to interpret the reader's data is the most important aspect of reading the BL's OBD2 and CAN bus
 - Because of that, I do not recommend any of the cheap wire connection readers you can get at Walmart or Harbor Freight
   - They usually only read and clear basic Diagnostic Test Codes (DTCs)
+
 ## Torque Lite / Torque Pro (Not Recommended)
 - https://torque-bhp.com/
 - Torque Lite, Android, free demo: https://play.google.com/store/apps/details?id=org.prowl.torquefree
@@ -68,6 +70,7 @@ Various OE parts websites (places that sell OE parts for many different brands) 
 - There are plenty of other PIDs available in Torque that will not work because the BL is not equipped with the nessary sensors
   - This is not Torque's fault, but don't be surprised when you can't read oil temperature or pressure
   - The BL does not have sensors for these beside an oil pressure warning light (a pass/fail light)
+
 ## FORScan / FORScan Lite (Recommend)
 - https://forscan.org
 - FORScan Lite, Android and iOS, free demo or full paid
