@@ -1,11 +1,12 @@
 # General Information
-- Make and Model: Mazda Mazda3
-- Years: 2008 - 2013, 2nd Generation (BL)
-- Example used: 2010 Mazda Mazda3s (2.5L engine), 5 door (hatch back), automatic transmission
+- Mazda Mazda3
+- 2010 - 2013, 2nd Generation (BL)
+- https://en.wikipedia.org/wiki/Mazda3#Second_generation_(BL;_2008)
+- Example used: 2010 Mazda Mazda3s Sport (2.5L engine), 5 door (hatch back), 5 speed automatic transmission
 
-Updated: 2022-12-15
+Updated: 2023-6-21
 
-# Mazda OE Parts
+# Mazda Original Equipment Parts
 - When looking for Mazda original equipment (OE) parts, there are 3 main store types to choose from: Mazda Dealerships, Various OE part sellers (places that sell OE parts for many different brands), and the usual independent party seller platforms (Amazon, eBay, etc.)
 - In general, but especially with the various OE websites, send them a message before ordering parts to make sure all the parts are actually in stock
 - It seems random whether an online seller will ship fluids or not; for example automatic transmission fluid (ATF) and engine coolant
@@ -16,7 +17,6 @@ Updated: 2022-12-15
     - I've also had a general OE website say they would ship ATF, but they never have the Mazda M5 in stock
     - Dealers will pretty much always have ATF and other common fluids in stock, but you again have to make sure they will actually ship
     - You can usually select pick up for dealerships if you live nearby
-
 ## Mazda Dealership Websites
 - <https://getmazdaparts.com>
     - Lunenburg, MA; address is the same for North End Mazda
@@ -35,7 +35,6 @@ Updated: 2022-12-15
     - Order arrived in 4 days of shipping, even with the cheapest shipping option
     - They usually have a 10% of shipping coupon; check the website header or coupon sites for it
     - Does ship ATF
-
 ## Various OE Websites
 Various OE parts websites (places that sell OE parts for many different brands) will usually have cheaper prices than Mazda dealership websites. The issue is that they are more likely to not have the part in stock even when they say it is. They also take a longer time to ship out the parts versus dealer websites, in my experience.
 
@@ -47,6 +46,41 @@ Various OE parts websites (places that sell OE parts for many different brands) 
     - They take their time between receiving the order and actually shipping the parts
     - If the item is actually in stock and you don't mind waiting for shipping, this place is usually the cheapest by a few dollars
     - They do ship ATF, but M5 ATF always seem to be out of stock
+
+# OBD2 Readers and Software
+- For Bluetooth OBD2 readers, I've had good experiences with the [BAFX Products Wireless Bluetooth Diagnostic OBD2 Scanner](https://www.amazon.com/dp/B005NLQAHS)
+- Once you get passed the usual annoyances of Bluetooth pairing, it seems to be very consistent
+- The reader you use isn't that important, as long as it allows you to connect to a phone, tablet, or laptop (or a desktop PC if you really want)
+- The software to interpret the reader's data is the most important aspect of reading the BL's OBD2 and CAN bus
+- Because of that, I do not recommend any of the cheap wire connection readers you can get at Walmart or Harbor Freight
+  - They usually only read and clear basic Diagnostic Test Codes (DTCs)
+## Torque Lite / Torque Pro (Not Recommended)
+- https://torque-bhp.com/
+- Torque Lite, Android, free demo: https://play.google.com/store/apps/details?id=org.prowl.torquefree
+- Torque Pro, Android, paid: https://play.google.com/store/apps/details?id=org.prowl.torque&hl=en_US&gl=US
+- This app is recommended by a lot of people online, but it is not optimized for Mazda's PIDs (Parameter IDs) that are outside the OBD2 standard
+- **For example, it can't read the automatic transmission fluid temperature (TFT / transmission fluid temperature) by default**
+- The UI has cheesy graphics, several layer deep submenus, and wheel dial selectors
+- It can read the BL's active DTCs, but not pending ones
+- You do have the ability to add custom defined PIDs, but good luck finding a set online that works with the BL
+- Trying to read the TFT, for example, the default transmission temperature PID, the multiple "[FORD]" specific PIDs, and a custom PID formula I found online, all do not work
+  - There was a Mazdaspeed 3/6 plugin for Torque, but the link to it is dead
+- There are plenty of other PIDs available in Torque that will not work because the BL is not equipped with the nessary sensors
+  - This is not Torque's fault, but don't be surprised when you can't read oil temperature or pressure
+  - The BL does not have sensors for these beside an oil pressure warning light (a pass/fail light)
+## FORScan / FORScan Lite (Recommend)
+- https://forscan.org
+- FORScan Lite, Android and iOS, free demo or full paid
+  - The demo version only allows reading of one PID at a time, but you can still read and clear DTCs
+  - The Android version was removed from the Google Play store, so you have to download the APK directly
+- FORScan for Windows, free but very advanced features requiring a paid license (you probably won't need these features)
+- **This is basically the best OBD2 companion software available for Mazda vehicles besides the actual [Mazda M-MDS Software](https://www.mazdaserviceinfo.com/mdars-software)**
+- FORScan is made specifically for Ford, Mazda, Lincoln and Mercury vehicles, and it has all the Mazda-specific PIDs for the BL (**including transmission fluid temperature!**)
+  - It seems to be smart enough to only displays PIDs it can actually read from the BL, unlike Torque
+- FORScan can read individual modules on the BL, like the PCM, TCM, and BCM, and it shows pending and active DTCs on each
+- **When connecting to the BAFX OBD2 reader, FORScan warns that the device is potentially not compatible, but I've had no issues**
+- The Windows version is very powerful when it comes to reading and controlling the BL's modules
+  - The Android version has reduced features, but it allows convenient reading/recording of PID from your mobile device
 
 # Car Ramps
 - RhinoGear RhinoRamps (11914MI, 12K lbs.) **DO NOT** work with this car. The front bumper is too long and low for the angle of these ramps. The bumper will scrape and push the ramps. This is with the stock ride height and wheel size. See the picture below. 
