@@ -17,11 +17,8 @@
 * Hamzah Ahmed et al., "[Transitioning the worlds first 1Kx1K Infrared LED Scene Projector Systems from Research and Development (R&D) to Production Level](https://ieeexplore.ieee.org/document/9521400)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2021.
 * Hamzah Ahmed et al., "[Testing, Instrumentation, and Results to make the world’s first usable 1Kx1K Infrared LED Scene Projector Systems](https://ieeexplore.ieee.org/document/9195697)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2020.
 
-# Some of My Projects
-* [Simple but useful Bash scripts](https://github.com/bsteen/simple-scripts)
-* Unity video game: I'm currently making a 3D game with the [Unity engine](https://unity.com/) and C#; it has a focus on randomized content
-* [Twitch Click Bot](https://github.com/bsteen/twitch-click-bot): a Twitch.tv click interaction (aka Twitch plays) via Smart Click Map addon
-* [See the rest on my GitHub profile](https://github.com/bsteen)
+# My Projects
+* [See my GitHub profile](https://github.com/bsteen)
 
 # Other Stuff
 * [A list of videos, papers, and articles I find interesting](other-links.md)
