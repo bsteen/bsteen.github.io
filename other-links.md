@@ -29,12 +29,15 @@ Table of Contents:
 * American Craftsman: <https://en.wikipedia.org/wiki/American_Craftsman>
 * Rainier Tower: <https://en.wikipedia.org/wiki/Rainier_Tower>
 * BOK Tower: <https://en.wikipedia.org/wiki/BOK_Tower>
+    * "Cousin" building of the World Trade Center Twin Towers
 * Leadenhall Market: <https://en.wikipedia.org/wiki/Leadenhall_Market>
 * 375 Pearl Street, New York, NY (Verizon Building): <https://en.wikipedia.org/wiki/375_Pearl_Street>
-* Corporation Trust Center, Wilmington, DE: <https://en.wikipedia.org/wiki/Corporation_Trust_Center_(CT_Corporation)>
+* Corporation Trust Center, 1209 North Orange Street, Wilmington, DE: <https://en.wikipedia.org/wiki/Corporation_Trust_Center_(CT_Corporation)>
+    * A huge number of American businesses are registered at this single adddress
+    * See also: 251 Little Falls Drive, Wilmington, DE
 * Cupolas: <https://www.thisoldhouse.com/roofing/21018295/cupolas>
-* Regrading in Seattle: https://en.wikipedia.org/wiki/Regrading_in_Seattle
-    * Seattle Underground: https://en.wikipedia.org/wiki/Seattle_Underground 
+* Regrading in Seattle: <https://en.wikipedia.org/wiki/Regrading_in_Seattle>
+    * Seattle Underground: <https://en.wikipedia.org/wiki/Seattle_Underground> 
 * Writers' Museum: <https://en.wikipedia.org/wiki/Writers%27_Museum>
 * Terraced house: <https://en.wikipedia.org/wiki/Terraced_house>
 * The Shambles: <https://en.wikipedia.org/wiki/The_Shambles>
@@ -50,7 +53,7 @@ Table of Contents:
 * Curtain wall (architecture): <https://en.wikipedia.org/wiki/Curtain_wall_(architecture)>
 * One Times Square: <https://en.wikipedia.org/wiki/One_Times_Square>
 	* [Photos of the inside](https://archive.vn/FqYTB)
-* 33 Thomas Street (formerly AT&T Long Lines Building): <https://en.wikipedia.org/wiki/33_Thomas_Street>
+* 33 Thomas Street (AT&T Long Lines Building): <https://en.wikipedia.org/wiki/33_Thomas_Street>
 * Brutalist architecture <https://en.wikipedia.org/wiki/Brutalist_architecture>
 	* A great book on this topic: Atlas of Brutalist Architecture [[1]](https://www.phaidon.com/store/architecture/atlas-of-brutalist-architecture-9780714875668/) [[2]](https://www.phaidon.com/store/architecture/Atlas-of-Brutalist-Architecture-9781838661908/)
 
