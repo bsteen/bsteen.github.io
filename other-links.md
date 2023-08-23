@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2023-4-17
+Last updated: 2023-08-23
 
 Table of Contents
 * [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
@@ -222,7 +222,7 @@ Table of Contents
 
 ## Nuclear
 * Able Archer 83: <https://en.wikipedia.org/wiki/Able_Archer_83>
-    * Nuclear Close Calls: Able Archer 83: https://ahf.nuclearmuseum.org/ahf/history/nuclear-close-calls-able-archer-83/
+    * Nuclear Close Calls: Able Archer 83: <https://ahf.nuclearmuseum.org/ahf/history/nuclear-close-calls-able-archer-83/>
 * Sandia Containment Testing and FEA (2017): <https://www.xceed-eng.com/reactor-containment-test-and-fea/>
 * Westinghouse Atom Smasher: <https://en.wikipedia.org/wiki/Westinghouse_Atom_Smasher>
 * Pig: <https://www.nrc.gov/reading-rm/basic-ref/glossary/pig.html>
@@ -237,6 +237,7 @@ Table of Contents
 * The Nuclear Novel and Language: <http://histscifi.com/essays/gordin/languages>
 
 ## Oceans and Boats
+* Shipping Out: On the (nearly lethal) comforts of a luxury cruise (1996): <https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf>
 * Graveyard of the Pacific: <https://en.wikipedia.org/wiki/Graveyard_of_the_Pacific>
 * Well dock: <https://en.wikipedia.org/wiki/Well_dock>
 * NOAAS Rainier: <https://en.wikipedia.org/wiki/NOAAS_Rainier>
