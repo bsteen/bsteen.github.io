@@ -1,33 +1,30 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
 Last updated: 2023-08-23
 
-Table of Contents
-* [Articles, Videos, Websites, Et cetera](#articles-videos-websites-et-cetera)
-    * [Architecture and Buildings](#architecture-and-buildings)
-    * [Artists](#artists)
-    * [Automobiles](#automobiles)
-    * [Chemistry](#chemistry)
-	* [Computer Science and Software](#computer-science-and-software)
-		* [Video Games](#video-games)
-		* [Vintage Computer Science and Software](#vintage-computer-science-and-software)
-	* [Computer Security and Reverse Engineering](#computer-security-and-reverse-engineering)
-	* [Economics and Finance](#economics-and-finance)
-	* [Electrical Engineering and Electronics](#electrical-engineering-and-electronics)
-		* [Vintage Electrical Engineering and Electronics](#vintage-electrical-engineering-and-electronics)
-	* [Geography and Natural Formations](#geography-and-natural-formations)
-	* [General Information](#general-information)
-    * [Heavy Industry](#heavy-industry)
-	* [History](#history)
-	* [Mathematics](#mathematics)
-	* [Nuclear](#nuclear)
-	* [Oceans and Boats](#oceans-and-boats)
-	* [Politics](#politics)
-	* [Space](#space)
-    * [Trains](#trains)
-* [White Papers and Reports](#white-papers-and-reports)
+Table of Contents:
+* [Architecture and Buildings](#architecture-and-buildings)
+* [Artists](#artists)
+* [Automobiles](#automobiles)
+* [Chemistry](#chemistry)
+* [Computer Science and Software](#computer-science-and-software)
+    * [Video Games](#video-games)
+    * [Vintage Computer Science and Software](#vintage-computer-science-and-software)
+* [Computer Security and Reverse Engineering](#computer-security-and-reverse-engineering)
+* [Economics and Finance](#economics-and-finance)
+* [Electrical Engineering and Electronics](#electrical-engineering-and-electronics)
+    * [Vintage Electrical Engineering and Electronics](#vintage-electrical-engineering-and-electronics)
+* [Geography and Natural Formations](#geography-and-natural-formations)
+* [General Information](#general-information)
+* [Heavy Industry](#heavy-industry)
+* [History](#history)
+* [Mathematics](#mathematics)
+* [Nuclear](#nuclear)
+* [Oceans and Boats](#oceans-and-boats)
+* [Politics](#politics)
+* [Space](#space)
+* [Trains](#trains)
 
-# Articles, Videos, Websites, Et cetera 
-## Architecture and Buildings
+# Architecture and Buildings
 * Chalet: <https://en.wikipedia.org/wiki/Chalet>
 * American Craftsman: <https://en.wikipedia.org/wiki/American_Craftsman>
 * Rainier Tower: <https://en.wikipedia.org/wiki/Rainier_Tower>
@@ -57,7 +54,7 @@ Table of Contents
 * Brutalist architecture <https://en.wikipedia.org/wiki/Brutalist_architecture>
 	* A great book on this topic: Atlas of Brutalist Architecture [[1]](https://www.phaidon.com/store/architecture/atlas-of-brutalist-architecture-9780714875668/) [[2]](https://www.phaidon.com/store/architecture/Atlas-of-Brutalist-Architecture-9781838661908/)
 
-## Artists:
+# Artists:
 * Susan Kare: <https://www.aiga.org/medalist-susan-kare>, <https://en.wikipedia.org/wiki/Susan_Kare>
 * John Martin (painter): <https://en.wikipedia.org/wiki/John_Martin_(painter)>
 * Frederic Edwin Church: <https://en.wikipedia.org/wiki/Frederic_Edwin_Church>
@@ -67,7 +64,7 @@ Table of Contents
 * Thomas Cole: <https://en.wikipedia.org/wiki/Thomas_Cole>
 * Ilya Repin: <https://en.wikipedia.org/wiki/Ilya_Repin>
 
-## Automobiles
+# Automobiles
 * Gasoline explained: Where our gasoline comes from: <https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php>
 *  Mitsubishi North America Sold Negative Three (-3) Lancers Last Month (2019): <https://jalopnik.com/mitsubishi-north-america-sold-negative-three-3-lance-1832274956>
 * Images of Change, Closed Chrysler Newark Plant - Lynn Mcdowell (2010, 2011): <https://lynnmcdowell.photoshelter.com/gallery-collection/Images-of-Change-Closed-Chrysler-Newark-Plant/C0000yDtYV7f7bpw>
@@ -81,7 +78,7 @@ Table of Contents
 * How an engine works - comprehensive tutorial animation featuring Toyota engine technologies (2011): <https://www.youtube.com/watch?v=zA_19bHxEYg>
 * DTM 1991 - Season Review (English Commentary): <https://www.youtube.com/watch?v=v5_fmSRouf4>
 
-## Chemistry
+# Chemistry
 * Benzene: <https://en.wikipedia.org/wiki/Benzene>
 * Potassium nitrate (saltpeter): <https://en.wikipedia.org/wiki/Potassium_nitrate>
 * Creosote: <https://en.wikipedia.org/wiki/Creosote>
@@ -89,7 +86,7 @@ Table of Contents
 * AT&T Archives: The Physical Chemistry of Polymers (1962): <https://www.youtube.com/watch?v=DeRcPO5lVwQ>
 * AT&T Archives: Crystal Growth Morphologies, a 1974 microscopic film study from Bell Laboratories: <https://www.youtube.com/watch?v=Y3GwvN5W1dE>
 
-## Computer Science and Software:
+# Computer Science and Software:
 * Killed by Google: <https://killedbygoogle.com>
 * The Secret History of Windows Bluescreens by Davepl (2021): <https://www.youtube.com/watch?v=KgqJJECQQH0>
 * The Secret History of Windows Task Manager: Part 1 - Retired Microsoft Engineer Davepl (2020): <https://www.youtube.com/watch?v=f8VBOiPV-_M>
@@ -105,12 +102,14 @@ Table of Contents
 * 0x5f3759df: <http://h14s.p5r.org/2012/09/0x5f3759df.html>
 * Fast inverse square root: <https://en.wikipedia.org/wiki/Fast_inverse_square_root>
 * Markdown Cheatsheet: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-### Video Games
+* x86-64 Instruction Usage among C/C++ Applications (2019): <https://aakshintala.com/papers/instrpop-systor19.pdf>
+* What Every Programmer Should Know About Memory (2007): <https://people.freebsd.org/~lstewart/articles/cpumemory.pdf>
+# Video Games
 * How The NES Conquered A Skeptical America In 1985 - Ars Technica (2020): <https://www.youtube.com/watch?v=Sn5v09L_uDg>
 * Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi, CDC 2017: <https://www.youtube.com/watch?v=QyMsF31NdNc>
 * Dwarf Fortress Live - PAX West 2019: <https://www.youtube.com/watch?v=WW_dHPtC2wg>
 * DOOM: Behind the Music - Mick Gordon, CDC 2017: <https://www.youtube.com/watch?v=U4FNBMZsqrY>
-### Vintage Computer Science and Software
+# Vintage Computer Science and Software
 * Discovering Dennis Ritchie's Lost Dissertation - David C. Brock (2020): <https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/>
     * Recreating Dennis Ritchie's PhD Thesis - Computerphile (2021): <https://youtu.be/82TxNejKsng>
 * Uptime 15,364 days - The Computers of Voyager - Aaron Cummings, Strange Loops 2019: <https://www.youtube.com/watch?v=H62hZJVqs2o>
@@ -122,7 +121,7 @@ Table of Contents
 * Pictures of Bell Labs (1969 - 1970): <http://www.larryluckham.com/1969%20&%2070%20-%20Bell%20Labs/album/index.html>
 	* Pictures inside Bell Labs, Oakland, CA; taken by an employee some time between 1969 and 1970.
 
-## Computer Security and Reverse Engineering
+# Computer Security and Reverse Engineering
 * Semiconductor Security Awareness, Today and Yesterday - Christopher Tarnovsky, Black Hat USA 2010: <https://www.youtube.com/watch?v=WXX00tRKOlw>
 * Tales from Hardware Security Research - Johannes and Marc, CCC 2019: <https://www.youtube.com/watch?v=WqAHCpe8Oxw>
 * Lightening fast CTF solving - Automatic Exploit Generation & Side Channel Analysis - Christoper Roberts, BSides DC 2018: <https://www.youtube.com/watch?v=-4goiRPcxl4>
@@ -137,8 +136,17 @@ Table of Contents
 * Fun with self-decryption: <https://x64dbg.com/blog/2018/02/25/fun-with-self-decryption.html>
 * Demovfuscator: A work-in-progress deobfuscator for movfuscated binaries: <https://github.com/kirschju/demovfuscator>
 * M/o/Vfuscator: The single instruction C compiler: <https://github.com/xoreaxeaxeax/movfuscator>
+* FUZZIFICATION: Anti-Fuzzing Techniques (2019): <https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf>
+* FORESHADOW: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution (2018): <https://foreshadowattack.eu/foreshadow.pdf>
+* Fallout: Reading Kernel Writes From User Space (2019): <https://arxiv.org/pdf/1905.12701.pdf>
+* Dowsing for overflows: A guided fuzzer to find buffer boundary violations (2013): <https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_haller.pdf>
+* RAMBleed: Reading Bits in Memory Without Accessing Them (2019): <https://rambleed.com/docs/20190603-rambleed-web.pdf>
+* FlatFlash: Exploiting the Byte-Accessibility of SSDs within A Unified Memory-Storage Hierarchy (2019): <https://jianh.web.engr.illinois.edu/papers/flatflash.pdf>
+* Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors (2014): <http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf>
+* Spectre Attacks: Exploiting Speculative Execution (2018): <https://spectreattack.com/spectre.pdf>
+* Meltdown: Reading Kernel Memory from User Space (2018): <https://meltdownattack.com/meltdown.pdf>
 
-## Economics and Finance
+# Economics and Finance
 * Swiss Re: <https://en.wikipedia.org/wiki/Swiss_Re>
 * Good Delivery: <https://en.wikipedia.org/wiki/Good_Delivery>
 * Wilmington Trust: <https://en.wikipedia.org/wiki/Wilmington_Trust>
@@ -146,7 +154,7 @@ Table of Contents
 * Bulge bracket: <https://en.wikipedia.org/wiki/Bulge_bracket>
 * Banq (term): <https://en.wikipedia.org/wiki/Banq_(term)>
 
-## Electrical Engineering and Electronics
+# Electrical Engineering and Electronics
 * How Japan Learned Semiconductors (2022): <https://www.youtube.com/watch?v=bwhU9goCiaI>
 * How anti-theft tags work - magnetostriction (2015): <https://www.youtube.com/watch?v=KAm7qAKAXwI>
 * Capacitor plague (1999 - 2007): <https://en.wikipedia.org/wiki/Capacitor_plague>
@@ -162,9 +170,11 @@ Table of Contents
 * Why memory is a hard problem in modern computer architectures - Felix Held, OSFC 2018: <https://www.youtube.com/watch?v=NK1jYTYVh1U>
 * 5D optical data storage: <https://en.wikipedia.org/wiki/5D_optical_data_storage>
 * An in-depth look at Google’s first Tensor Processing Unit (TPU): <https://cloud.google.com/blog/products/gcp/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu>
+* 45-year CPU evolution: one law and two equations (2018): <https://arxiv.org/ftp/arxiv/papers/1803/1803.00254.pdf>
+* Quantum advantage with shallow circuits (2017): <https://arxiv.org/pdf/1704.00690.pdf>
 * Zeptobars (IC die analysis): <https://zeptobars.com/en/>
 * J.C. Bose: 60 GHz in the 1890s: <https://www.cv.nrao.edu/~demerson/bose/bose.html>
-## Vintage Electrical Engineering and Electronics
+# Vintage Electrical Engineering and Electronics
 * AT&T Archives: Communications Satellites Documentary (1987): <https://www.youtube.com/watch?v=3tsDqlnP0Xw>
 * Tektronix Printed Circuit Boards (1969): <https://www.youtube.com/watch?v=7weZ0TNRcuw>
 * AT&T Archives: Principles of the Optical Maser (1963): <https://www.youtube.com/watch?v=vuORqMb481k>
@@ -172,7 +182,7 @@ Table of Contents
 * The LM6142 Story: <http://www.idea2ic.com/LM6142/LM6142_Story.html>
 * The Transistor: a 1953 documentary, anticipating its coming impact on technology: <https://www.youtube.com/watch?v=V9xUQWo4vN0>
 
-## Geography and Natural Formations
+# Geography and Natural Formations
 * Burning Mountain: <https://en.wikipedia.org/wiki/Burning_Mountain>
     * Coal-seam fire: <https://en.wikipedia.org/wiki/Coal-seam_fire>
 * Lake Toba: <https://en.wikipedia.org/wiki/Lake_Toba>
@@ -182,7 +192,7 @@ Table of Contents
 * Vortex Spring: <https://en.wikipedia.org/wiki/Vortex_Spring>
 * Novaya Zemlya: <https://en.wikipedia.org/wiki/Novaya_Zemlya>
 
-## General Information
+# General Information
 * Hollywood Edge - The Premiere Edition Volume 1 Sound Effects Library: <https://www.sound-ideas.com/Product/98/Premiere-Edition-Vol-1-Sound-Effects-Library>
     * Sound library used by pretty much every movie. Includes classics such as [Pottery Drop Break PE112401](https://soundideas.sourceaudio.com/track/11473610) and [Sm Heavy Metal Door Sl PE185001](https://soundideas.sourceaudio.com/track/11474283).
 * McMurdo Station Webcams (Antartic): <https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm>
@@ -195,8 +205,9 @@ Table of Contents
 * Drop Shipping: <https://en.wikipedia.org/wiki/Drop_shipping>
 * How It's Made: Bourbon - Science Channel (2020): <https://www.youtube.com/watch?v=-VscpKT7tXE>
 * What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
+* Weapons That May Cause Unnecessary Suffering or Have Indiscriminate Effects (1973): <https://www.loc.gov/rr/frd/Military_Law/pdf/RC-Weapons.pdf>
 
-## Heavy Industry
+# Heavy Industry
 * Irving Group of Companies: <https://en.wikipedia.org/wiki/Irving_Group_of_Companies>
 * Intermodal container: <https://en.wikipedia.org/wiki/Intermodal_container>
 * Floating sheerleg: <https://en.wikipedia.org/wiki/Floating_sheerleg>
@@ -207,7 +218,7 @@ Table of Contents
 * Heavy Press Program - United States Air Force (1951): https://www.youtube.com/watch?v=iZ50nZU3oG8
     * <https://en.wikipedia.org/wiki/Heavy_Press_Program>
 
-## History
+# History
 * Great Smog of London: <https://en.wikipedia.org/wiki/Great_Smog_of_London>
 * The Codex Argenteus: <https://www.atlasobscura.com/articles/silver-purple-bible-codex-mysterious-centuries>
 * Ħal Saflieni Hypogeum: <https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum>
@@ -215,12 +226,12 @@ Table of Contents
 * *Malleus Maleficarum*: <https://en.wikipedia.org/wiki/Malleus_Maleficarum>
 * *Directorium Inquisitorum*: <https://en.wikipedia.org/wiki/Directorium_Inquisitorum>
 
-## Mathematics
+# Mathematics
 * How random can you be? (2019): <https://www.expunctis.com/2019/03/07/Not-so-random.html>
 * Lakes of Wada: <https://en.wikipedia.org/wiki/Lakes_of_Wada>
 * The On-Line Encyclopedia of Integer Sequences: <https://oeis.org/>
 
-## Nuclear
+# Nuclear
 * Able Archer 83: <https://en.wikipedia.org/wiki/Able_Archer_83>
     * Nuclear Close Calls: Able Archer 83: <https://ahf.nuclearmuseum.org/ahf/history/nuclear-close-calls-able-archer-83/>
 * Sandia Containment Testing and FEA (2017): <https://www.xceed-eng.com/reactor-containment-test-and-fea/>
@@ -235,8 +246,10 @@ Table of Contents
 * Scarm: <https://en.wikipedia.org/wiki/Scram>
 * Yucca Mountain nuclear waste repository: <https://en.wikipedia.org/wiki/Yucca_Mountain_nuclear_waste_repository>
 * The Nuclear Novel and Language: <http://histscifi.com/essays/gordin/languages>
+* Expert Judgement on Markers to Deter Inadvertent Human Intrusion into the Waste Isolation Pilot Plant (1993): <https://www.osti.gov/servlets/purl/10117359>
+	* Excerpts from this paper: <https://urbigenous.net/library/WIPP/>
 
-## Oceans and Boats
+# Oceans and Boats
 * Shipping Out: On the (nearly lethal) comforts of a luxury cruise (1996): <https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf>
 * Graveyard of the Pacific: <https://en.wikipedia.org/wiki/Graveyard_of_the_Pacific>
 * Well dock: <https://en.wikipedia.org/wiki/Well_dock>
@@ -255,35 +268,16 @@ Table of Contents
     * Good movie with one of these: The Lighthouse (2019 film) <https://en.wikipedia.org/wiki/The_Lighthouse_(2019_film)>
 * Bollard: <https://en.wikipedia.org/wiki/Bollard>
 
-## Politics
+# Politics
 * EXPLAINER: Why do the media call races in US elections? - Associated Press (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
 
-## Space
+# Space
 * Sputnik Crashed Here (Manitowoc, Wisconsin): <https://www.roadsideamerica.com/story/12959>
 * Wow! signal: <https://en.wikipedia.org/wiki/Wow!_signal>
-## Trains
+
+# Trains
 * Federal Railroad Administration: <https://en.wikipedia.org/wiki/Federal_Railroad_Administration>
 * Woodbridge train derailment: <https://en.wikipedia.org/wiki/Woodbridge_train_derailment>
     * Fun fact: my great-uncle's father was on this train and survived the incident.
 * Telescoping (rail cars): <https://en.wikipedia.org/wiki/Telescoping_%28rail_cars%29>
 * End-of-train device (flashing rear-end device, FRED): <https://en.wikipedia.org/wiki/End-of-train_device>
-
-# White Papers and Reports:
-* FUZZIFICATION: Anti-Fuzzing Techniques (2019): <https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf>
-* FORESHADOW: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution (2018): <https://foreshadowattack.eu/foreshadow.pdf>
-* Fallout: Reading Kernel Writes From User Space (2019): <https://arxiv.org/pdf/1905.12701.pdf>
-* Dowsing for overflows: A guided fuzzer to find buffer boundary violations (2013): <https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_haller.pdf>
-* RAMBleed: Reading Bits in Memory Without Accessing Them (2019): <https://rambleed.com/docs/20190603-rambleed-web.pdf>
-* FlatFlash: Exploiting the Byte-Accessibility of SSDs within A Unified Memory-Storage Hierarchy (2019): <https://jianh.web.engr.illinois.edu/papers/flatflash.pdf>
-* x86-64 Instruction Usage among C/C++ Applications (2019): <https://aakshintala.com/papers/instrpop-systor19.pdf>
-* Weapons That May Cause Unnecessary Suffering or Have Indiscriminate Effects (1973): <https://www.loc.gov/rr/frd/Military_Law/pdf/RC-Weapons.pdf>
-* 45-year CPU evolution: one law and two equations (2018): <https://arxiv.org/ftp/arxiv/papers/1803/1803.00254.pdf>
-* What Every Programmer Should Know About Memory (2007): <https://people.freebsd.org/~lstewart/articles/cpumemory.pdf>
-* Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors (2014): <http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf>
-* Quantum advantage with shallow circuits (2017): <https://arxiv.org/pdf/1704.00690.pdf>
-* Bitcoin: A Peer-to-Peer Electronic Cash System (2008): <https://bitcoin.org/bitcoin.pdf>
-	* "Just read the whitepaper, bro!"
-* Spectre Attacks: Exploiting Speculative Execution (2018): <https://spectreattack.com/spectre.pdf>
-* Meltdown: Reading Kernel Memory from User Space (2018): <https://meltdownattack.com/meltdown.pdf>
-* Expert Judgement on Markers to Deter Inadvertent Human Intrusion into the Waste Isolation Pilot Plant (1993): <https://www.osti.gov/servlets/purl/10117359>
-	* Excerpts from this paper: <https://urbigenous.net/library/WIPP/>
