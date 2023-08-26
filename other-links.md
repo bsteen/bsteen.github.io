@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/).  
-Last updated: 2023-08-23
+Last updated: 2023-08-26
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -19,7 +19,7 @@ Table of Contents:
 * [History](#history)
 * [Mathematics](#mathematics)
 * [Nuclear](#nuclear)
-* [Oceans and Boats](#oceans-and-boats)
+* [Oceans, Ships, and Boats](#oceans-ships-and-boats)
 * [Politics](#politics)
 * [Space](#space)
 * [Trains](#trains)
@@ -252,7 +252,8 @@ Table of Contents:
 * Expert Judgement on Markers to Deter Inadvertent Human Intrusion into the Waste Isolation Pilot Plant (1993): <https://www.osti.gov/servlets/purl/10117359>
 	* Excerpts from this paper: <https://urbigenous.net/library/WIPP/>
 
-# Oceans and Boats
+# Oceans, Ships, and Boats
+* Life on board a British nuclear submarine (2012): <https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine>
 * Shipping Out: On the (nearly lethal) comforts of a luxury cruise (1996): <https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf>
 * Graveyard of the Pacific: <https://en.wikipedia.org/wiki/Graveyard_of_the_Pacific>
 * Well dock: <https://en.wikipedia.org/wiki/Well_dock>
