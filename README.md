@@ -12,7 +12,7 @@
     * First published: November 5, 2018
     * See the code I wrote for this paper and a presentation on it [here](https://github.com/bsteen/cloud-covert-channels)
 
-## Other Published Paper Contributions
+## Other Contributions
 * Hamzah Ahmed et al., "[CDS's Infrared LED Scene Projector System as a Platform Product](https://ieeexplore.ieee.org/document/9911585)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, September 2022.
 * Hamzah Ahmed et al., "[Transitioning the worlds first 1Kx1K Infrared LED Scene Projector Systems from Research and Development (R&D) to Production Level](https://ieeexplore.ieee.org/document/9521400)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2021.
 * Hamzah Ahmed et al., "[Testing, Instrumentation, and Results to make the world’s first usable 1Kx1K Infrared LED Scene Projector Systems](https://ieeexplore.ieee.org/document/9195697)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2020.
