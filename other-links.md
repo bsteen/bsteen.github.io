@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/) or possibly [Archive.today](https://archive.today).  
-Last updated: 2023-08-26
+Last updated: 2023-09-21
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -197,6 +197,7 @@ Table of Contents:
 * Novaya Zemlya: <https://en.wikipedia.org/wiki/Novaya_Zemlya>
 
 # General Information
+* The Origins of Office Speak (2014): <https://www.theatlantic.com/business/archive/2014/04/business-speak/361135/>
 * Hollywood Edge - The Premiere Edition Volume 1 Sound Effects Library: <https://www.sound-ideas.com/Product/98/Premiere-Edition-Vol-1-Sound-Effects-Library>
     * Sound library used by pretty much every movie. Includes classics such as [Pottery Drop Break PE112401](https://soundideas.sourceaudio.com/track/11473610) and [Sm Heavy Metal Door Sl PE185001](https://soundideas.sourceaudio.com/track/11474283).
 * McMurdo Station Webcams (Antartic): <https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm>
