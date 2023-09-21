@@ -18,6 +18,7 @@ Table of Contents:
 * [Heavy Industry](#heavy-industry)
 * [History](#history)
 * [Mathematics](#mathematics)
+* [Movies](#movies)
 * [Nuclear](#nuclear)
 * [Oceans, Ships, and Boats](#oceans-ships-and-boats)
 * [Politics](#politics)
@@ -233,6 +234,11 @@ Table of Contents:
 * How random can you be? (2019): <https://www.expunctis.com/2019/03/07/Not-so-random.html>
 * Lakes of Wada: <https://en.wikipedia.org/wiki/Lakes_of_Wada>
 * The On-Line Encyclopedia of Integer Sequences: <https://oeis.org/>
+
+# Movies
+- David Lynch Keeps His Head (1996): <http://www.lynchnet.com/lh/lhpremiere.html>
+  - Scan of the orignal article from Premiere, Septmeber 1996 issue: <https://archive.org/details/sim_premiere_1996-09_10_1/page/90>
+  - The "Lynch Pic" is excellent: <https://robday.com/david-lynch>
 
 # Nuclear
 * Able Archer 83: <https://en.wikipedia.org/wiki/Able_Archer_83>
