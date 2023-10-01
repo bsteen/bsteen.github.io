@@ -10,7 +10,7 @@ Table of Contents:
     * [Video Games](#video-games)
     * [Vintage Computer Science and Software](#vintage-computer-science-and-software)
 * [Computer Security and Reverse Engineering](#computer-security-and-reverse-engineering)
-* [Economics and Finance](#economics-and-finance)
+* [Economics, Finance, and Business](#economics-finance-and-business)
 * [Electrical Engineering and Electronics](#electrical-engineering-and-electronics)
     * [Vintage Electrical Engineering and Electronics](#vintage-electrical-engineering-and-electronics)
 * [Geography and Natural Formations](#geography-and-natural-formations)
@@ -69,8 +69,9 @@ Table of Contents:
 * Ilya Repin: <https://en.wikipedia.org/wiki/Ilya_Repin>
 
 # Automobiles
+* Volkswagen currywurst: <https://en.wikipedia.org/wiki/Volkswagen_currywurst>
 * Gasoline explained: Where our gasoline comes from: <https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php>
-*  Mitsubishi North America Sold Negative Three (-3) Lancers Last Month (2019): <https://jalopnik.com/mitsubishi-north-america-sold-negative-three-3-lance-1832274956>
+* Mitsubishi North America Sold Negative Three (-3) Lancers Last Month (2019): <https://jalopnik.com/mitsubishi-north-america-sold-negative-three-3-lance-1832274956>
 * Images of Change, Closed Chrysler Newark Plant - Lynn Mcdowell (2010, 2011): <https://lynnmcdowell.photoshelter.com/gallery-collection/Images-of-Change-Closed-Chrysler-Newark-Plant/C0000yDtYV7f7bpw>
 * Below are some of the largest original equipment manufactures (OEMs) for car parts. If you are looking for a replacement part, you can search these companies' catalogs and probably find an equivalent or exact replacement.
 	* ACDelco (General Motors): <https://en.wikipedia.org/wiki/ACDelco>
@@ -150,7 +151,10 @@ Table of Contents:
 * Spectre Attacks: Exploiting Speculative Execution (2018): <https://spectreattack.com/spectre.pdf>
 * Meltdown: Reading Kernel Memory from User Space (2018): <https://meltdownattack.com/meltdown.pdf>
 
-# Economics and Finance
+# Economics, Finance, and Business
+* ZOPA - Zone Of Possible Agreement: <https://www.investopedia.com/terms/z/zoneofpossibleagreement.asp>
+* Externality: <https://en.wikipedia.org/wiki/Externality>
+* Jevons paradox: <https://en.wikipedia.org/wiki/Jevons_paradox>
 * Swiss Re: <https://en.wikipedia.org/wiki/Swiss_Re>
 * Good Delivery: <https://en.wikipedia.org/wiki/Good_Delivery>
 * Wilmington Trust: <https://en.wikipedia.org/wiki/Wilmington_Trust>
@@ -187,6 +191,7 @@ Table of Contents:
 * The Transistor: a 1953 documentary, anticipating its coming impact on technology: <https://www.youtube.com/watch?v=V9xUQWo4vN0>
 
 # Geography and Natural Formations
+* Salt dome: <https://en.wikipedia.org/wiki/Salt_dome>
 * Burning Mountain: <https://en.wikipedia.org/wiki/Burning_Mountain>
     * Coal-seam fire: <https://en.wikipedia.org/wiki/Coal-seam_fire>
 * Lake Toba: <https://en.wikipedia.org/wiki/Lake_Toba>
@@ -197,6 +202,7 @@ Table of Contents:
 * Novaya Zemlya: <https://en.wikipedia.org/wiki/Novaya_Zemlya>
 
 # General Information
+* Dead mileage: <https://en.wikipedia.org/wiki/Dead_mileage>
 * VUCA - volatility, uncertainty, complexity and ambiguity: <https://en.wikipedia.org/wiki/VUCA>
 * The Origins of Office Speak (2014): <https://www.theatlantic.com/business/archive/2014/04/business-speak/361135/>
 * Hollywood Edge - The Premiere Edition Volume 1 Sound Effects Library: <https://www.sound-ideas.com/Product/98/Premiere-Edition-Vol-1-Sound-Effects-Library>
@@ -217,9 +223,7 @@ Table of Contents:
 * Mitsubishi Keiretsu: <https://en.wikipedia.org/wiki/Mitsubishi>
 	* Banking, heavy industry, defense, cars...
 * Hyundai Chaebol: <https://en.wikipedia.org/wiki/Hyundai>
-	* Hyundai Heavy Industries: <https://en.wikipedia.org/wiki/HD_Hyundai_Heavy_Industries>
-		* Made the Hyundai-10000 floating sheerleg: <https://en.wikipedia.org/wiki/Floating_sheerleg>
-	* Hyundai Steel: <https://en.wikipedia.org/wiki/Hyundai_Steel>
+	* Retail, cars, bots, robotics, steel, oil refining...
 * Irving Group of Companies: <https://en.wikipedia.org/wiki/Irving_Group_of_Companies>
 * Intermodal container: <https://en.wikipedia.org/wiki/Intermodal_container>
 * Cofferdam: <https://en.wikipedia.org/wiki/Cofferdam>
@@ -248,7 +252,9 @@ Table of Contents:
   - The "Lynch Pic" is excellent: <https://robday.com/david-lynch>
 
 # Nuclear
-* Savannah River Site: <https://en.wikipedia.org/wiki/Savannah_River_Site>
+* Oklo Mine: <https://en.wikipedia.org/wiki/Oklo_Mine>
+* "Paper Reactor" Memo: <https://whatisnuclear.com/rickover.html>
+*  Savannah River Site: <https://en.wikipedia.org/wiki/Savannah_River_Site>
 * Dead Hand: <https://en.wikipedia.org/wiki/Dead_Hand>
 * LOW - Launch on warning: <https://en.wikipedia.org/wiki/Launch_on_warning>
 * List of nuclear close calls: <https://en.wikipedia.org/wiki/List_of_nuclear_close_calls>
@@ -260,7 +266,7 @@ Table of Contents:
 * Moving Nuclear Waste Around - David Ruzic (2019): <https://www.youtube.com/watch?v=sLwqokQ7Gpk>
 * Radioisotope thermoelectric generator: <https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator>
 	* The nuclear lighthouses built by the Soviets in the Arctic - BBC (2021): <https://www.bbc.com/reel/video/p0931jtk/the-nuclear-lighthouses-built-by-the-soviets-in-the-arctic>
-* National Nuclear Security Administration: <https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration>
+* National Nuclear Security Administration: <https://en.wikipedia.org/wiki/Nahttps://github.com/bsteen/bsteen.github.io/blob/master/other-links.md#heavy-industrytional_Nuclear_Security_Administration>
 * Long-time nuclear waste warning messages: <https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages>
 * Waste Isolation Pilot Plant: <https://en.wikipedia.org/wiki/Waste_Isolation_Pilot_Plant>
 * Scarm: <https://en.wikipedia.org/wiki/Scram>
@@ -270,6 +276,8 @@ Table of Contents:
 	* Excerpts from this paper: <https://urbigenous.net/library/WIPP/>
 
 # Oceans, Ships, and Boats
+* What's the Difference Between a Boat and a Ship? (2023): <https://www.youtube.com/watch?v=cps0xBV6xi0>
+* Floating sheerleg: <https://en.wikipedia.org/wiki/Floating_sheerleg>
 * Life on board a British nuclear submarine (2012): <https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine>
 * Shipping Out: On the (nearly lethal) comforts of a luxury cruise (1996): <https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf>
 * Graveyard of the Pacific: <https://en.wikipedia.org/wiki/Graveyard_of_the_Pacific>
@@ -293,6 +301,8 @@ Table of Contents:
 * EXPLAINER: Why do the media call races in US elections? - Associated Press (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
 
 # Space
+* Miyake event: <https://en.wikipedia.org/wiki/Miyake_event>
+* The Carrington Event: <https://en.wikipedia.org/wiki/Carrington_Event>
 * Sputnik Crashed Here (Manitowoc, Wisconsin): <https://www.roadsideamerica.com/story/12959>
 * Wow! signal: <https://en.wikipedia.org/wiki/Wow!_signal>
 
