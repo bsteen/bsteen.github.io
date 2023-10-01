@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/) or possibly [Archive.today](https://archive.today).  
-Last updated: 2023-09-21
+Last updated: 2023-10-01
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -34,7 +34,7 @@ Table of Contents:
 * Leadenhall Market: <https://en.wikipedia.org/wiki/Leadenhall_Market>
 * 375 Pearl Street, New York, NY (Verizon Building): <https://en.wikipedia.org/wiki/375_Pearl_Street>
 * Corporation Trust Center, 1209 North Orange Street, Wilmington, DE: <https://en.wikipedia.org/wiki/Corporation_Trust_Center_(CT_Corporation)>
-    * A huge number of American businesses are registered at this single adddress
+    * A huge number of American businesses are registered at this single address
     * See also: 251 Little Falls Drive, Wilmington, DE
 * Cupolas: <https://www.thisoldhouse.com/roofing/21018295/cupolas>
 * Regrading in Seattle: <https://en.wikipedia.org/wiki/Regrading_in_Seattle>
@@ -56,7 +56,7 @@ Table of Contents:
 	* [Photos of the inside](https://archive.vn/FqYTB)
 * 33 Thomas Street (AT&T Long Lines Building): <https://en.wikipedia.org/wiki/33_Thomas_Street>
 * Brutalist architecture <https://en.wikipedia.org/wiki/Brutalist_architecture>
-	* A great book on this topic: Atlas of Brutalist Architecture [[1]](https://www.phaidon.com/store/architecture/atlas-of-brutalist-architecture-9780714875668/) [[2]](https://www.phaidon.com/store/architecture/Atlas-of-Brutalist-Architecture-9781838661908/)
+	* A great book on this topic is _Atlas of Brutalist Architecture_: <https://www.phaidon.com/store/architecture/Atlas-of-Brutalist-Architecture-9781838661908/>
 
 # Artists:
 * Susan Kare: <https://www.aiga.org/medalist-susan-kare>, <https://en.wikipedia.org/wiki/Susan_Kare>
@@ -197,10 +197,11 @@ Table of Contents:
 * Novaya Zemlya: <https://en.wikipedia.org/wiki/Novaya_Zemlya>
 
 # General Information
+* VUCA - volatility, uncertainty, complexity and ambiguity: <https://en.wikipedia.org/wiki/VUCA>
 * The Origins of Office Speak (2014): <https://www.theatlantic.com/business/archive/2014/04/business-speak/361135/>
 * Hollywood Edge - The Premiere Edition Volume 1 Sound Effects Library: <https://www.sound-ideas.com/Product/98/Premiere-Edition-Vol-1-Sound-Effects-Library>
     * Sound library used by pretty much every movie. Includes classics such as [Pottery Drop Break PE112401](https://soundideas.sourceaudio.com/track/11473610) and [Sm Heavy Metal Door Sl PE185001](https://soundideas.sourceaudio.com/track/11474283).
-* McMurdo Station Webcams (Antartic): <https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm>
+* McMurdo Station Webcams (Antarctic): <https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm>
 * Sympathetic detonation: <https://en.wikipedia.org/wiki/Sympathetic_detonation>
 * Sun dog: <https://en.wikipedia.org/wiki/Sun_dog>
 * Portland cement: <https://en.wikipedia.org/wiki/Portland_cement>
@@ -213,9 +214,14 @@ Table of Contents:
 * Weapons That May Cause Unnecessary Suffering or Have Indiscriminate Effects (1973): <https://www.loc.gov/rr/frd/Military_Law/pdf/RC-Weapons.pdf>
 
 # Heavy Industry
+* Mitsubishi Keiretsu: <https://en.wikipedia.org/wiki/Mitsubishi>
+	* Banking, heavy industry, defense, cars...
+* Hyundai Chaebol: <https://en.wikipedia.org/wiki/Hyundai>
+	* Hyundai Heavy Industries: <https://en.wikipedia.org/wiki/HD_Hyundai_Heavy_Industries>
+		* Made the Hyundai-10000 floating sheerleg: <https://en.wikipedia.org/wiki/Floating_sheerleg>
+	* Hyundai Steel: <https://en.wikipedia.org/wiki/Hyundai_Steel>
 * Irving Group of Companies: <https://en.wikipedia.org/wiki/Irving_Group_of_Companies>
 * Intermodal container: <https://en.wikipedia.org/wiki/Intermodal_container>
-* Floating sheerleg: <https://en.wikipedia.org/wiki/Floating_sheerleg>
 * Cofferdam: <https://en.wikipedia.org/wiki/Cofferdam>
 * Byford Dolphin: <https://en.wikipedia.org/wiki/Byford_Dolphin>
 * Urals Automotive Plant (UralAZ): <https://en.wikipedia.org/wiki/Ural_Automotive_Plant>
@@ -242,8 +248,12 @@ Table of Contents:
   - The "Lynch Pic" is excellent: <https://robday.com/david-lynch>
 
 # Nuclear
-* Able Archer 83: <https://en.wikipedia.org/wiki/Able_Archer_83>
-    * Nuclear Close Calls: Able Archer 83: <https://ahf.nuclearmuseum.org/ahf/history/nuclear-close-calls-able-archer-83/>
+* Savannah River Site: <https://en.wikipedia.org/wiki/Savannah_River_Site>
+* Dead Hand: <https://en.wikipedia.org/wiki/Dead_Hand>
+* LOW - Launch on warning: <https://en.wikipedia.org/wiki/Launch_on_warning>
+* List of nuclear close calls: <https://en.wikipedia.org/wiki/List_of_nuclear_close_calls>
+	* Able Archer 83: <https://en.wikipedia.org/wiki/Able_Archer_83>
+    * More about Able Archer 83: <https://ahf.nuclearmuseum.org/ahf/history/nuclear-close-calls-able-archer-83/>
 * Sandia Containment Testing and FEA (2017): <https://www.xceed-eng.com/reactor-containment-test-and-fea/>
 * Westinghouse Atom Smasher: <https://en.wikipedia.org/wiki/Westinghouse_Atom_Smasher>
 * Pig: <https://www.nrc.gov/reading-rm/basic-ref/glossary/pig.html>
@@ -289,6 +299,6 @@ Table of Contents:
 # Trains
 * Federal Railroad Administration: <https://en.wikipedia.org/wiki/Federal_Railroad_Administration>
 * Woodbridge train derailment: <https://en.wikipedia.org/wiki/Woodbridge_train_derailment>
-    * Fun fact: my great-uncle's father was on this train and survived the incident.
+    * Fun fact: my great-uncle's father was on this train and survived the disaster
 * Telescoping (rail cars): <https://en.wikipedia.org/wiki/Telescoping_%28rail_cars%29>
 * End-of-train device (flashing rear-end device, FRED): <https://en.wikipedia.org/wiki/End-of-train_device>
