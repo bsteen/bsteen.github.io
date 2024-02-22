@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/) or possibly [Archive.today](https://archive.today).  
-Last updated: 2023-10-01
+Last updated: 2024-02-22
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -248,7 +248,7 @@ Table of Contents:
 
 # Movies
 - David Lynch Keeps His Head (1996): <http://www.lynchnet.com/lh/lhpremiere.html>
-  - Scan of the orignal article from Premiere, Septmeber 1996 issue: <https://archive.org/details/sim_premiere_1996-09_10_1/page/90>
+  - Scan of the orignal article from _Premiere_, Septmeber 1996 issue: <https://archive.org/details/sim_premiere_1996-09_10_1/page/90>
   - The "Lynch Pic" is excellent: <https://robday.com/david-lynch>
 
 # Nuclear
@@ -259,14 +259,14 @@ Table of Contents:
 * LOW - Launch on warning: <https://en.wikipedia.org/wiki/Launch_on_warning>
 * List of nuclear close calls: <https://en.wikipedia.org/wiki/List_of_nuclear_close_calls>
 	* Able Archer 83: <https://en.wikipedia.org/wiki/Able_Archer_83>
-    * More about Able Archer 83: <https://ahf.nuclearmuseum.org/ahf/history/nuclear-close-calls-able-archer-83/>
+	* More about Able Archer 83: <https://ahf.nuclearmuseum.org/ahf/history/nuclear-close-calls-able-archer-83/>
 * Sandia Containment Testing and FEA (2017): <https://www.xceed-eng.com/reactor-containment-test-and-fea/>
 * Westinghouse Atom Smasher: <https://en.wikipedia.org/wiki/Westinghouse_Atom_Smasher>
 * Pig: <https://www.nrc.gov/reading-rm/basic-ref/glossary/pig.html>
 * Moving Nuclear Waste Around - David Ruzic (2019): <https://www.youtube.com/watch?v=sLwqokQ7Gpk>
 * Radioisotope thermoelectric generator: <https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator>
 	* The nuclear lighthouses built by the Soviets in the Arctic - BBC (2021): <https://www.bbc.com/reel/video/p0931jtk/the-nuclear-lighthouses-built-by-the-soviets-in-the-arctic>
-* National Nuclear Security Administration: <https://en.wikipedia.org/wiki/Nahttps://github.com/bsteen/bsteen.github.io/blob/master/other-links.md#heavy-industrytional_Nuclear_Security_Administration>
+* National Nuclear Security Administration: <https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration>
 * Long-time nuclear waste warning messages: <https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages>
 * Waste Isolation Pilot Plant: <https://en.wikipedia.org/wiki/Waste_Isolation_Pilot_Plant>
 * Scarm: <https://en.wikipedia.org/wiki/Scram>
