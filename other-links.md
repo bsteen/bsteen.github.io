@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/) or possibly [Archive.today](https://archive.today).  
-Last updated: 2024-02-22
+Last updated: 2024-03-06
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -17,11 +17,11 @@ Table of Contents:
 * [General Information](#general-information)
 * [Heavy Industry](#heavy-industry)
 * [History](#history)
+* [Journalism](#journalism)
 * [Mathematics](#mathematics)
 * [Movies](#movies)
 * [Nuclear](#nuclear)
 * [Oceans, Ships, and Boats](#oceans-ships-and-boats)
-* [Politics](#politics)
 * [Space](#space)
 * [Trains](#trains)
 
@@ -241,6 +241,11 @@ Table of Contents:
 * *Malleus Maleficarum*: <https://en.wikipedia.org/wiki/Malleus_Maleficarum>
 * *Directorium Inquisitorum*: <https://en.wikipedia.org/wiki/Directorium_Inquisitorum>
 
+# Journalism
+* A most wanted man: Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy (2024): <https://theins.ru/en/politics/269612>
+* The Dirty Secrets of a Smear Campaign (2023): <https://www.newyorker.com/magazine/2023/04/03/the-dirty-secrets-of-a-smear-campaign>
+* EXPLAINER: Why do the media call races in US elections? (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
+
 # Mathematics
 * How random can you be? (2019): <https://www.expunctis.com/2019/03/07/Not-so-random.html>
 * Lakes of Wada: <https://en.wikipedia.org/wiki/Lakes_of_Wada>
@@ -296,9 +301,6 @@ Table of Contents:
     * How a Fresnel Lens works, using a simple blackboard model (2012): <https://www.youtube.com/watch?v=_nBNnlu6Rqo>
     * Good movie with one of these: The Lighthouse (2019 film) <https://en.wikipedia.org/wiki/The_Lighthouse_(2019_film)>
 * Bollard: <https://en.wikipedia.org/wiki/Bollard>
-
-# Politics
-* EXPLAINER: Why do the media call races in US elections? - Associated Press (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
 
 # Space
 * Miyake event: <https://en.wikipedia.org/wiki/Miyake_event>
