@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/) or possibly [Archive.today](https://archive.today).  
-Last updated: 2024-03-06
+Last updated: 2024-03-26
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -257,6 +257,7 @@ Table of Contents:
   - The "Lynch Pic" is excellent: <https://robday.com/david-lynch>
 
 # Nuclear
+* Windscale fire: <https://en.wikipedia.org/wiki/Windscale_fire>
 * Oklo Mine: <https://en.wikipedia.org/wiki/Oklo_Mine>
 * "Paper Reactor" Memo: <https://whatisnuclear.com/rickover.html>
 *  Savannah River Site: <https://en.wikipedia.org/wiki/Savannah_River_Site>
