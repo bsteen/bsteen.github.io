@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/) or possibly [Archive.today](https://archive.today).  
-Last updated: 2024-03-26
+Last updated: 2024-04-06
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -282,6 +282,7 @@ Table of Contents:
 	* Excerpts from this paper: <https://urbigenous.net/library/WIPP/>
 
 # Oceans, Ships, and Boats
+* Glomar Explorer: <https://en.wikipedia.org/wiki/Glomar_Explorer>
 * What's the Difference Between a Boat and a Ship? (2023): <https://www.youtube.com/watch?v=cps0xBV6xi0>
 * Floating sheerleg: <https://en.wikipedia.org/wiki/Floating_sheerleg>
 * Life on board a British nuclear submarine (2012): <https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine>
