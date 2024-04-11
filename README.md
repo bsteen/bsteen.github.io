@@ -28,4 +28,4 @@
 * [Sound Board](sb/)
 
 # Copyright Notice
-**© 2019 - 2023 Benjamin Steenkamer**
+**© 2019 - 2024 Benjamin Steenkamer**
