@@ -1,7 +1,11 @@
 # List of Quotes
 
 A list of (not very serious) quotes I've come across over the years. I've tried to link the original source for each. Otherwise I will just link the place or person where I first heard it. The list is ordered from most recently found quotes to least recently. Format is quote followed by author below.  
-Last updated: 2023-2-10
+Last updated: 2024-06-21
+
+> I want room service!
+
+-- [Johnny "Just Johnny" Mnemonic](https://youtu.be/8XeBE1GaZOY?t=61)
 
 > I think Coolsville sucks!
 
