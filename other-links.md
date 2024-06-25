@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/) or possibly [Archive.today](https://archive.today).  
-Last updated: 2024-04-07
+Last updated: 2024-06-25
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -127,6 +127,7 @@ Table of Contents:
 	* Pictures inside Bell Labs, Oakland, CA; taken by an employee some time between 1969 and 1970.
 
 # Computer Security and Reverse Engineering
+* DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor (2022): <https://www.youtube.com/watch?v=01oeaBb85Xc>
 * Semiconductor Security Awareness, Today and Yesterday - Christopher Tarnovsky, Black Hat USA 2010: <https://www.youtube.com/watch?v=WXX00tRKOlw>
 * Tales from Hardware Security Research - Johannes and Marc, CCC 2019: <https://www.youtube.com/watch?v=WqAHCpe8Oxw>
 * Lightening fast CTF solving - Automatic Exploit Generation & Side Channel Analysis - Christoper Roberts, BSides DC 2018: <https://www.youtube.com/watch?v=-4goiRPcxl4>
