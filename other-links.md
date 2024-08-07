@@ -110,12 +110,6 @@ Table of Contents:
 * Markdown Cheatsheet: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 * x86-64 Instruction Usage among C/C++ Applications (2019): <https://aakshintala.com/papers/instrpop-systor19.pdf>
 * What Every Programmer Should Know About Memory (2007): <https://people.freebsd.org/~lstewart/articles/cpumemory.pdf>
-
-# Video Games
-* How The NES Conquered A Skeptical America In 1985 - Ars Technica (2020): <https://www.youtube.com/watch?v=Sn5v09L_uDg>
-* Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi, CDC 2017: <https://www.youtube.com/watch?v=QyMsF31NdNc>
-* Dwarf Fortress Live - PAX West 2019: <https://www.youtube.com/watch?v=WW_dHPtC2wg>
-* DOOM: Behind the Music - Mick Gordon, CDC 2017: <https://www.youtube.com/watch?v=U4FNBMZsqrY>
 # Vintage Computer Science and Software
 * Discovering Dennis Ritchie's Lost Dissertation - David C. Brock (2020): <https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/>
     * Recreating Dennis Ritchie's PhD Thesis - Computerphile (2021): <https://youtu.be/82TxNejKsng>
@@ -127,6 +121,12 @@ Table of Contents:
 * FLATLINE: How The Amiga Languished - Stuart Brown (2018): <https://www.youtube.com/watch?v=zB_UZsJUbwQ>
 * Pictures of Bell Labs (1969 - 1970): <http://www.larryluckham.com/1969%20&%2070%20-%20Bell%20Labs/album/index.html>
 	* Pictures inside Bell Labs, Oakland, CA; taken by an employee some time between 1969 and 1970.
+
+# Video Games
+* How The NES Conquered A Skeptical America In 1985 - Ars Technica (2020): <https://www.youtube.com/watch?v=Sn5v09L_uDg>
+* Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi, CDC 2017: <https://www.youtube.com/watch?v=QyMsF31NdNc>
+* Dwarf Fortress Live - PAX West 2019: <https://www.youtube.com/watch?v=WW_dHPtC2wg>
+* DOOM: Behind the Music - Mick Gordon, CDC 2017: <https://www.youtube.com/watch?v=U4FNBMZsqrY>
 
 # Computer Security and Reverse Engineering
 * DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor (2022): <https://www.youtube.com/watch?v=01oeaBb85Xc>
@@ -187,7 +187,6 @@ Table of Contents:
 * Quantum advantage with shallow circuits (2017): <https://arxiv.org/pdf/1704.00690.pdf>
 * Zeptobars (IC die analysis): <https://zeptobars.com/en/>
 * J.C. Bose: 60 GHz in the 1890s: <https://www.cv.nrao.edu/~demerson/bose/bose.html>
-
 # Vintage Electrical Engineering and Electronics
 * AT&T Archives: Communications Satellites Documentary (1987): <https://www.youtube.com/watch?v=3tsDqlnP0Xw>
 * Tektronix Printed Circuit Boards (1969): <https://www.youtube.com/watch?v=7weZ0TNRcuw>
