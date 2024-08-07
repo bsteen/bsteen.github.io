@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/) or possibly [Archive.today](https://archive.today).  
-Last updated: 2024-07-13
+Last updated: 2024-08-07
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -154,6 +154,7 @@ Table of Contents:
 * Meltdown: Reading Kernel Memory from User Space (2018): <https://meltdownattack.com/meltdown.pdf>
 
 # Economics, Finance, and Business
+* Have You Ever Tried to Sell a Diamond? (1982): <https://www.theatlantic.com/magazine/archive/1982/02/have-you-ever-tried-to-sell-a-diamond/304575/>
 * Osborne effect: <https://en.wikipedia.org/wiki/Osborne_effect>
 * ZOPA - Zone Of Possible Agreement: <https://www.investopedia.com/terms/z/zoneofpossibleagreement.asp>
 * Externality: <https://en.wikipedia.org/wiki/Externality>
