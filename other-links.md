@@ -110,6 +110,7 @@ Table of Contents:
 * Markdown Cheatsheet: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 * x86-64 Instruction Usage among C/C++ Applications (2019): <https://aakshintala.com/papers/instrpop-systor19.pdf>
 * What Every Programmer Should Know About Memory (2007): <https://people.freebsd.org/~lstewart/articles/cpumemory.pdf>
+
 # Video Games
 * How The NES Conquered A Skeptical America In 1985 - Ars Technica (2020): <https://www.youtube.com/watch?v=Sn5v09L_uDg>
 * Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi, CDC 2017: <https://www.youtube.com/watch?v=QyMsF31NdNc>
@@ -186,6 +187,7 @@ Table of Contents:
 * Quantum advantage with shallow circuits (2017): <https://arxiv.org/pdf/1704.00690.pdf>
 * Zeptobars (IC die analysis): <https://zeptobars.com/en/>
 * J.C. Bose: 60 GHz in the 1890s: <https://www.cv.nrao.edu/~demerson/bose/bose.html>
+
 # Vintage Electrical Engineering and Electronics
 * AT&T Archives: Communications Satellites Documentary (1987): <https://www.youtube.com/watch?v=3tsDqlnP0Xw>
 * Tektronix Printed Circuit Boards (1969): <https://www.youtube.com/watch?v=7weZ0TNRcuw>
@@ -208,9 +210,6 @@ Table of Contents:
 # General Information
 * Dead mileage: <https://en.wikipedia.org/wiki/Dead_mileage>
 * VUCA - volatility, uncertainty, complexity and ambiguity: <https://en.wikipedia.org/wiki/VUCA>
-* The Origins of Office Speak (2014): <https://www.theatlantic.com/business/archive/2014/04/business-speak/361135/>
-* Hollywood Edge - The Premiere Edition Volume 1 Sound Effects Library: <https://www.sound-ideas.com/Product/98/Premiere-Edition-Vol-1-Sound-Effects-Library>
-    * Sound library used by pretty much every movie. Includes classics such as [Pottery Drop Break PE112401](https://soundideas.sourceaudio.com/track/11473610) and [Sm Heavy Metal Door Sl PE185001](https://soundideas.sourceaudio.com/track/11474283).
 * McMurdo Station Webcams (Antarctic): <https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm>
 * Sympathetic detonation: <https://en.wikipedia.org/wiki/Sympathetic_detonation>
 * Sun dog: <https://en.wikipedia.org/wiki/Sun_dog>
@@ -220,7 +219,6 @@ Table of Contents:
 * Inside Earth's Doomsday Seed Vault - Vice (2020): <https://www.youtube.com/watch?v=6AzG9EZ20tY>
 * Drop Shipping: <https://en.wikipedia.org/wiki/Drop_shipping>
 * How It's Made: Bourbon - Science Channel (2020): <https://www.youtube.com/watch?v=-VscpKT7tXE>
-* What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
 * Weapons That May Cause Unnecessary Suffering or Have Indiscriminate Effects (1973): <https://www.loc.gov/rr/frd/Military_Law/pdf/RC-Weapons.pdf>
 
 # Heavy Industry
@@ -234,6 +232,7 @@ Table of Contents:
 * Byford Dolphin: <https://en.wikipedia.org/wiki/Byford_Dolphin>
 * Urals Automotive Plant (UralAZ): <https://en.wikipedia.org/wiki/Ural_Automotive_Plant>
 * KAMAZ: <https://en.wikipedia.org/wiki/Kamaz>
+* What WD-40 Is REALLY For! - Fran Blanche (2020): <https://www.youtube.com/watch?v=aTD_SBudQfY>
 * Heavy Press Program - United States Air Force (1951): https://www.youtube.com/watch?v=iZ50nZU3oG8
     * <https://en.wikipedia.org/wiki/Heavy_Press_Program>
 
@@ -249,6 +248,7 @@ Table of Contents:
 * Piecing Together the Secrets of the Stasi (2024): <https://www.newyorker.com/magazine/2024/06/03/piecing-together-the-secrets-of-the-stasi>
 * A most wanted man: Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy (2024): <https://theins.ru/en/politics/269612>
 * The Dirty Secrets of a Smear Campaign (2023): <https://www.newyorker.com/magazine/2023/04/03/the-dirty-secrets-of-a-smear-campaign>
+* The Origins of Office Speak (2014): <https://www.theatlantic.com/business/archive/2014/04/business-speak/361135/>
 * EXPLAINER: Why do the media call races in US elections? (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
 
 # Mathematics
@@ -257,9 +257,11 @@ Table of Contents:
 * The On-Line Encyclopedia of Integer Sequences: <https://oeis.org/>
 
 # Movies
-- David Lynch Keeps His Head (1996): <http://www.lynchnet.com/lh/lhpremiere.html>
-  - Scan of the orignal article from _Premiere_, Septmeber 1996 issue: <https://archive.org/details/sim_premiere_1996-09_10_1/page/90>
-  - The "Lynch Pic" is excellent: <https://robday.com/david-lynch>
+* David Lynch Keeps His Head (1996): <http://www.lynchnet.com/lh/lhpremiere.html>
+  * Scan of the orignal article from _Premiere_, Septmeber 1996 issue: <https://archive.org/details/sim_premiere_1996-09_10_1/page/90>
+  * The "Lynch Pic" is excellent: <https://robday.com/david-lynch>
+* Hollywood Edge - The Premiere Edition Volume 1 Sound Effects Library: <https://www.sound-ideas.com/Product/98/Premiere-Edition-Vol-1-Sound-Effects-Library>
+    * Sound library used by pretty much every movie. Includes classics such as [Pottery Drop Break PE112401](https://soundideas.sourceaudio.com/track/11473610) and [Sm Heavy Metal Door Sl PE185001](https://soundideas.sourceaudio.com/track/11474283).
 
 # Nuclear
 * Windscale fire: <https://en.wikipedia.org/wiki/Windscale_fire>
