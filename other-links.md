@@ -7,7 +7,6 @@ Table of Contents:
 * [Automobiles](#automobiles)
 * [Chemistry](#chemistry)
 * [Computer Science and Software](#computer-science-and-software)
-    * [Video Games](#video-games)
     * [Vintage Computer Science and Software](#vintage-computer-science-and-software)
 * [Computer Security and Reverse Engineering](#computer-security-and-reverse-engineering)
 * [Economics, Finance, and Business](#economics-finance-and-business)
@@ -24,6 +23,7 @@ Table of Contents:
 * [Oceans, Ships, and Boats](#oceans-ships-and-boats)
 * [Space](#space)
 * [Trains](#trains)
+* [Video Games](#video-games)
 
 # Architecture and Buildings
 * DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse (2015): <https://www.youtube.com/watch?v=oHf1vD5_b5I>
@@ -121,12 +121,6 @@ Table of Contents:
 * FLATLINE: How The Amiga Languished - Stuart Brown (2018): <https://www.youtube.com/watch?v=zB_UZsJUbwQ>
 * Pictures of Bell Labs (1969 - 1970): <http://www.larryluckham.com/1969%20&%2070%20-%20Bell%20Labs/album/index.html>
 	* Pictures inside Bell Labs, Oakland, CA; taken by an employee some time between 1969 and 1970.
-
-# Video Games
-* How The NES Conquered A Skeptical America In 1985 - Ars Technica (2020): <https://www.youtube.com/watch?v=Sn5v09L_uDg>
-* Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi, CDC 2017: <https://www.youtube.com/watch?v=QyMsF31NdNc>
-* Dwarf Fortress Live - PAX West 2019: <https://www.youtube.com/watch?v=WW_dHPtC2wg>
-* DOOM: Behind the Music - Mick Gordon, CDC 2017: <https://www.youtube.com/watch?v=U4FNBMZsqrY>
 
 # Computer Security and Reverse Engineering
 * DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor (2022): <https://www.youtube.com/watch?v=01oeaBb85Xc>
@@ -323,3 +317,9 @@ Table of Contents:
     * Fun fact: my great-uncle's father was on this train and survived the disaster
 * Telescoping (rail cars): <https://en.wikipedia.org/wiki/Telescoping_%28rail_cars%29>
 * End-of-train device (flashing rear-end device, FRED): <https://en.wikipedia.org/wiki/End-of-train_device>
+
+# Video Games
+* How The NES Conquered A Skeptical America In 1985 - Ars Technica (2020): <https://www.youtube.com/watch?v=Sn5v09L_uDg>
+* Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi, CDC 2017: <https://www.youtube.com/watch?v=QyMsF31NdNc>
+* Dwarf Fortress Live - PAX West 2019: <https://www.youtube.com/watch?v=WW_dHPtC2wg>
+* DOOM: Behind the Music - Mick Gordon, CDC 2017: <https://www.youtube.com/watch?v=U4FNBMZsqrY>
