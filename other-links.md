@@ -246,6 +246,7 @@ Table of Contents:
 * *Directorium Inquisitorum*: <https://en.wikipedia.org/wiki/Directorium_Inquisitorum>
 
 # Journalism
+* Piecing Together the Secrets of the Stasi (2024): <https://www.newyorker.com/magazine/2024/06/03/piecing-together-the-secrets-of-the-stasi>
 * A most wanted man: Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy (2024): <https://theins.ru/en/politics/269612>
 * The Dirty Secrets of a Smear Campaign (2023): <https://www.newyorker.com/magazine/2023/04/03/the-dirty-secrets-of-a-smear-campaign>
 * EXPLAINER: Why do the media call races in US elections? (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
