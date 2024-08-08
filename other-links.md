@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/) or possibly [Archive.today](https://archive.today).  
-Last updated: 2024-08-07
+Last updated: 2024-08-08
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -93,6 +93,7 @@ Table of Contents:
 * AT&T Archives: Crystal Growth Morphologies, a 1974 microscopic film study from Bell Laboratories: <https://www.youtube.com/watch?v=Y3GwvN5W1dE>
 
 # Computer Science and Software:
+* Big List of Naughty Strings: <https://github.com/minimaxir/big-list-of-naughty-strings>
 * Killed by Google: <https://killedbygoogle.com>
 * The Secret History of Windows Bluescreens by Davepl (2021): <https://www.youtube.com/watch?v=KgqJJECQQH0>
 * The Secret History of Windows Task Manager: Part 1 - Retired Microsoft Engineer Davepl (2020): <https://www.youtube.com/watch?v=f8VBOiPV-_M>
@@ -230,6 +231,11 @@ Table of Contents:
     * <https://en.wikipedia.org/wiki/Heavy_Press_Program>
 
 # History
+* The Three Horsemen of the Pantry Apocalypse:
+	* Tarrare: <https://en.wikipedia.org/wiki/Tarrare>
+	* Charles Domery: <https://en.wikipedia.org/wiki/Charles_Domery>
+	* Edward Dando: <https://en.wikipedia.org/wiki/Edward_Dando>
+* The Burial of William the Conqueror: A Comedy of Errors (2024): <https://strangeco.blogspot.com/2024/01/the-burial-of-william-conqueror-comedy.html>
 * Great Smog of London: <https://en.wikipedia.org/wiki/Great_Smog_of_London>
 * The Codex Argenteus: <https://www.atlasobscura.com/articles/silver-purple-bible-codex-mysterious-centuries>
 * Ħal Saflieni Hypogeum: <https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum>
@@ -238,8 +244,11 @@ Table of Contents:
 * *Directorium Inquisitorum*: <https://en.wikipedia.org/wiki/Directorium_Inquisitorum>
 
 # Journalism
+* The Day L.B.J. Took Charge (2012): <https://www.newyorker.com/magazine/2012/04/02/the-transition-kennedy-assassination-lbj>
 * Piecing Together the Secrets of the Stasi (2024): <https://www.newyorker.com/magazine/2024/06/03/piecing-together-the-secrets-of-the-stasi>
 * A most wanted man: Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy (2024): <https://theins.ru/en/politics/269612>
+* Whole Earth Catalog: <https://en.wikipedia.org/wiki/Whole_Earth_Catalog>
+* Etaoin shrdlu: <https://en.wikipedia.org/wiki/Etaoin_shrdlu>
 * The Dirty Secrets of a Smear Campaign (2023): <https://www.newyorker.com/magazine/2023/04/03/the-dirty-secrets-of-a-smear-campaign>
 * The Origins of Office Speak (2014): <https://www.theatlantic.com/business/archive/2014/04/business-speak/361135/>
 * EXPLAINER: Why do the media call races in US elections? (2020): <https://apnews.com/article/why-does-media-call-races-us-elections-20e9b5688aa0b7404648ea74b1c2f4dc>
