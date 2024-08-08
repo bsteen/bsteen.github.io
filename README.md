@@ -7,10 +7,9 @@
 * Benjamin P. Steenkamer, "[An Empirical Study on Use-After-Free Vulnerabilities](https://udspace.udel.edu/bitstream/handle/19716/25078/Steenkamer_udel_0060M_13943.pdf)", University of Delaware, Master's thesis, August 2019.
     * [University of Delaware Listing](https://udspace.udel.edu/handle/19716/25078)
     * [ProQuest Listing](https://search.proquest.com/docview/2307785165)
-    * Master's Thesis Postmortem (coming soon)
 * Xing Gao, Benjamin Steenkamer, Zhongshu Gu, Mehmet Kayaalp, Dimitrios Pendarakis, and Haining Wang, "[A Study on the Security Implications of Information Leakages in Container Clouds](https://ieeexplore.ieee.org/document/8523802)" in *IEEE Transactions on Dependable and Secure Computing*, January - February 2021.
-    * First published: November 5, 2018
-    * See the code I wrote for this paper and a presentation on it [here](https://github.com/bsteen/cloud-covert-channels)
+    * Published: November 5, 2018
+    * Code for this paper: <https://github.com/bsteen/cloud-covert-channels>
 
 ## Other Contributions
 * Kiamilev et al., "Progress Toward Production Grade Infrared LED Scene Projector Systems", in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, TBA 2024.
@@ -18,10 +17,8 @@
 * Hamzah Ahmed et al., "[Transitioning the worlds first 1Kx1K Infrared LED Scene Projector Systems from Research and Development (R&D) to Production Level](https://ieeexplore.ieee.org/document/9521400)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2021.
 * Hamzah Ahmed et al., "[Testing, Instrumentation, and Results to make the world’s first usable 1Kx1K Infrared LED Scene Projector Systems](https://ieeexplore.ieee.org/document/9195697)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2020.
 
-# My Projects
+# My Projects & Stuff
 * [See my GitHub profile](https://github.com/bsteen)
-
-# Other Stuff
 * [A list of videos, papers, and articles I find interesting](other-links.md)
 * [List of Quotes](quotes.md)
 * [Mazda Mazda3 (2nd Generation / BL) Information](mazda3-bl.md)
