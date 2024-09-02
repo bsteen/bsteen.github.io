@@ -5,6 +5,13 @@
 * [HackerRank](https://www.hackerrank.com/profile/bsteen)
 * [IEEE Xplore](https://ieeexplore.ieee.org/author/37088505780)
 
+# My Projects & Stuff
+* [My GitHub profile for programming projects](https://github.com/bsteen)
+* [List of videos, papers, and articles I find interesting](other-links.md)
+* [List of Quotes](quotes.md)
+* [Mazda Mazda3 (2nd Generation / BL) Information](mazda3-bl.md)
+* [File Hashes of Media I Own](hashes.md)
+* [Sound Board](sb/)
 
 # Published Papers
 * Benjamin P. Steenkamer, "[An Empirical Study on Use-After-Free Vulnerabilities](https://udspace.udel.edu/bitstream/handle/19716/25078/Steenkamer_udel_0060M_13943.pdf)", University of Delaware, Master's thesis, August 2019.
@@ -20,13 +27,5 @@
 * Hamzah Ahmed et al., "[Transitioning the worlds first 1Kx1K Infrared LED Scene Projector Systems from Research and Development (R&D) to Production Level](https://ieeexplore.ieee.org/document/9521400)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2021.
 * Hamzah Ahmed et al., "[Testing, Instrumentation, and Results to make the world’s first usable 1Kx1K Infrared LED Scene Projector Systems](https://ieeexplore.ieee.org/document/9195697)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2020.
 
-# My Projects & Stuff
-* [See my GitHub profile](https://github.com/bsteen)
-* [A list of videos, papers, and articles I find interesting](other-links.md)
-* [List of Quotes](quotes.md)
-* [Mazda Mazda3 (2nd Generation / BL) Information](mazda3-bl.md)
-* [File Hashes](hashes.md)
-* [Sound Board](sb/)
-
-# Copyright Notice
-**© 2019 - 2024 Benjamin Steenkamer**
+[Source code for site](https://github.com/bsteen/bsteen.github.io)  
+**© 2019 - 2024 Benjamin Steenkamer** 
