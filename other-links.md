@@ -1,5 +1,5 @@
 A list of videos, papers, and articles I find interesting. The links are ordered in the sequence I come across them, with the top entries of a category being more recent. If a link is dead, there should be a backup of it on the [Wayback Machine](https://web.archive.org/) or possibly [Archive.today](https://archive.today).  
-Last updated: 2024-08-21
+Last updated: 2024-09-11
 
 Table of Contents:
 * [Architecture and Buildings](#architecture-and-buildings)
@@ -267,12 +267,16 @@ Table of Contents:
     * Sound library used by pretty much every movie. Includes classics such as [Pottery Drop Break PE112401](https://soundideas.sourceaudio.com/track/11473610) and [Sm Heavy Metal Door Sl PE185001](https://soundideas.sourceaudio.com/track/11474283).
 
 # Nuclear
+* The Golden Age of Offbeat Arctic Research (2024): <https://undark.org/2024/09/06/wilo-golden-age-offbeat-arctic-research/>
+	* Project Iceworm: <https://en.wikipedia.org/wiki/Project_Iceworm>
+    * Camp Century: <https://en.wikipedia.org/wiki/Camp_Century>
+    * _Kee Bird_: <https://en.wikipedia.org/wiki/Kee_Bird>
 * The Third Atomic Bomb (2024): <https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/>
 	* Third Shot: <https://en.wikipedia.org/wiki/Third_Shot>
 * Windscale fire: <https://en.wikipedia.org/wiki/Windscale_fire>
 * Oklo Mine: <https://en.wikipedia.org/wiki/Oklo_Mine>
 * "Paper Reactor" Memo: <https://whatisnuclear.com/rickover.html>
-*  Savannah River Site: <https://en.wikipedia.org/wiki/Savannah_River_Site>
+* Savannah River Site: <https://en.wikipedia.org/wiki/Savannah_River_Site>
 * Dead Hand: <https://en.wikipedia.org/wiki/Dead_Hand>
 * LOW - Launch on warning: <https://en.wikipedia.org/wiki/Launch_on_warning>
 * List of nuclear close calls: <https://en.wikipedia.org/wiki/List_of_nuclear_close_calls>
