@@ -1,12 +1,14 @@
 # Benjamin Steenkamer
 * [LinkedIn](https://linkedin.com/in/steenkamerben)
 * [GitHub](https://github.com/bsteen)
-* [LeetCode](https://leetcode.com/u/bsteen/)
-* [HackerRank](https://www.hackerrank.com/profile/bsteen)
 * [IEEE Xplore](https://ieeexplore.ieee.org/author/37088505780)
 
 # My Projects & Stuff
 * [My GitHub profile for programming projects](https://github.com/bsteen)
+* Coding Challenge Profiles
+  * [CodeSignal](https://app.codesignal.com/profile/bsteen)
+  * [HackerRank](https://www.hackerrank.com/profile/bsteen)
+  * [LeetCode](https://leetcode.com/u/bsteen/)
 * [List of videos, papers, and articles I find interesting](other-links.md)
 * [List of Quotes](quotes.md)
 * [Mazda Mazda3 (2nd Generation / BL) Information](mazda3-bl.md)
@@ -27,5 +29,6 @@
 * Hamzah Ahmed et al., "[Transitioning the worlds first 1Kx1K Infrared LED Scene Projector Systems from Research and Development (R&D) to Production Level](https://ieeexplore.ieee.org/document/9521400)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2021.
 * Hamzah Ahmed et al., "[Testing, Instrumentation, and Results to make the world’s first usable 1Kx1K Infrared LED Scene Projector Systems](https://ieeexplore.ieee.org/document/9195697)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2020.
 
+# Notice
 [Source code for site](https://github.com/bsteen/bsteen.github.io)  
-**© 2019 - 2024 Benjamin Steenkamer** 
+**© 2019 - 2024 Benjamin Steenkamer**
