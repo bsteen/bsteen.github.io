@@ -5,10 +5,6 @@
 
 # My Projects & Stuff
 * [My GitHub profile for programming projects](https://github.com/bsteen)
-* Coding Challenge Profiles
-  * [CodeSignal](https://app.codesignal.com/profile/bsteen)
-  * [HackerRank](https://www.hackerrank.com/profile/bsteen)
-  * [LeetCode](https://leetcode.com/u/bsteen/)
 * [List of videos, papers, and articles I find interesting](other-links.md)
 * [List of Quotes](quotes.md)
 * [Mazda Mazda3 (2nd Generation / BL) Information](mazda3-bl.md)
