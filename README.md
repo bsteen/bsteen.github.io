@@ -20,7 +20,7 @@
     * Code for this paper: <https://github.com/bsteen/cloud-covert-channels>
 
 ## Other Contributions
-* Kiamilev et al., "Progress Toward Production Grade Infrared LED Scene Projector Systems", in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, TBA 2024.
+* Kiamilev et al., "[Progress Toward Production Grade Infrared LED Scene Projector Systems](https://ieeexplore.ieee.org/document/10646909)", in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2024.
 * Hamzah Ahmed et al., "[CDS's Infrared LED Scene Projector System as a Platform Product](https://ieeexplore.ieee.org/document/9911585)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, September 2022.
 * Hamzah Ahmed et al., "[Transitioning the worlds first 1Kx1K Infrared LED Scene Projector Systems from Research and Development (R&D) to Production Level](https://ieeexplore.ieee.org/document/9521400)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2021.
 * Hamzah Ahmed et al., "[Testing, Instrumentation, and Results to make the world’s first usable 1Kx1K Infrared LED Scene Projector Systems](https://ieeexplore.ieee.org/document/9195697)" in *IEEE Research and Applications of Photonics in Defense Conference (RAPID)*, August 2020.
