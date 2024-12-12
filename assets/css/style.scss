@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  --bg-color: #25282e;
+}
+
+body {
+	background-color: var(--bg-color);
+	color: #fafbfc;
+}
+a {
+	color: #0084ff;
+}
+.highlight,
+.markdown-body .highlight pre{
+	background-color: var(--bg-color); // Fixes code formatting BG color
+}
+.markdown-body table tr th{
+    background-color: var(--bg-color);
+    color:#fafbfc;
+    border: 1px solid #fafbfc;
+}
+.markdown-body table tr:nth-child(odd) {
+	background-color: #333333;
+}
+.markdown-body table tr:nth-child(even) {
+	background-color: var(--bg-color);
+}
