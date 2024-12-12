@@ -19,4 +19,5 @@
 
 # Notice
 [Source code for site](https://github.com/bsteen/bsteen.github.io)
+
 **© 2019 - 2024 Benjamin Steenkamer**
